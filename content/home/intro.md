@@ -12,14 +12,14 @@ headless: true
 # Order that this section appears on the page.
 weight: 15
 
-title: <span style="color:#d2d2d2"><b>Je comprends<b/></span>  <span style="color:#5dc4ff"><b>R<b/></span>
+title: <span style="color:#336600"><b>Ecologie & Entropie<b/></span>
 subtitle: "***Octopons vulgaris***"
 
 
 design:
   columns: "2"
   background:
-    image: .jpg
+    image: arbre.jpg
     image_darken: 0.6
     image_size: cover
     text_color_light: true
