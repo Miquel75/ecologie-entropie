@@ -32,6 +32,6 @@ design:
 <br/>
 
 
-**Pour ceux qui ne comprennent rien à <span style="color:#5dc4ff"><b>R<b/></span> et aux <span style="color:#e8a48b"><b>statistiques<b/></span>, outils essentiels à la recherche en <span style="color:#afe5ac"><b>écologie<b/></span>.**
+**Écologie Scientifique, Écologie Politique, Réchauffement Climatique.**
 
 
