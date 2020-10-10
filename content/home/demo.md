@@ -12,7 +12,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 15
 
-title: <span style="color:#afe5ac"><b>Écologie <br/>&emsp;&nbsp & <br/> Entropie<b/></span>
+title: <span style="color:#afe5ac"><b>Écologie <br/>&emsp;&&nbsp; & <br/> Entropie<b/></span>
 subtitle: "***Octopons vulgaris***"
 
 
