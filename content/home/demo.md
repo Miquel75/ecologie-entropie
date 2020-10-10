@@ -32,6 +32,6 @@ design:
 <br/>
 
 
-<p style="font-size:140%;"><span style="color:#afe5ac">Écologie</span> Scientifique,<br/> &emsp; &emsp; &emsp; &emsp; <span style="color:#afe5ac">Écologie</span> Politique,<br/> &emsp; &emsp;&emsp; &emsp;  &emsp; &emsp; &emsp; &emsp; <span style="color:#bebebe">Réchauffement Climatique.</span><p/>
+<p style="font-size:140%;"><span style="color:#afe5ac">Écologie</span> <span style="color:#bebebe">Scientifique</span><p/>,<br/> &emsp; &emsp; &emsp; &emsp; <span style="color:#afe5ac">Écologie</span> <span style="color:#bebebe">Politique</span><p/>,<br/> &emsp; &emsp;&emsp; &emsp;  &emsp; &emsp; &emsp; &emsp; <span style="color:#bebebe">Réchauffement Climatique.</span><p/>
 
 
