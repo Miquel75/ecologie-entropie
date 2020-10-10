@@ -5,7 +5,7 @@ name = "my_theme"
 light = true
 
 # Primary
-primary = "#480404"
+primary = "#850606"
 
 # Menu
 menu_primary = "#336600"
@@ -14,7 +14,7 @@ menu_text_active = "#ffffff"
 menu_title = "#fffff"
 
 # Backgrounds
-background = "#336600"
+background = "#F6FFF6"
 home_section_odd = "#F6FFF6"
 home_section_even = "#F6FFF6"
 
