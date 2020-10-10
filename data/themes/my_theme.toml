@@ -8,15 +8,15 @@ light = true
 primary = "#480404"
 
 # Menu
-menu_primary = "#F8FFF8"
+menu_primary = "#336600"
 menu_text = "#ffffff"
 menu_text_active = "#ffffff"
 menu_title = "#fffff"
 
 # Backgrounds
-background = "#F8FFF8"
-home_section_odd = "#F8FFF8"
-home_section_even = "#F8FFF8"
+background = "#336600"
+home_section_odd = "#F6FFF6"
+home_section_even = "#F6FFF6"
 
 font = "rose"
 
