@@ -32,6 +32,6 @@ design:
 <br/>
 
 
-<p style="font-size:160%;">Écologie Scientifique,<br/> &emsp; &emsp; Écologie Politique,<br/> &emsp; &emsp;&emsp; &emsp; Réchauffement Climatique.<p/>
+<p style="font-size:160%;">Écologie Scientifique,<br/> &emsp; &emsp; &emsp; &emsp; Écologie Politique,<br/> &emsp; &emsp;&emsp; &emsp;  &emsp; &emsp; &emsp; &emsp; Réchauffement Climatique.<p/>
 
 
