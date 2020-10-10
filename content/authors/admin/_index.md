@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Nelson Bighetti
-
+title: Miquel Pons
+image: avatar.png
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Marine Biologist
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+#- name: Octopons vulgaris
+# url: "https://commons.wikimedia.org/wiki/File:Octopus_vulgaris_Merculiano.jpg"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Passionné par l'écologie, je souhaite conserver la biodiversité. Octopons vulgaris regroupe mes sites dédiés à la vulgarisation afin de transmettre connaissances et outils permettant la conservation de la biodiversité.
 
 #interests:
 #- Artificial Intelligence
@@ -41,12 +41,12 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'about/#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+# icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/GeorgeCushen
+# icon: github
+#  icon_pack: fab
+#  link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -62,7 +62,16 @@ social:
 #- Researchers
 #- Visitors
 ---
+ <span style="color:#5f96d7"><b>Je comprends R<b/></span>
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Ce blog me permet de structurer mes connaissances et de transmettre ce que j'apprends. Il prend source dans mes différentes expérience avec ce logiciel de programmation et avec les biostatistiques. Ce sont des outils essentiels à de nombreux projet, notamment la recherche en écologie.
+  
+S'il donne un jour un coup de pouce à quelqu'un dans le cadre d'un projet d'écologie ou de conservation du vivant, ce blog aura atteint tous ses objectifs. 
+  
+      
+<span style="color:#4f5356"><i>Dis moi et j'oublie. Montre moi et je me souviens. Implique moi et je comprends. <br/>"Xun Zi"<i/></span> 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+
+
+
+
