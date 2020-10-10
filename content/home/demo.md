@@ -12,7 +12,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 15
 
-title: <span style="color:#d2d2d2"><b>Écologie <br/> & <br/> Entropie<b/></span>
+title: <span style="color:#afe5ac"><b>Écologie <br/>&emsp; & <br/> Entropie<b/></span>
 subtitle: "***Octopons vulgaris***"
 
 
@@ -32,6 +32,6 @@ design:
 <br/>
 
 
-<p style="font-size:140%;">Écologie Scientifique,<br/> &emsp; &emsp; &emsp; &emsp; Écologie Politique,<br/> &emsp; &emsp;&emsp; &emsp;  &emsp; &emsp; &emsp; &emsp; Réchauffement Climatique.<p/>
+<p style="font-size:140%;"><span style="color:#afe5ac">Écologie</span> Scientifique,<br/> &emsp; &emsp; &emsp; &emsp; <span style="color:#afe5ac">Écologie</span> Politique,<br/> &emsp; &emsp;&emsp; &emsp;  &emsp; &emsp; &emsp; &emsp; <span style="color:#f95c5c">Réchauffement</span> Climatique.<p/>
 
 
