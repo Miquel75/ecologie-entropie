@@ -30,4 +30,9 @@
   #pre = "<i class=\"far fa-envelope fa-ms \"></i>"
   url = "contact/"
   weight = 5
+[[main]]
+  name = " Index"
+  #pre = "<i class=\"far fa-envelope fa-ms \"></i>"
+  url = "index/"
+  weight = 6
   
