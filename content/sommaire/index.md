@@ -1,6 +1,6 @@
 ---
 # Display name
-title: SOMMAIRE
+title: Sommaire
 
 # Is this the primary user of the site?
 superuser: true
@@ -64,9 +64,6 @@ social:
 ---
 
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 1.	Equation de Kaya
 2.	L’écologie
 3.	L’entropie
