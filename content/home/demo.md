@@ -19,7 +19,7 @@ subtitle: "***Octopons vulgaris***"
 design:
   columns: "2"
   background:
-    image: poulpe.jpg
+    image: mouton.jpg
     image_darken: 0.4
     image_size: cover 
     text_color_light: true
