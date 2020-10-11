@@ -27,15 +27,10 @@ design:
     padding: ["20px", "0", "20px", "0"]
 ---
 
-<br/>
-
-
-<p style="font-size:180%;"><span style="color:#afe5ac">Écologie</span> Scientifique<br/>  &emsp; &emsp; &emsp; &emsp; <span style="color:#afe5ac">Écologie</span> Politique<p/>
-
 
 <br/>
 
 
-<p style="font-size:180%;">Informations sur la <span style="color:#4aa845">biodiversité</span>, le <span style="color:#b0b0b0">réchauffement climatique</span>, <span style="color:#e6581f">l'energie</span> , et autres sujets gravitant autour de l'<span style="color:#afe5ac">écologie</span>. Chaque publication est sourcé. </p>
+<p style="font-size:140%;">Informations sur la <span style="color:#4aa845">biodiversité</span>, le <span style="color:#b0b0b0">réchauffement climatique</span>, <span style="color:#e6581f">l'energie</span> , et autres sujets gravitant autour de l'<span style="color:#afe5ac">écologie</span>. Chaque publication est sourcé. </p>
 
 
