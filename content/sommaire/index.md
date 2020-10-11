@@ -63,6 +63,7 @@ social:
 #- Visitors
 ---
 
+Publications à venir ou écrites
 
 1.	Equation de Kaya
 2.	L’écologie

@@ -20,9 +20,9 @@
   url = "/categories"
   weight = 3
 [[main]]
-  name = " Tags"
-  #pre = "<i class=\"fas fa-tags fa-ms\"></i>"
-  url = "/tags"
+  name = " Sommaire"
+  #pre = "<i class=\"far fa-envelope fa-ms \"></i>"
+  url = "sommaire/"
   weight = 4
   
 [[main]]
@@ -30,9 +30,5 @@
   #pre = "<i class=\"far fa-envelope fa-ms \"></i>"
   url = "contact/"
   weight = 5
-[[main]]
-  name = " Sommaire"
-  #pre = "<i class=\"far fa-envelope fa-ms \"></i>"
-  url = "sommaire/"
-  weight = 6
+
   
