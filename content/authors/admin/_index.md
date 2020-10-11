@@ -62,11 +62,17 @@ social:
 #- Researchers
 #- Visitors
 ---
- <span style="color:#5f96d7"><b>Je comprends R<b/></span>
+ <span style="color:#5f96d7"><b>Écologie&Entropie<b/></span>
 
-Ce blog me permet de structurer mes connaissances et de transmettre ce que j'apprends. Il prend source dans mes différentes expérience avec ce logiciel de programmation et avec les biostatistiques. Ce sont des outils essentiels à de nombreux projet, notamment la recherche en écologie.
-  
-S'il donne un jour un coup de pouce à quelqu'un dans le cadre d'un projet d'écologie ou de conservation du vivant, ce blog aura atteint tous ses objectifs. 
+Ce blog me permet de structurer mes connaissances et de transmettre ce que j'apprends. Il prend source dans mes différentes expériences et lectures en écologie. 
+
+Il fait la synthèses de sujets gravitant autour de l’écologie, certains que l’on connait depuis longtemps et qu’il serait bon de réviser, d’autre nouveaux que l’on découvre avec intérêt. 
+Les post sont écrits pour
+- Un public large souhaitant s’informer ou partager l’information à son entourage. 
+- Un public averti qui souhaiterait réviser, avoir de nouvelles informations et s’ouvrir à d’autres domaines.
+
+Chaque post est sourcé. 
+
   
       
 <span style="color:#4f5356"><i>Dis moi et j'oublie. Montre moi et je me souviens. Implique moi et je comprends. <br/>"Xun Zi"<i/></span> 
