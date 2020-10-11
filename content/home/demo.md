@@ -20,8 +20,8 @@ design:
   columns: "2"
   background:
     image: branche.jpg
-    image_darken: 0.6
-    image_size: cover
+    image_darken: 0.4
+    image_size: actual 
     text_color_light: true
   spacing:
     padding: ["20px", "0", "20px", "0"]
