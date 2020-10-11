@@ -31,8 +31,8 @@
   url = "contact/"
   weight = 5
 [[main]]
-  name = " Index"
+  name = " Sommaire"
   #pre = "<i class=\"far fa-envelope fa-ms \"></i>"
-  url = "index/"
+  url = "sommaire/"
   weight = 6
   
