@@ -31,6 +31,6 @@ design:
 <br/>
 
 
-<p style="font-size:130%;">Informations sur la <span style="color:#afe5ac">biodiversité</span>, le <span style="color:#dcdcdc">réchauffement climatique</span>, <span style="color:#e8a48b">l'energie</span>, et autres sujets d'écologie.</p>
+<p style="font-size:130%;">Informations sur <span style="color:#afe5ac">la biodiversité</span>, <span style="color:#a0a0a0">le réchauffement climatique</span>, <span style="color:#e8a48b">l'energie</span>, et autres sujets d'écologie.</p>
 
 
