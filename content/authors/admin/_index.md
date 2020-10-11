@@ -62,7 +62,7 @@ social:
 #- Researchers
 #- Visitors
 ---
- <span style="color:#5f96d7"><b>Écologie&Entropie<b/></span>
+ <p style="font-size:130%;"><span style="color:#afe5ac"><b>Écologie&Entropie<b/></span></p>
 
 Ce blog me permet de structurer mes connaissances et de transmettre ce que j'apprends. Il prend source dans mes différentes expériences et lectures en écologie. 
 
@@ -73,9 +73,6 @@ Les post sont écrits pour
 
 Chaque post est sourcé. 
 
-  
-      
-<span style="color:#4f5356"><i>Dis moi et j'oublie. Montre moi et je me souviens. Implique moi et je comprends. <br/>"Xun Zi"<i/></span> 
 
 
 
