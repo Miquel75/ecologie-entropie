@@ -19,7 +19,7 @@ subtitle: "***Octopons vulgaris***"
 design:
   columns: "2"
   background:
-    image: feuilles.jpg
+    image: arbre.jpg
     image_darken: 0.6
     image_size: cover
     text_color_light: true
