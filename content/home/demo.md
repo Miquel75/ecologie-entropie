@@ -31,12 +31,6 @@ design:
 
 <br/>
 
-
-<p style="font-size:180%;"><span style="color:#afe5ac">Écologie</span> Scientifique<br/>  &emsp; &emsp; &emsp; &emsp; <span style="color:#afe5ac">Écologie</span> Politique<p/>
-
-
-<br/>
-
-Informations sur la biodiversité, le réchauffement climatique, l'énergie, et bien d'autres ujet gravitant autour de l'écologie. Chaque publication est sourcé. 
+Informations sur la <span style="color:#4aa845">biodiversité</span>, le <span style="color:#b0b0b0">réchauffement climatique</span>,l'<span style="color:#afe5ac">energie</span> , et autres sujets gravitant autour de l'<span style="color:#afe5ac">écologie</span>. Chaque publication est sourcé. 
 
 
