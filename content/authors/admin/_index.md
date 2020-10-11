@@ -62,7 +62,7 @@ social:
 #- Researchers
 #- Visitors
 ---
- <p style="font-size:130%;"><span style="color:#afe5ac"><b>Écologie&Entropie<b/></span></p>
+ <p style="font-size:130%;"><span style="color:#6bbf66"><b>Écologie&Entropie<b/></span></p>
 
 Ce blog me permet de structurer mes connaissances et de transmettre ce que j'apprends. Il prend source dans mes différentes expériences et lectures en écologie. 
 
