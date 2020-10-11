@@ -26,9 +26,10 @@
   weight = 4
   
 [[main]]
-  name = " Contact"
+  name = " A-propos et Contact"
   #pre = "<i class=\"far fa-envelope fa-ms \"></i>"
   url = "contact/"
   weight = 5
+
 
   
