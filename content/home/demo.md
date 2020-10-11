@@ -21,7 +21,7 @@ design:
   background:
     image: branche.jpg
     image_darken: 0.4
-    image_size: contain 
+    image_size: cover 
     text_color_light: true
   spacing:
     padding: ["20px", "0", "20px", "0"]
