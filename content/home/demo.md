@@ -19,7 +19,7 @@ subtitle: "***Octopons vulgaris***"
 design:
   columns: "2"
   background:
-    image: feuilles.jpg
+    image: feuille3.jpg
     image_darken: 0.4
     image_size: cover 
     text_color_light: true
@@ -31,6 +31,6 @@ design:
 <br/>
 
 
-<p style="font-size:130%;">Informations sur la <span style="color:#afe5ac">biodiversité</span>, le <span style="color:#b0b0b0">réchauffement climatique</span>, <span style="color:#e6581f">l'energie</span>, et autres.</p>
+<p style="font-size:130%;">Informations sur la <span style="color:#afe5ac">biodiversité</span>, le <span style="color:#b0b0b0">réchauffement climatique</span>, <span style="color:#e6581f">l'energie</span>, et autres sujet d'écologie.</p>
 
 
