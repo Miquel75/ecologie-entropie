@@ -17,7 +17,7 @@ subtitle: "***Octopons vulgaris***"
 
 
 design:
-  columns: "1"
+  columns: "3"
   background:
     image: frog.jpg
     image_darken: 0.4
@@ -33,5 +33,10 @@ design:
 
 
 <p style="font-size:180%;"><span style="color:#afe5ac">Écologie</span> Scientifique<br/>  &emsp; &emsp; &emsp; &emsp; <span style="color:#afe5ac">Écologie</span> Politique<p/>
+
+
+<br/>
+
+Informations sur l'écologie, la biodiversité, le réchauffement climatique, l'énergie, et bien d'autres. Chaque Post est sourcé. 
 
 
