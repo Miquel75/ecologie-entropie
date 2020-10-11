@@ -17,7 +17,7 @@ subtitle: "***Octopons vulgaris***"
 
 
 design:
-  columns: "3"
+  columns: "2"
   background:
     image: frog.jpg
     image_darken: 0.4
@@ -37,6 +37,6 @@ design:
 
 <br/>
 
-Informations sur l'écologie, la biodiversité, le réchauffement climatique, l'énergie, et bien d'autres. Chaque Post est sourcé. 
+Informations sur la biodiversité, le réchauffement climatique, l'énergie, et bien d'autres ujet gravitant autour de l'écologie. Chaque publication est sourcé. 
 
 
