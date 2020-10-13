@@ -64,10 +64,10 @@ social:
 ---
  <p style="font-size:130%;"><span style="color:#6bbf66"><b>Écologie&Entropie<b/></span></p>
 
-Ce blog me permet de structurer mes connaissances et de transmettre ce que j'apprends. Il prend source dans mes différentes expériences et lectures en écologie. 
+Ce blog me permet de structurer mes connaissances et de transmettre ce que j'apprends. Il prend source dans mes différentes expériences et lectures.
 
 Il fait la synthèses de sujets gravitant autour de l’écologie, certains que l’on connait depuis longtemps et qu’il serait bon de réviser, d’autre nouveaux que l’on découvre avec intérêt. 
-Les post sont écrits pour
+Les post sont écrits pour :
 - Un public large souhaitant s’informer ou partager l’information à son entourage. 
 - Un public averti qui souhaiterait réviser, avoir de nouvelles informations et s’ouvrir à d’autres domaines.
 
