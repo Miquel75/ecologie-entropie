@@ -65,8 +65,8 @@ social:
 
 Publications à venir ou écrites
 
-SOMMAIRE  
-I.	ÉCOLOGIE  
+
+#I.	ÉCOLOGIE  
 1.	L’écologie c’est quoi ?  
 2.	Méthodes d’étude et de conservation  
 a.	Comment fonctionne la science ?  
@@ -100,7 +100,7 @@ f.	La théorie des jeux le dilemme du prisonnier
 g.	Homosapiens  
 5.	L’espèce du mois   
 
-II.	MENACES SUR LES ÉCOSYSTÈMES  
+#II.	MENACES SUR LES ÉCOSYSTÈMES  
 6.	Réchauffement climatique  
 a.	Fonctionnement  
 b.	Co2 et gaz à effet de serre  
@@ -119,7 +119,7 @@ f.	Pollution plastique/recyclage
 g.	Pollution chimique  
 9.	Les espèces invasives  
 
-III.	ÉNERGIE  
+#III.	ÉNERGIE  
 10.	Première et Seconde loi de la Thermodynamique  
 11.	EROI/TRE Facteur de charge  
 12.	Energie Fossiles  
@@ -143,7 +143,7 @@ c.	Les déchets
 d.	ASN UNSCEAR et le GIECC a propos du nucléaire  
 15.	ENR vs Nuc : Le grand débat  
   
-IV.	ÉCOLOGIE POLITIQUE  
+#IV.	ÉCOLOGIE POLITIQUE  
 16.	Organisation globale – État des lieux  
 a.	Capitalisme (Vincent Mignerot)  
 b.	Démographie   
@@ -183,7 +183,7 @@ iv.	Le train
 h.	Changer de Banque  
 
 
-V.	POUR LE FUN  
+#V.	POUR LE FUN  
 18.	L’écologie dans le Seigneur des Anneaux  
 19.	Age of Empire (parallèle sympathique de la gestion des ressources dans le jeu de stratégie et dans la réalité)  
 20.	Quelques memes d’écologie ça fait plaisir sisi (plusieurs fois ! Une fois par mois ?)  
