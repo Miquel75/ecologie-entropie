@@ -65,120 +65,126 @@ social:
 
 Publications à venir ou écrites
 
-I.	ÉCOLOGIE
-1.	L’écologie c’est quoi ?
-2.	Méthodes d’étude et de conservation
-a.	Comment fonctionne la science ?
-b.	Les sciences participatives
-c.	L’importance du suivi d’espèce
-d.	Aire marine protégé
-e.	Sensibilisation
-f.	L’otolithométrie
-g.	R
-3.	La biodiversité 
-a.	Indicateur – richesse spécifique
-b.	Pourquoi préserver la biodiversité ? 
-4.	Décrire des écosystèmes 
-a.	Subarctique par exemple les différentes espèces d’Islande et leurs particularités, ouvrir le sujet du plancton vite fait lien vers le post sur le plancton),
-b.	La Mer Méditerranée
-c.	La Forêt
-d.	Abysses
-e.	Les coraux
-f.	Les mangroves
-g.	Le désert
-h.	La montagne
-i.	Le plancton/krill 
-5.	Concepts d’écologie
-a.	Grandes théories
-i.	Darwin et la théorie de l’évolution
-ii.	Dawkins et le gène égoïste
-b.	La culture chez les animaux / les memes (Dawkins)
-c.	L’hétérogénéité individuelle dans le monde animal
-d.	Le sonar Dauphin vs Chauve-Souris
-e.	La plongée chez les mammifères
-f.	La théorie des jeux le dilemme du prisonnier
-g.	Homosapiens
-6.	L’espèce du mois 
+SOMMAIRE  
+I.	ÉCOLOGIE  
+1.	L’écologie c’est quoi ?  
+2.	Méthodes d’étude et de conservation  
+a.	Comment fonctionne la science ?  
+b.	Les sciences participatives  
+c.	L’importance du suivi d’espèce  
+d.	Aire marine protégé  
+e.	Sensibilisation  
+f.	L’otolithométrie  
+g.	R  
+3.	Biodiversité  
+a.	Indicateur – richesse spécifique  
+b.	Pourquoi préserver la biodiversité ?   
+c.	Subarctique  
+d.	La Mer Méditerranée  
+e.	La Forêt  
+f.	Abysses  
+g.	Les coraux  
+h.	Les mangroves  
+i.	Le désert  
+j.	La montagne  
+k.	Le plancton/krill   
+4.	Concepts d’écologie  
+a.	Grandes théories 
+i.	Darwin et la théorie de l’évolution  
+ii.	Dawkins et le gène égoïste  
+b.	La culture chez les animaux / les memes (Dawkins)  
+c.	L’hétérogénéité individuelle dans le monde animal  
+d.	Le sonar Dauphin vs Chauve-Souris  
+e.	La plongée chez les mammifères  
+f.	La théorie des jeux le dilemme du prisonnier  
+g.	Homosapiens  
+5.	L’espèce du mois   
 
-II.	MENACES SUR LES ÉCOSYSTÈMES
-7.	Réchauffement climatique
-a.	Fonctionnement
-b.	Co2 et gaz à effet de serre
-c.	Quelques arguments climatosceptiques
-8.	Conséquences du RC
-a.	La sècheresse
-b.	Les incendies
-c.	Les tempêtes cyclone tornades etc..
-9.	Destruction des habitats
-a.	Construction, bétonisation (le sable 3eme ressource et pénurie)
-b.	L’appauvrissement des sols
-c.	Déforestation
-d.	Pollution sonore
-e.	Pollution plastique/recyclage
-f.	Pollution chimique
-10.	Les espèces invasives
+II.	MENACES SUR LES ÉCOSYSTÈMES  
+6.	Réchauffement climatique  
+a.	Fonctionnement  
+b.	Co2 et gaz à effet de serre  
+c.	Quelques arguments climatosceptiques  
+7.	Conséquences du RC  
+a.	La sècheresse  
+b.	Les incendies  
+c.	Les tempêtes cyclone tornades etc..  
+8.	Destruction des habitats  
+a.	Construction, bétonisation (le sable 3eme ressource et pénurie)  
+b.	L’appauvrissement des sols  
+c.	Agroalimentaire - Déforestation  
+d.	La pêche  
+e.	Pollution sonore  
+f.	Pollution plastique/recyclage  
+g.	Pollution chimique  
+9.	Les espèces invasives  
 
-III.	ÉNERGIE
-11.	Première et Seconde loi de la Thermodynamique
-12.	Energie Fossiles
-a.	Pétrole (dérivés plastique diesel etc..)
-b.	Charbon
-c.	Gaz
-13.	ENR
-a.	Etat des lieux
-b.	Eolien
-c.	Panneaux solaires
-d.	Hydroéléctrique
-e.	Géothermie
-f.	Biocombustible
-g.	Nouvelles pistes
-14.	Le nucléaire 
-a.	CO2
-b.	Le fonctionnement 
-c.	Les déchets
-d.	ASN UNSCEAR et le GIECC a propos du nucléaire
-15.	ENR vs Nuc : Le grand débat
+III.	ÉNERGIE  
+10.	Première et Seconde loi de la Thermodynamique  
+11.	EROI/TRE Facteur de charge  
+12.	Energie Fossiles  
+a.	Pétrole (dérivés plastique diesel etc..)  
+i.	Conventionnel  
+ii.	Pétrole de Schiste et sable bitumineux   
+b.	Charbon  
+c.	Gaz  
+13.	ENR  
+a.	Etat des lieux  
+b.	Eolien  
+c.	Panneaux solaires  
+d.	Hydroéléctrique  
+e.	Géothermie  
+f.	Biocombustible  
+g.	Nouvelles pistes  
+14.	Le nucléaire   
+a.	CO2  
+b.	Le fonctionnement     
+c.	Les déchets  
+d.	ASN UNSCEAR et le GIECC a propos du nucléaire  
+15.	ENR vs Nuc : Le grand débat  
+  
+IV.	ÉCOLOGIE POLITIQUE  
+16.	Organisation globale – État des lieux  
+a.	Capitalisme (Vincent Mignerot)  
+b.	Démographie   
+c.	Alimentation  
+d.	Numérique(5G)   
+e.	Transport  
+f.	Réchauffement climatique  
+g.	Empreinte carbone   
+i.	La responsabilité individuelle  
+ii.	La responsabilité collective  
+h.	L’effet rebond  
+i.	Greenwashing    
+j.	Effondrement    
+k.	Equation de Kaya   
+l.	Rapport Meadow et inaction politique  
+m.	Pourquoi l’économie la croissance n’est pas adaptée au réel ?   
+17.	Transition –Solutions  
+a.	Décroissance  
+b.	Démographie (malthus)  
+c.	Stratégies (violence/non-violence (extrait abbé pierre), modes d’action, sensibilisation)  
+d.	Sobriété numérique  
+e.	Un système qui se défend   
+i.	Attaque de khmer verts, amish…)   
+ii.	Le sens des mots éléments de langages manipulation et rhétorique ?   
+iii.	Conflits d’intérêts  
+iv.	Financement campagne 7500€ 5000€ de diminution impôt sur le revenu  
+v.	Démocracie et médias, blackrock plus grand deforesteur du monde, conseille d’écologie EU  
+f.	Alimentation   
+i.	Permaculture   
+ii.	Agroforesterie et autres..  
+iii.	Régime végétarien vegan..  
+g.	Transport  
+i.	L’avion    
+ii.	Voiture électrique vs voiture thermique   
+iii.	Vélo et trottinette électrique vs transport en commun   
+iv.	Le train  
+h.	Changer de Banque  
 
-IV.	ÉCOLOGIE POLITIQUE
-16.	Organisation globale – État des lieux
-a.	Capitalisme (Vincent Mignerot)
-b.	Démographie 
-c.	Alimentation
-d.	Numérique(5G) 
-e.	Transport
-f.	Réchauffement climatique
-g.	Empreinte carbone 
-i.	La responsabilité individuelle
-ii.	La responsabilité collective
-h.	L’effet rebond
-i.	Greenwashing
-j.	Effondrement
-k.	Equation de Kaya
-l.	Rapport Meadow et inaction politique
-m.	Pourquoi l’économie la croissance n’est pas adaptée au réel ?
-17.	Transition –Solutions
-a.	Décroissance
-b.	Démographie (malthus)
-c.	Stratégies (violence/non-violence, modes d’action, sensibilisation)
-d.	Sobriété numérique
-e.	Un système qui se défend 
-i.	Attaque de khmer verts, amish…) 
-ii.	Le sens des mots éléments de langages manipulation et rhétorique ? 
-iii.	Conflits d’intérêts
-f.	Alimentation
-i.	Permaculture
-ii.	Agroforesterie et autres..
-iii.	Régime végétarien vegan..
-g.	Transport
-i.	L’avion
-ii.	Voiture électrique vs voiture thermique
-iii.	Vélo et trottinette électrique vs transport en commun
-iv.	Le train
-h.	Changer de Banque
 
-
-V.	POUR LE FUN
-18.	L’écologie dans le Seigneur des Anneaux
-19.	Age of Empire (parallèle sympathique de la gestion des ressources dans le jeu de stratégie et dans la réalité)
-20.	Quelques memes d’écologie ça fait plaisir sisi (plusieurs fois ! Une fois par mois ?)
+V.	POUR LE FUN  
+18.	L’écologie dans le Seigneur des Anneaux  
+19.	Age of Empire (parallèle sympathique de la gestion des ressources dans le jeu de stratégie et dans la réalité)  
+20.	Quelques memes d’écologie ça fait plaisir sisi (plusieurs fois ! Une fois par mois ?)  
 
