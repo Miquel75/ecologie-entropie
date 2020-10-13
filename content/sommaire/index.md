@@ -67,8 +67,8 @@ Publications à venir ou écrites
 
 
 # I.	ÉCOLOGIE  
-1.	L’écologie c’est quoi ?  
-2.	Méthodes d’étude et de conservation  
+1.	**L’écologie c’est quoi ?**  
+2.	**Méthodes d’étude et de conservation**  
 a.	Comment fonctionne la science ?  
 b.	Les sciences participatives  
 c.	L’importance du suivi d’espèce  
@@ -88,7 +88,7 @@ h.	Les mangroves
 i.	Le désert  
 j.	La montagne  
 k.	Le plancton/krill   
-4.	Concepts d’écologie  
+4.	**Concepts d’écologie**  
 a.	Grandes théories 
 i.	Darwin et la théorie de l’évolution  
 ii.	Dawkins et le gène égoïste  
@@ -98,18 +98,18 @@ d.	Le sonar Dauphin vs Chauve-Souris
 e.	La plongée chez les mammifères  
 f.	La théorie des jeux le dilemme du prisonnier  
 g.	Homosapiens  
-5.	L’espèce du mois   
+5.	**L’espèce du mois**   
 
-# II.	MENACES SUR LES ÉCOSYSTÈMES  
-6.	Réchauffement climatique  
+# II.	MENACES
+1.	**Réchauffement climatique**  
 a.	Fonctionnement  
 b.	Co2 et gaz à effet de serre  
 c.	Quelques arguments climatosceptiques  
-7.	Conséquences du RC  
+7.	**Conséquences du RC**  
 a.	La sècheresse  
 b.	Les incendies  
 c.	Les tempêtes cyclone tornades etc..  
-8.	Destruction des habitats  
+8.	**Destruction des habitats**  
 a.	Construction, bétonisation (le sable 3eme ressource et pénurie)  
 b.	L’appauvrissement des sols  
 c.	Agroalimentaire - Déforestation  
@@ -117,18 +117,18 @@ d.	La pêche
 e.	Pollution sonore  
 f.	Pollution plastique/recyclage  
 g.	Pollution chimique  
-9.	Les espèces invasives  
+9.	**Les espèces invasives**  
 
 # III.	ÉNERGIE  
-10.	Première et Seconde loi de la Thermodynamique  
-11.	EROI/TRE Facteur de charge  
-12.	Energie Fossiles  
+10.	**Première et Seconde loi de la Thermodynamique**  
+11.	**EROI/TRE Facteur de charge**  
+12.	**Energie Fossiles**  
 a.	Pétrole (dérivés plastique diesel etc..)  
 i.	Conventionnel  
 ii.	Pétrole de Schiste et sable bitumineux   
 b.	Charbon  
 c.	Gaz  
-13.	ENR  
+13.	**ENR**  
 a.	Etat des lieux  
 b.	Eolien  
 c.	Panneaux solaires  
@@ -136,15 +136,15 @@ d.	Hydroéléctrique
 e.	Géothermie  
 f.	Biocombustible  
 g.	Nouvelles pistes  
-14.	Le nucléaire   
+14.	**Le nucléaire**   
 a.	CO2  
 b.	Le fonctionnement     
 c.	Les déchets  
 d.	ASN UNSCEAR et le GIECC a propos du nucléaire  
-15.	ENR vs Nuc : Le grand débat  
+15.	**ENR vs Nuc : Le grand débat**  
   
 # IV.	ÉCOLOGIE POLITIQUE  
-16.	Organisation globale – État des lieux  
+16.	**Organisation globale – État des lieux**  
 a.	Capitalisme (Vincent Mignerot)  
 b.	Démographie   
 c.	Alimentation  
@@ -160,7 +160,7 @@ j.	Effondrement
 k.	Equation de Kaya   
 l.	Rapport Meadow et inaction politique  
 m.	Pourquoi l’économie la croissance n’est pas adaptée au réel ?   
-17.	Transition –Solutions  
+17.	**Transition –Solutions**  
 a.	Décroissance  
 b.	Démographie (malthus)  
 c.	Stratégies (violence/non-violence (extrait abbé pierre), modes d’action, sensibilisation)  
