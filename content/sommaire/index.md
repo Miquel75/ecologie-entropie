@@ -76,7 +76,7 @@ d.	Aire marine protégé
 e.	Sensibilisation  
 f.	L’otolithométrie  
 g.	R  
-3.	Biodiversité  
+3.	**Biodiversité**  
 a.	Indicateur – richesse spécifique  
 b.	Pourquoi préserver la biodiversité ?   
 c.	Subarctique  
@@ -101,7 +101,7 @@ g.	Homosapiens
 5.	**L’espèce du mois**   
 
 # II.	MENACES
-1.	**Réchauffement climatique**  
+6.	**Réchauffement climatique**  
 a.	Fonctionnement  
 b.	Co2 et gaz à effet de serre  
 c.	Quelques arguments climatosceptiques  
@@ -184,7 +184,7 @@ h.	Changer de Banque
 
 
 # V.	POUR LE FUN  
-18.	L’écologie dans le Seigneur des Anneaux  
-19.	Age of Empire (parallèle sympathique de la gestion des ressources dans le jeu de stratégie et dans la réalité)  
-20.	Quelques memes d’écologie ça fait plaisir sisi (plusieurs fois ! Une fois par mois ?)  
+L’écologie dans le Seigneur des Anneaux  
+Age of Empire (parallèle sympathique de la gestion des ressources dans le jeu de stratégie et dans la réalité)  
+Quelques memes d’écologie ça fait plaisir sisi (plusieurs fois ! Une fois par mois ?)  
 
