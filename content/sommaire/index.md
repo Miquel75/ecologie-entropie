@@ -89,10 +89,10 @@ I.	Le désert
 J.	La montagne  
 K.	Le plancton/krill   
 4.	**Concepts d’écologie**  
-A.	Grandes théories  
-a.	Darwin et la théorie de l’évolution  
-b.	Dawkins et le gène égoïste  
-B.	La culture chez les animaux / es memes (Dawkins)  
+4.1.	Grandes théories  
+4.1.1.	Darwin et la théorie de l’évolution  
+4.1.2.	Dawkins et le gène égoïste  
+4.2.	La culture chez les animaux / es memes (Dawkins)  
 C.	L’hétérogénéité individuelle dans le monde animal  
 D.	Le sonar Dauphin vs Chauve-Souris  
 E.	La plongée chez les mammifères    
