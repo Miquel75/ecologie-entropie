@@ -46,7 +46,7 @@ Les sciences participatives sont des programmes scientifiques dont les contribut
     src="/media/merou.jpg"
     alt="mérou"
     title="Mérou Photos FFESSM">
-les entreprises de whale-watching qui transmettent leurs photos de nageoires de cétacés permettant de les identifier par <a href="https://ecologieetentropie.netlify.app/post>CMR</a>,
+les entreprises de whale-watching qui transmettent leurs photos de nageoires de cétacés permettant de les identifier par <a href="https://ecologieetentropie.netlify.app/post> CMR </a>,
 <img class="fit-picture"
       src="/media/fluke.jpg"
       alt="fluke"
@@ -54,6 +54,7 @@ les entreprises de whale-watching qui transmettent leurs photos de nageoires de 
 les amateurs d’oiseaux qui décrivent combien de mésanges à longue queue ils ont vu, quand et où. 
 <img class="fit-picture" 
       src="/media/mesange.jpg"
+      width="200" height="200"
       alt="mésange"
       title="dominique ponthier"> 
 
@@ -79,7 +80,7 @@ Sur quels sujets les sciences participatives sont-elles utilisées ?
      src="/media/thème étude sp.png"
      alt="archipel de themes"
      title="Houllier, F., & Merilhou-Goudard, J.-B. (n.d.). Les sciences participatives en France 64.">
->
+
 Comme vous pouvez le constater sur cette étude représentant les 200 principaux journaux publiant sur les sciences participatives dans le monde, de nombreux sujets sont abordés.
 Cet archipel de thèmes permet d’observer la grande diversité de sujets et de participants.
 
