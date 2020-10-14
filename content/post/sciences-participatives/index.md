@@ -11,7 +11,7 @@ categories:
 - écologie scientifique
 
 date: Sys.Date()
-lastmod: "2020-10-11T00:00:00Z"
+lastmod: "2020-10-14T00:00:00Z"
 featured: false
 draft: false
 
@@ -31,8 +31,6 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-
-
 
 
 ---
