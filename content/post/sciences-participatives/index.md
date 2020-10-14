@@ -37,7 +37,7 @@ projects: []
 
 ---
 
-LES SCIENCES PARTICIPATIVES
+
 
 ### **Qu’est-ce que c’est ?**
 
@@ -89,7 +89,7 @@ En France les domaines où les sciences participatives sont très utilisées son
 
 Les données n’étant pas acquise dans un cadre professionnel il y a un biais statistique problématique pouvant mener à sous-estimer ou surestimer l’abondance d’une espèce. 
 
-Déjà il est difficile de pérenniser l’effort des volontaires qui donne de leur temps bénévolement. L’acquisition des données en dent de scie rend plus difficiles l’analyse et la gestion de l’environnement. Une diminution d’observations peut être due à la diminution de la population ou à une diminution des observateurs. 
+Déjà il est difficile de pérenniser l’effort des volontaires. L’acquisition des données en dents de scie rend plus difficile l’analyse et la gestion de l’environnement. Une diminution d’observations peut alors être due à la diminution de la population ou à une diminution des observateurs. 
 
 De plus les données d’absences sont souvent absentes des jeux de données ce qui rend impossible de faire la différence entre l’absence d’une espèce dans une zone et sa non-détection. Sans ses données d’absence, on obtient des données **presence-only**, dites opportunistes. On ne sait pas quelles zones ont été prospectées, pendant combien de temps, et par combien d’observateurs si on a uniquement des données d’observation. Si on ne connait pas cet effort d’observation, il est difficile de savoir si toutes les bestioles observées à un endroit sont observées à cet endroit parce que c’est uniquement là qu’elles se trouvent, ou si c’est parce que c’est le seul endroit qui a été prospecté. 
 
@@ -99,8 +99,8 @@ Et enfin des erreurs d’identification peuvent être faites, confondre belette 
      alt="belette-hermine"
      title="https://www.sentinelle-nature-alsace.fr/fr/belette-hermine/"> 
 
-Heureusement de nouveaux modèles statistiques permettent de mieux appréhender ces difficultés. D’une part les données **presence-only** peuvent être utilisées pour caractériser la niche écologique des différentes espèces et de mieux comprendre leur lien avec l’environnement. D’autre part il est possible de corriger les défauts des sciences participatives en les couplant à des suivis professionnels pour lesquels l’effort d’échantillonnage est contrôlé ce qui permet d’estimer avec des stats robustes l’abondance des populations, information essentielle à la gestion de la biodiversité. 
-Les erreurs peuvent être diminuées en donnant aux volontaires un protocole ce qui va homogénéiser les données, et en les encadrant avec un coordinateur formé.
+Heureusement de nouveaux modèles statistiques permettent de mieux appréhender ces difficultés. D’une part les données **presence-only** peuvent être utilisées pour caractériser la niche écologique des différentes espèces et de mieux comprendre leur lien avec l’environnement. D’autre part il est possible de corriger les défauts des données des sciences participatives en les couplant à des suivis professionnels pour lesquels l’effort d’échantillonnage est contrôlé ce qui permet d’estimer avec des stats robustes l’abondance des populations, information essentielle à la gestion de la biodiversité. 
+Enfin, les erreurs peuvent être diminuées en donnant aux volontaires un protocole ce qui va homogénéiser les données, et en les encadrant avec un coordinateur formé.
 
 Il est donc particulièrement intéressant d’utiliser les sciences participatives pour complémenter les études menées par des chercheurs aguerris.
 
@@ -110,7 +110,7 @@ Tu as internet donc informe-toi sur ce qui se fait dans ta zone.
 Sinon il y a ce site https://www.open-sciences-participatives.org/home/.
 
 
-RÉFÉRENCES
+### RÉFÉRENCES
 
 Bonney, R., Shirk, J. L., Phillips, T. B., Wiggins, A., Ballard, H. L., Miller-Rushing, A. J., & Parrish, J. K. (2014). Next Steps for Citizen Science. Science 343, 1436–1437.
 
