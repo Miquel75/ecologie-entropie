@@ -46,7 +46,7 @@ Les sciences participatives sont des programmes scientifiques dont les contribut
     src="/media/merou.jpg"
     alt="mérou"
     title="Mérou Photos FFESSM">
-les entreprises de whale-watching qui transmettent leurs photos de nageoires de cétacés permettant de les identifier par <a href="https://ecologieetentropie.netlify.app/post> CMR </a>,
+les entreprises de whale-watching qui transmettent leurs photos de nageoires de cétacés permettant de les identifier par <a href="https://ecologieetentropie.netlify.app/post"> CMR </a>,
 <img class="fit-picture"
       src="/media/fluke.jpg"
       alt="fluke"
