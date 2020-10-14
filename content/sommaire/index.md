@@ -79,7 +79,7 @@ G.	R
 3.	**Biodiversité**  
 A.	Indicateur – richesse spécifique  
 B.	Pourquoi préserver la biodiversité ?   
-C.	Subarctique par exemple les différentes espèces d’Islande et leurs particularités, ouvrir le sujet du plancton vite fait lien vers le post sur le plancton),  
+C.	Subarctique 
 D.	La Mer Méditerranée  
 E.	La Forêt  
 F.	Abysses  
@@ -108,9 +108,9 @@ C.	Quelques arguments climatosceptiques
 7.	**Conséquences du RC**  
 A.	La sècheresse  
 B.	Les incendies  
-C.	Les tempêtes cyclone tornades etc..  
+C.	Evènement climatique extrêmes
 8.	**Destruction des habitats**  
-A.	Construction, bétonisation (le sable 3eme ressource et pénurie)  
+A.	Construction, Urbanisation
 B.	L’appauvrissement des sols  
 C.	Agroalimentaire - Déforestation  
 D.	La pêche  
@@ -159,18 +159,18 @@ I.	Greenwashing
 J.	Effondrement  
 K.	Equation de Kaya  
 L.	Rapport Meadow et inaction politique  
-M.	Pourquoi l’économie la croissance n’est pas adaptée au réel ?  
+M.	La croissance vs le réél
 17.	**Transition –Solutions**  
 A.	Décroissance  
 B.	Démographie (malthus)  
-C.	Stratégies (violence/non-violence (extrait abbé pierre), modes d’action, sensibilisation)  
+C.	Stratégies   
 D.	Sobriété numérique    
 E.	Un système qui se défend    
 &nbsp;&nbsp;&nbsp;a.	Attaque de khmer verts, amish…)   
-&nbsp;&nbsp;&nbsp;b.	Le sens des mots éléments de langages manipulatin et rhétorique ?   
+&nbsp;&nbsp;&nbsp;b.	Le sens des mots  
 &nbsp;&nbsp;&nbsp;c.	Conflits d’intérêts   
-&nbsp;&nbsp;&nbsp;d.	Financement campagne 7500€ 5000€ de diminution impôt sur le revenu  
-&nbsp;&nbsp;&nbsp;e.	Démocracie et médias, blackrock plus grand deforesteur du monde, conseille d’écologie EU  
+&nbsp;&nbsp;&nbsp;d.	Financement campagne  
+&nbsp;&nbsp;&nbsp;e.	Démocracie et médias
 F.	Alimentation  
 &nbsp;&nbsp;&nbsp;a.	Permaculture  
 &nbsp;&nbsp;&nbsp;b.	Agroforesterie et autres..  
