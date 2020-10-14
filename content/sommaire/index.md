@@ -66,7 +66,7 @@ social:
 Si vous ne pouvez pas cliquer sur le sujet, c'est que l'article n'existe pas encore. 
 
 
-# I.	ÉCOLOGIE SCIENTIFIQUE 
+# ÉCOLOGIE SCIENTIFIQUE 
 1.	**L’écologie c’est quoi ?**  
 2.	**Méthodes d’étude et de conservation**  
 A.	Comment fonctionne la science ?  
@@ -89,10 +89,10 @@ I.	Le désert
 J.	La montagne  
 K.	Le plancton/krill   
 4.	**Concepts d’écologie**  
-4.1.	Grandes théories  
-4.1.1.	Darwin et la théorie de l’évolution  
-4.1.2.	Dawkins et le gène égoïste  
-4.2.	La culture chez les animaux / es memes (Dawkins)  
+A.	Grandes théories  
+&nbsp;&nbsp;&nbsp;a.	Darwin et la théorie de l’évolution  
+&nbsp;&nbsp;&nbsp;b.	Dawkins et le gène égoïste  
+B.	La culture chez les animaux / es memes (Dawkins)  
 C.	L’hétérogénéité individuelle dans le monde animal  
 D.	Le sonar Dauphin vs Chauve-Souris  
 E.	La plongée chez les mammifères    
@@ -100,7 +100,7 @@ F.	La théorie des jeux le dilemme du prisonnier
 G.	Homosapiens  
 5.	**L’espèce du mois**   
 
-# II.	MENACES
+# MENACES
 6.	**Réchauffement climatique**  
 A.	Fonctionnement  
 B.	Co2 et gaz à effet de serre  
@@ -119,13 +119,13 @@ F.	Pollution plastique/recyclage
 G.	Pollution chimique  
 9.	**Les espèces invasives**  
 
-# III.	ÉNERGIE  
+# ÉNERGIE  
 10.	**Première et Seconde loi de la Thermodynamique**  
 11.	**EROI/TRE Facteur de charge**  
 12.	**Energie Fossiles**  
 A.	Pétrole (dérivés plastique diesel etc..)  
-a.	Conventionnel  
-b.	Pétrole de Schiste et sable bitumineux   
+&nbsp;&nbsp;&nbsp;a.	Conventionnel  
+&nbsp;&nbsp;&nbsp;b.	Pétrole de Schiste et sable bitumineux   
 B.	Charbon  
 C.	Gaz  
 13.	**ENR**  
@@ -143,7 +143,7 @@ C.	Les déchets
 D.	ASN UNSCEAR et le GIECC a propos du nucléaire  
 15.	**ENR vs Nuc : Le grand débat**  
   
-# IV.	ÉCOLOGIE POLITIQUE  
+#	ÉCOLOGIE POLITIQUE  
 16.	**Organisation globale – État des lieux**  
 A.	Capitalisme (Vincent Mignerot)  
 B.	Démographie   
@@ -152,8 +152,8 @@ D.	Numérique(5G)
 E.	Transport  
 F.	Réchauffement climatique  
 G.	Empreinte carbone   
-a.	La responsabilité individuelle  
-b.	La responsabilité collective  
+&nbsp;&nbsp;&nbsp;a.	La responsabilité individuelle  
+&nbsp;&nbsp;&nbsp;b.	La responsabilité collective  
 H.	L’effet rebond  
 I.	Greenwashing    
 J.	Effondrement  
@@ -166,23 +166,23 @@ B.	Démographie (malthus)
 C.	Stratégies (violence/non-violence (extrait abbé pierre), modes d’action, sensibilisation)  
 D.	Sobriété numérique    
 E.	Un système qui se défend    
-a.	Attaque de khmer verts, amish…)   
-b.	Le sens des mots éléments de langages manipulatin et rhétorique ?   
-c.	Conflits d’intérêts   
-d.	Financement campagne 7500€ 5000€ de diminution impôt sur le revenu  
-e.	Démocracie et médias, blackrock plus grand deforesteur du monde, conseille d’écologie EU  
+&nbsp;&nbsp;&nbsp;a.	Attaque de khmer verts, amish…)   
+&nbsp;&nbsp;&nbsp;b.	Le sens des mots éléments de langages manipulatin et rhétorique ?   
+&nbsp;&nbsp;&nbsp;c.	Conflits d’intérêts   
+&nbsp;&nbsp;&nbsp;d.	Financement campagne 7500€ 5000€ de diminution impôt sur le revenu  
+&nbsp;&nbsp;&nbsp;e.	Démocracie et médias, blackrock plus grand deforesteur du monde, conseille d’écologie EU  
 F.	Alimentation  
-a.	Permaculture  
-b.	Agroforesterie et autres..  
-c.	Régime végétarien vegan  
+&nbsp;&nbsp;&nbsp;a.	Permaculture  
+&nbsp;&nbsp;&nbsp;b.	Agroforesterie et autres..  
+&nbsp;&nbsp;&nbsp;c.	Régime végétarien vegan  
 G.	Transport   
-a.	L’avion  
-b.	Voiture électrique vs voiture thermique  
-c.	Vélo et trottinette électrique vs transport en commun  
-d.	Le train  
+&nbsp;&nbsp;&nbsp;a.	L’avion  
+&nbsp;&nbsp;&nbsp;b.	Voiture électrique vs voiture thermique  
+&nbsp;&nbsp;&nbsp;c.	Vélo et trottinette électrique vs transport en commun  
+&nbsp;&nbsp;&nbsp;d.	Le train  
 H.	Changer de Banque    
 
-# V.	POUR LE FUN  
+#	POUR LE FUN  
 18.  L’écologie dans le Seigneur des Anneaux
 19.  Age of Empire (parallèle sympathique de la gestion des ressources dans le jeu de stratégie et dans 20.  la réalité)  
 Quelques memes d’écologie ça fait plaisir sisi (plusieurs fois ! Une fois par mois ?)  
