@@ -1,7 +1,7 @@
 ---
-title: "Sciences Participatives"
-subtitle: 'La quantité d'information au dépend de la qualité ?'
-summary: Les sciences participatives sont de plus en plus populaires. Qu'est ce que c'est ? Comment ça marche ? Est-ce efficace ?
+title: "Les Sciences Participatives"
+subtitle: 'La quantité de données au dépens de la qualité ?'
+summary: C'est quoi ? Comment ça marche ? Est ce que c'est efficace ? Comment participer moi aussi ?
 authors:
 - Miquel Pons
 
@@ -33,8 +33,9 @@ image:
 projects: []
 
 
+
+
 ---
 
 
-Les sciences participatives
-
+Les sciences participatives c'est quoi ? 
