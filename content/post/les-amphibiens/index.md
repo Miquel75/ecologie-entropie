@@ -6,10 +6,10 @@ authors:
 - Miquel Pons
 
 tags:
-- biodiversité
+- 
 categories:
-- écologie scientifique
-
+- Écologie scientifique
+- Biodiversité
 date: Sys.Date()
 lastmod: "2020-10-11T00:00:00Z"
 featured: false

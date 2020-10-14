@@ -1,15 +1,15 @@
 ---
-title: "<font  style=color:"#afe5ac">Les Sciences Participatives</font>"
+title: "Les Sciences Participatives"
 subtitle: 'La quantité de données au dépens de la qualité ?'
 summary: C'est quoi ? Comment ça marche ? Est ce que c'est efficace ? Comment participer moi aussi ?
 authors:
 - Miquel Pons
 
 tags:
-- biodiversité
+- 
 categories:
-- écologie scientifique
-
+- Écologie scientifique
+- Méthodes
 date: Sys.Date()
 lastmod: "2020-10-14T00:00:00Z"
 featured: false
