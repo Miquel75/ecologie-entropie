@@ -39,7 +39,7 @@ projects: []
 
 LES SCIENCES PARTICIPATIVES
 
-## Qu’est-ce que c’est ?
+## **Qu’est-ce que c’est ?**
 
 Les sciences participatives sont des programmes scientifiques dont les contributeurs sont des volontaires de tous types, professionnels ou amateurs. Ce sont en général les usagers d’une zone particulière qui enregistre des données d’observation et les transmettent aux scientifiques. Ce sont les plongeurs qui croisent de nombreuses espèces protégées, 
 <img class="fit-picture" 
@@ -64,7 +64,7 @@ Avec l’omniprésence des smartphones, ordinateurs et d’internet, cette prati
      alt="graph"
      title="Houllier, F., & Merilhou-Goudard, J.-B. (n.d.). Les sciences participatives en France 64.">
 
-## À quoi ça sert ?
+## **À quoi ça sert ?**
 
 Les sciences participatives existant en France depuis déjà un moment, on a déjà un retour d’expérience. Cette méthode a de nombreux bénéfices : 
 - Multiplier le volume des données sur une plus grande surface et diversifier les ressources permet de nouvelles recherches ce qui mène à de nouvelles connaissances scientifiques.
@@ -85,7 +85,7 @@ Cet archipel de thèmes permet d’observer la grande diversité de sujets et de
 
 En France les domaines où les sciences participatives sont très utilisées sont l’agriculture, l’écologie, l’environnement, les sciences sociales, la biologie et la santé.
 
-## Quelles sont les difficultés de cette méthode ?
+## **Quelles sont les difficultés de cette méthode ?**
 
 Les données n’étant pas acquise dans un cadre professionnel il y a un biais statistique problématique pouvant mener à sous-estimer ou surestimer l’abondance d’une espèce. 
 
@@ -100,7 +100,7 @@ Les erreurs peuvent être diminuées en donnant aux volontaires un protocole ce 
 
 Il est donc particulièrement intéressant d’utiliser les sciences participatives pour complémenter les études menées par des chercheurs aguerris.
 
-## Si je souhaite participer, je fais comment ? 
+## **Si je souhaite participer, je fais comment ?** 
 
 Tu as internet donc informe-toi sur ce qui se fait dans ta zone. 
 Sinon il y a ce site https://www.open-sciences-participatives.org/home/.
