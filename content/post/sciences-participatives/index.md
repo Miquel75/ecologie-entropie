@@ -1,7 +1,7 @@
 ---
 title: "Les Sciences Participatives"
-subtitle: 'La quantité de données au dépens de la qualité ?'
-summary: C'est quoi ? Comment ça marche ? Est ce que c'est efficace ? Comment participer moi aussi ?
+subtitle: 'De "Science for the "People" à "Science by the People"'
+summary: Comment fonctionnent les sciences participatives ? 
 authors:
 - Miquel Pons
 
