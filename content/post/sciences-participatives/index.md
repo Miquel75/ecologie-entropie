@@ -54,7 +54,7 @@ les entreprises de whale-watching qui transmettent leurs photos de nageoires de 
 les amateurs d’oiseaux qui décrivent combien de mésanges à longue queue ils ont vu, quand et où. 
 <img class="fit-picture" 
       src="/media/mesange.jpg"
-      width="200" height="200"
+      width="800" height="400"
       alt="mésange"
       title="dominique ponthier"> 
 
