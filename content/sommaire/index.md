@@ -67,6 +67,8 @@ Si vous ne pouvez pas cliquer sur le sujet, c'est que l'article n'existe pas enc
 
 
 # ÉCOLOGIE SCIENTIFIQUE 
+:<span style="background:#afe5ac">&emsp;&emsp;&emsp;&emsp;</span>
+
 1.	**L’écologie c’est quoi ?**  
 2.	**Méthodes d’étude et de conservation**  
 A.	Comment fonctionne la science ?  
@@ -184,6 +186,6 @@ H.	Changer de Banque
 
 #	POUR LE FUN  
 18.  L’écologie dans le Seigneur des Anneaux
-19.  Age of Empire (parallèle sympathique de la gestion des ressources dans le jeu de stratégie et dans 20.  la réalité)  
-Quelques memes d’écologie ça fait plaisir sisi (plusieurs fois ! Une fois par mois ?)  
+19.  Age of Empire, simulation réaliste ?
+21.  Memes 
 
