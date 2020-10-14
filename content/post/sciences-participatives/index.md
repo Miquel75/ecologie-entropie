@@ -41,8 +41,10 @@ LES SCIENCES PARTICIPATIVES
 
 ## Qu’est-ce que c’est ?
 
-Les sciences participatives sont des programmes scientifiques dont les contributeurs sont des volontaires de tous types, professionnels ou amateurs. Ce sont en général les usagers d’une zone particulière qui enregistre des données d’observation et les transmettent aux scientifiques. Ce sont les plongeurs qui croisent de nombreuses espèces protégées (photo Mérou), les entreprises de whale-watching qui transmettent leurs photos de baleine (photo nageoire), les amateurs d’oiseaux qui décrivent combien de mésanges à longue queue ils ont vu, quand et où. 
-(Photo mésange à longue queue.) 
+Les sciences participatives sont des programmes scientifiques dont les contributeurs sont des volontaires de tous types, professionnels ou amateurs. Ce sont en général les usagers d’une zone particulière qui enregistre des données d’observation et les transmettent aux scientifiques. Ce sont les plongeurs qui croisent de nombreuses espèces protégées 
+<img class="fit-picture" src="/media/merou.jpg"alt="Photos FFESSM">, les entreprises de whale-watching qui transmettent leurs photos de baleine
+<img class="fit-picture"src="/media/fluke.jpg"alt="Image par Nikky Smolders de Pixabay">, les amateurs d’oiseaux qui décrivent combien de mésanges à longue queue ils ont vu, quand et où. 
+<img class="fit-picture" src="/media/mesange.jpg"alt="dominique ponthier"> 
 
 Avec l’omniprésence en occident des smartphones, ordinateurs et d’internet, cette méthode a grandement augmenté ces dernières années. Le grand champion de cette discipline c’est les États-Unis, suivi par des pays d’Europe tels que l’Allemagne, l’Italie, le Royaume-Uni, la France et les Pays-Bas.
 
@@ -62,8 +64,9 @@ Les sciences participatives existant en France depuis déjà un moment, on a dé
 Concernant les inconvénients, certains chercheurs ont émis la crainte que les citoyens soient instrumentalisés et également que l’autonomie des chercheurs soit remise en cause. Mais le plus gros inconvénient et on le verra par la suite est la qualité des données. 
 
 Sur quels sujets les sciences participatives sont-elles utilisées ?
-Image : Thème études sp
-Source : Houllier, F., & Merilhou-Goudard, J.-B. (n.d.). Les sciences participatives en France 64.
+<img class="fit-picture"
+     src="/media/thème étude sp.png"
+     alt="Houllier, F., & Merilhou-Goudard, J.-B. (n.d.). Les sciences participatives en France 64.">
 Comme vous pouvez le constater sur cette étude représentant les 200 principaux journaux publiant sur les sciences participatives dans le monde, de nombreux sujets sont abordés.
 Cet archipel de thèmes permet d’observer la grande diversité de sujets et de participants.
 
