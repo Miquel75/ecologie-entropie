@@ -65,8 +65,7 @@ social:
 
 Si vous ne pouvez pas cliquer sur le sujet, c'est que l'article n'existe pas encore. 
 
-# ÉCOLOGIE SCIENTIFIQUE
-<span style="background:#afe5ac">&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</span>
+# <span style="background:#afe5ac">ÉCOLOGIE SCIENTIFIQUE</span>
 1.	**L’écologie c’est quoi ?**  
 2.	**Méthodes d’étude et de conservation**  
 A.	Comment fonctionne la science ?  
@@ -99,7 +98,7 @@ E.	La plongée chez les mammifères
 F.	La théorie des jeux le dilemme du prisonnier  
 G.	Homosapiens  
 5.	**L’espèce du mois**   
-</div>
+
 # <span style="background:#a0a0a0">MENACES</span>
 6.	**Réchauffement climatique**  
 A.	Fonctionnement  
