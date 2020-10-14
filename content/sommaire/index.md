@@ -63,7 +63,7 @@ social:
 #- Visitors
 ---
 
-<body style="background-color:red;">
+
 
 Si vous ne pouvez pas cliquer sur le sujet, c'est que l'article n'existe pas encore. 
 
@@ -188,4 +188,4 @@ H.	Changer de Banque
 19.  Age of Empire, simulation réaliste ?
 21.  Memes 
 
-</body>
+
