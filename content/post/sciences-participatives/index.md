@@ -1,5 +1,5 @@
 ---
-title: "<span style="background:#afe5ac">Les Sciences Participatives</span>"
+title: "<font  style=color:"#afe5ac">Les Sciences Participatives</font>"
 subtitle: 'La quantité de données au dépens de la qualité ?'
 summary: C'est quoi ? Comment ça marche ? Est ce que c'est efficace ? Comment participer moi aussi ?
 authors:
