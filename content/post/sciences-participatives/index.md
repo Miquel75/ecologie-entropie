@@ -1,7 +1,7 @@
 ---
-title: "Les Amphibiens"
-subtitle: 'Petites grenouille'
-summary: Les ambiphiens sont des être étonnants mais menacés
+title: "Sciences Participatives"
+subtitle: 'La quantité d'information au dépend de la qualité ?'
+summary: Les sciences participatives sont de plus en plus populaires. Qu'est ce que c'est ? Comment ça marche ? Est-ce efficace ?
 authors:
 - Miquel Pons
 
@@ -38,5 +38,5 @@ projects: []
 ---
 
 
-OUIIIIIIIII LES GRENOUIIILLLESSSSSSSSSSSS
+Les sciences participatives
 
