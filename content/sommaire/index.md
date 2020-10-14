@@ -65,8 +65,8 @@ social:
 
 Si vous ne pouvez pas cliquer sur le sujet, c'est que l'article n'existe pas encore. 
 
-<div style="width: 600px;  padding-top:10px; padding-bottom:10px;border: 3px solid #A0A0A0; text-align: center;"> Vous pouvez écrire votre texte à l'intérieur
-# <span style="background:#afe5ac">ÉCOLOGIE SCIENTIFIQUE</span>
+# ÉCOLOGIE SCIENTIFIQUE
+<span style="background:#afe5ac">&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</span>
 1.	**L’écologie c’est quoi ?**  
 2.	**Méthodes d’étude et de conservation**  
 A.	Comment fonctionne la science ?  
