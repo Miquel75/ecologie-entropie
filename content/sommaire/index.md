@@ -66,8 +66,8 @@ social:
 Si vous ne pouvez pas cliquer sur le sujet, c'est que l'article n'existe pas encore. 
 
 
-# ÉCOLOGIE SCIENTIFIQUE 
-:<span style="background:#afe5ac">&emsp;&emsp;&emsp;&emsp;</span>
+# <span style="background:#afe5ac">ÉCOLOGIE SCIENTIFIQUE</span>
+
 
 1.	**L’écologie c’est quoi ?**  
 2.	**Méthodes d’étude et de conservation**  
