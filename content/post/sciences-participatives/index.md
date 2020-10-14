@@ -43,8 +43,12 @@ LES SCIENCES PARTICIPATIVES
 
 Les sciences participatives sont des programmes scientifiques dont les contributeurs sont des volontaires de tous types, professionnels ou amateurs. Ce sont en général les usagers d’une zone particulière qui enregistre des données d’observation et les transmettent aux scientifiques. Ce sont les plongeurs qui croisent de nombreuses espèces protégées 
 <img class="fit-picture" src="/media/merou.jpg"alt="Photos FFESSM">, les entreprises de whale-watching qui transmettent leurs photos de baleine
-<img class="fit-picture"src="/media/fluke.jpg"alt="Image par Nikky Smolders de Pixabay">, les amateurs d’oiseaux qui décrivent combien de mésanges à longue queue ils ont vu, quand et où. 
-<img class="fit-picture" src="/media/mesange.jpg"alt="dominique ponthier"> 
+<img class="fit-picture"
+      src="/media/fluke.jpg"
+      alt="Image par Nikky Smolders de Pixabay">, les amateurs d’oiseaux qui décrivent combien de mésanges à longue queue ils ont vu, quand et où. 
+<img class="fit-picture" 
+      src="/media/mesange.jpg"
+      alt="dominique ponthier"> 
 
 Avec l’omniprésence en occident des smartphones, ordinateurs et d’internet, cette méthode a grandement augmenté ces dernières années. Le grand champion de cette discipline c’est les États-Unis, suivi par des pays d’Europe tels que l’Allemagne, l’Italie, le Royaume-Uni, la France et les Pays-Bas.
 
