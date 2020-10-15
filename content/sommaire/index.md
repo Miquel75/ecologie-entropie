@@ -71,7 +71,7 @@ Si vous ne pouvez pas cliquer sur le sujet, c'est que l'article n'existe pas enc
 1.	**L’écologie c’est quoi ?**  
 2.	**Méthodes d’étude et de conservation**  
 A.	Comment fonctionne la science ?  
-B.	Les sciences participatives  
+B.	<a href="https://ecologieetentropie.netlify.app/post/sciences-participatives"> Les sciences participatives </a>
 C.	L’importance du suivi d’espèce  
 D.	Aire marine protégé  
 E.	Sensibilisation  

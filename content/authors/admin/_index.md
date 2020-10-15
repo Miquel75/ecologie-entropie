@@ -73,11 +73,9 @@ Les post sont écrits pour :
 
 Chaque post est sourcé. 
 
-Les sujets sont abordés avec un angle rationnel s'adressant tant aux bisounours qu'à ceux qui n'ont pas d'âme. Bien entendu ils ne sont pas 100% objectif et réflètent partiellement la vision du monde de l'auteur. 
+Les sujets sont abordés avec un angle rationnel s'adressant tant aux bisounours qu'à ceux qui n'ont pas d'âme. Bien entendu ils ne sont pas 100% objectifs et réflètent partiellement ma vision du monde. 
 
 Pour me contacter c'est juste en dessous !
-
-
 
 
 
