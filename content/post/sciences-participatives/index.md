@@ -1,6 +1,6 @@
 ---
 title: "Les Sciences Participatives"
-subtitle: 'De "Science for the "People" à "Science by the People"'
+subtitle: 'De "Science for the People" à "Science by the People"'
 summary: Comment fonctionnent les sciences participatives ? 
 authors:
 - Miquel Pons
