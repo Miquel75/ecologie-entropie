@@ -72,7 +72,9 @@ Les sciences participatives existant en France depuis déjà un moment, on a dé
 - La participation est le meilleur moyen d’apprendre (comme dit l’adage : *Dis-moi et j’oublie. Montre-moi et je me souviens. Implique-moi et je comprends.*). C’est donc une manière de former et sensibiliser à grande échelle et de diffuser le savoir scientifique. 
 - L’augmentation des participants aux études donne une visibilité politique à la préservation du vivant. 
 
-Concernant les inconvénients, certains chercheurs ont émis la crainte que les citoyens soient instrumentalisés et également que l’autonomie des chercheurs soit remise en cause. Mais le plus gros inconvénient et on le verra par la suite est la qualité des données. 
+Concernant les inconvénients, certains chercheurs ont émis la crainte que les citoyens soient instrumentalisés et également que l’autonomie des chercheurs soit remise en cause. 
+
+Mais le plus gros inconvénient et on le verra par la suite est la qualité des données. 
 
 ### **Sur quels sujets les sciences participatives sont-elles utilisées ?**
 <img class="fit-picture"
@@ -87,7 +89,7 @@ En France les domaines où les sciences participatives sont très utilisées son
 
 ### **Quelles sont les difficultés de cette méthode ?**
 
-Les données n’étant pas acquise dans un cadre professionnel il y a un biais statistique problématique pouvant mener à sous-estimer ou surestimer l’abondance d’une espèce. 
+Les données n’étant pas acquise dans un cadre professionnel il y a un biais statistique problématique pouvant mener à sous-estimer ou sur-estimer l’abondance d’une espèce. 
 
 Déjà il est difficile de pérenniser l’effort des volontaires. L’acquisition des données en dents de scie rend plus difficile l’analyse et la gestion de l’environnement. Une diminution d’observations peut alors être due à la diminution de la population ou à une diminution des observateurs. 
 
