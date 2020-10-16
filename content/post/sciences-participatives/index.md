@@ -1,7 +1,7 @@
 ---
 title: "Les Sciences Participatives"
 subtitle: 'De "Science for the People" à "Science by the People"'
-summary: Comment fonctionnent les sciences participatives ? 
+summary: Qu’est-ce que c’est ? Comment ça fonctionne ? QUels en sont les avantages et les inconvénients ? 
 authors:
 - Miquel Pons
 
@@ -41,7 +41,7 @@ projects: []
 
 ### **Qu’est-ce que c’est ?**
 
-Les sciences participatives sont des programmes scientifiques dont les contributeurs sont des volontaires de tous types, professionnels ou amateurs. Ce sont en général les usagers d’une zone particulière qui enregistre des données d’observation et les transmettent aux scientifiques. Ce sont les plongeurs qui croisent de nombreuses espèces protégées, 
+Les sciences participatives sont des programmes scientifiques dont les contributeurs sont des volontaires de tous types, professionnels ou amateurs. Ce sont en général les usagers d’une zone particulière qui enregistre des données d’observations et les transmettent aux scientifiques. Ce sont les plongeurs qui croisent de nombreuses espèces protégées, 
 <img class="fit-picture" 
     src="/media/merou.jpg"
     alt="mérou"

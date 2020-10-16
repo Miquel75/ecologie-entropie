@@ -65,7 +65,7 @@ social:
 
 
 
-Si vous ne pouvez pas cliquer sur le sujet, c'est que l'article n'existe pas encore. 
+**Si vous ne pouvez pas cliquer sur un sujet, c'est que l'article n'existe pas encore. Oui..il y a du boulot encore.**
 
 # <span style="background:#afe5ac">ÉCOLOGIE SCIENTIFIQUE</span>
 1.	**L’écologie c’est quoi ?**  
