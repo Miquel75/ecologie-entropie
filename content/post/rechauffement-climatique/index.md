@@ -46,8 +46,8 @@ Ce phénomène est étudié par de très nombreux scientifiques dans le monde. U
 ### Comment ça marche ?
 
 <img class="fit-picture"      src="/media/infographie-RC.png"     alt="Infographige réchauffement climatique"     title="Réchauffement climatique E◊">
-Des **gaz à effets de serre** tel que le CO2 et le CH4 sont libérés dans l’atmosphère par la combustion des énergies fossiles, produits par la fossilisation de matière organique (plantes, animaux) en quelques millions d’années, et par l’éruption naturelle des volcans. Ces gaz sont absorbés par la biosphère via la photosynthèse (plantes, phytoplancton) et par l’océan qui absorbe le CO2 par dissolution.     
-  
+Des **gaz à effets de serre** tel que le CO2 et le CH4 sont libérés dans l’atmosphère par la combustion des énergies fossiles, produits par la fossilisation de matière organique (plantes, animaux) en quelques millions d’années, et par l’éruption naturelle des volcans. Ces gaz sont absorbés par la biosphère via la photosynthèse (plantes, phytoplancton) et par l’océan qui absorbe le CO2 par dissolution.        
+   
 Le **rayonnement solaire** atteint le sol et réchauffe la terre. La terre rayonne donc sa chaleur en infrarouge. Or les GES (vapeur d’eau, CO2, CH4, N2O et Ozone) et les nuages absorbent ces rayonnements ce qui enferme l’énergie thermique (chaleur) dans l’atmosphère. Sans ce processus naturel, on estime que la température moyenne sur terre serait de -18°C. 
 
 La **vapeur d’eau** (55%) et les nuages (17%) sont les plus grands contributeurs l’effet de serre naturel. Les activités humaines n’ont pas d’influence directe notable sur la quantité de vapeur dans l’atmosphère étant donné que l’eau ne s’y accumule pas (durée de demi-vie de quelques jours seulement) et que 2/3 de la surface de la planète est recouverte d’eau.   
@@ -69,10 +69,12 @@ Les forçages radiatifs sont indiqués en rouge quand positif, bleu quand négat
 Comme vous pouvez voir sur ce graphique, le bilan est rouge. Les forçages « **anthropiques** » sont bien plus influents que le forçage radiatif d’origine naturelle.
 
 ### Où en est-on aujourd’hui ?
-Côté C02 on est passé de **280 ppm** (parties par millions) de CO2 atmophérique à **411.29 ppm** jour d’écriture de cet article le 20/10/2020. Cliquer sur ce lien https://fr.co2.earth/ pour vérifier aujourd’hui. 
+Côté C02 on est passé de **280 ppm** (parties par millions) de CO2 atmophérique à **411.29 ppm** jour d’écriture de cet article le 20/10/2020.  
+
+Cliquer sur ce lien https://fr.co2.earth/ pour vérifier aujourd’hui. 
 
 <img class="fit-picture"      src="/media/CO2_emissions_vs_concentrations_1751-2019_lrg.png"     alt="graph émission co2"     title="NOAA">
-Les **ppm** ou parties par millions permettent de mesurer la concentration d’un gaz. Elle indique un rapport de volume. C’est l’équivalent du pour cent (/100) mais pour un million (/1 000 000). Si l’on a 400ppm (400 parties par millions soit 400/1 000 000) de Co2 dans l’atmosphère, cela signifie qu’il y a 0.04% de CO2 dans l’atmosphère. 
+Les **ppm** ou parties par millions permettent de mesurer la concentration d’un gaz. Elle indique un rapport de volume. C’est l’équivalent du pour cent (/100) mais pour un million (/1 000 000). Si l’on a 400ppm (400 parties par millions soit 400/1 000 000) de CO2 dans l’atmosphère, cela signifie qu’il y a 0.04% de CO2 dans l’atmosphère. 
 
 Les GES d’origines anthropiques sont en constante augmentation. Plus d’émission de CO2 dans les 50 dernières années qu’entre 1750 et 1970 (220 ans).
 <img class="fit-picture"      src="/media/émission anthropique mondiale 1750 2011.png"     alt="graph émission co2"     title="NOAA">
