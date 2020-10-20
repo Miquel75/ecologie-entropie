@@ -50,7 +50,6 @@ Des <b>gaz à effets de serre</b> tel que le CO2 et le CH4 sont libérés dans l
 
 <br/>
 
-<br/>
 
 Le **rayonnement solaire** atteint le sol et réchauffe la terre. La terre rayonne donc sa chaleur en infrarouge. Or les GES (vapeur d’eau, CO2, CH4, N2O et Ozone) et les nuages absorbent ces rayonnements ce qui enferme l’énergie thermique (chaleur) dans l’atmosphère. Sans ce processus naturel, on estime que la température moyenne sur terre serait de -18°C. 
 
@@ -81,7 +80,9 @@ Cliquer sur ce lien https://fr.co2.earth/ pour vérifier aujourd’hui.
 <b>Les ppm</b> ou parties par millions permettent de mesurer la concentration d’un gaz. Elle indique un rapport de volume. C’est l’équivalent du pour cent (/100) mais pour un million (/1 000 000). Si l’on a 400ppm (400 parties par millions soit 400/1 000 000) de CO2 dans l’atmosphère, cela signifie qu’il y a 0.04% de CO2 dans l’atmosphère. 
 
 <br/>
-  
+
+<br/>
+
 Les **GES d’origines anthropiques** sont en constante augmentation. Il y a eu plus d’émission de CO2 dans les 50 dernières années qu’entre 1750 et 1970 (220 ans).
 <img class="fit-picture"      src="/media/émission anthropique mondiale 1750 2011.png"     alt="graph émission co2"     title="NOAA">
 Crédit: GIEC rapport de 2014  
