@@ -104,8 +104,7 @@ G.	Homosapiens
 # <span style="background:#d8d8d8">MENACES</span>
 6.	**Réchauffement climatique**  
 A.	Fonctionnement  
-B.	Co2 et gaz à effet de serre  
-C.	Quelques arguments climatosceptiques  
+B.	Quelques arguments climatosceptiques  
 7.	**Conséquences du RC**  
 A.	La sècheresse  
 B.	Les incendies  

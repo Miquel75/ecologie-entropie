@@ -1,7 +1,7 @@
 ---
 title: "Les Sciences Participatives"
 subtitle: 'De "Science for the People" à "Science by the People"'
-summary: Qu’est-ce que c’est ? Comment ça fonctionne ? QUels en sont les avantages et les inconvénients ? 
+summary: Qu’est-ce que c’est ? Comment ça fonctionne ? Quels en sont les avantages et les inconvénients ? 
 authors:
 - Miquel Pons
 
