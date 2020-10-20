@@ -80,7 +80,9 @@ Cliquer sur ce lien https://fr.co2.earth/ pour vérifier aujourd’hui.
 <img class="fit-picture"      src="/media/CO2_emissions_vs_concentrations_1751-2019_lrg.png"     alt="graph émission co2"     title="NOAA">
 <b>Les ppm</b> ou parties par millions permettent de mesurer la concentration d’un gaz. Elle indique un rapport de volume. C’est l’équivalent du pour cent (/100) mais pour un million (/1 000 000). Si l’on a 400ppm (400 parties par millions soit 400/1 000 000) de CO2 dans l’atmosphère, cela signifie qu’il y a 0.04% de CO2 dans l’atmosphère. 
 
-Les GES d’origines anthropiques sont en constante augmentation. Plus d’émission de CO2 dans les 50 dernières années qu’entre 1750 et 1970 (220 ans).
+<br/>
+  
+Les **GES d’origines anthropiques** sont en constante augmentation. Il y a eu plus d’émission de CO2 dans les 50 dernières années qu’entre 1750 et 1970 (220 ans).
 <img class="fit-picture"      src="/media/émission anthropique mondiale 1750 2011.png"     alt="graph émission co2"     title="NOAA">
 Crédit: GIEC rapport de 2014  
 
