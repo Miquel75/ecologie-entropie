@@ -39,9 +39,9 @@ projects: []
 
 ### Le réchauffement climatique ? 
 
-Le réchauffement climatique est, comme vous le savez surement, un phénomène de réchauffement global de la température moyenne du climat, provoquant un déséquilibre météorologique menaçant les écosystèmes. Ce réchauffement est principalement dû aux émissions anthropiques de gaz à effet de serre (GES) tel que le dioxyde de carbone (CO2) et le méthane (CH4), ainsi que les changements dans l’utilisation des terres (déforestation et bétonisation).  
+Le réchauffement climatique est un phénomène de réchauffement global de la température moyenne du climat, provoquant un déséquilibre météorologique menaçant les écosystèmes. Ce réchauffement est principalement dû aux émissions anthropiques de gaz à effet de serre (GES) tel que le dioxyde de carbone (CO2) et le méthane (CH4), ainsi que les changements dans l’utilisation des terres (déforestation et bétonisation).  
 
-Ce phénomène est étudié par de très nombreux scientifiques dans le monde. Une étude faite sur presque 11 944 publications scientifiques sur le climat entre 1991 et 2011 montre que 97.1% des scientifiques s’accordent sur le réchauffement climatique d’origine anthropique. C’est ce qu’on appelle un consensus scientifique. Le GIEC est une organisation de l’ONU qui se charge de compiler l’information de la littérature scientifique sous forme de rapports synthétiques.
+Ce phénomène est étudié par de très nombreux scientifiques dans le monde. Une étude faite sur presque 11 944 publications scientifiques sur le climat entre 1991 et 2011 montre que 97.1% des scientifiques s’accordent sur le réchauffement climatique d’origine anthropique. Le GIEC est une organisation de l’ONU qui se charge de compiler l’information de la littérature scientifique sous forme de rapports synthétiques.
 
 ### Comment ça marche ?
 
@@ -52,7 +52,7 @@ Des <b>gaz à effets de serre</b> tel que le CO2 et le CH4 sont libérés dans l
 <br/>
 
 
-Le **rayonnement solaire** atteint le sol et réchauffe la terre. La terre rayonne donc sa chaleur en infrarouge. Or les GES (vapeur d’eau, CO2, CH4, N2O et Ozone) et les nuages absorbent ces rayonnements ce qui enferme l’énergie thermique (chaleur) dans l’atmosphère. Sans ce processus naturel, on estime que la température moyenne sur terre serait de -18°C. 
+Le **rayonnement solaire** atteint le sol et réchauffe la Terre qui rayonne sa chaleur sous forme d'infrarouge. Or les GES (vapeur d’eau, CO2, CH4, N2O et Ozone) et les nuages absorbent ces rayonnements ce qui enferme l’énergie thermique (chaleur) dans l’atmosphère. Sans ce processus naturel, on estime que la température moyenne sur Terre serait de -18°C. 
 
 La **vapeur d’eau** (55%) et les nuages (17%) sont les plus grands contributeurs l’effet de serre naturel. Les activités humaines n’ont pas d’influence directe notable sur la quantité de vapeur dans l’atmosphère étant donné que l’eau ne s’y accumule pas (durée de demi-vie de quelques jours seulement) et que 2/3 de la surface de la planète est recouverte d’eau.   
 
@@ -78,7 +78,7 @@ Côté C02 on est passé de **280 ppm** (parties par millions) de CO2 atmophéri
 Cliquer sur ce lien https://fr.co2.earth/ pour vérifier aujourd’hui. 
 
 <img class="fit-picture"      src="/media/CO2_emissions_vs_concentrations_1751-2019_lrg.png"     alt="graph émission co2"     title="NOAA">
-<b>Les ppm</b> ou parties par millions permettent de mesurer la concentration d’un gaz. Elle indique un rapport de volume. C’est l’équivalent du pour cent (/100) mais pour un million (/1 000 000). Si l’on a 400ppm (400 parties par millions soit 400/1 000 000) de CO2 dans l’atmosphère, cela signifie qu’il y a 0.04% de CO2 dans l’atmosphère.  
+<b>Les ppm</b> ou parties par millions permettent de mesurer la concentration d’un gaz. Elle indique un rapport. C’est l’équivalent du pour cent (/100) mais pour un million (/1 000 000). Si l’on a 400ppm (400 parties par millions soit 400/1 000 000) de CO2 dans l’atmosphère, cela signifie qu’il y a 0.04% de CO2 dans l’atmosphère.  
 
 <br/>
 <br/>
@@ -90,9 +90,9 @@ Crédit: GIEC rapport de 2014
 
 Le rapport du **GIEC** de 2019 considère que les activités humaines ont généré une augmentation de température du climat de **1°C** dans une fourchette probable allant de 0,8°C à 1,2°C.
 <img class="fit-picture"      src="/media/1987_yearly_temperature_anomalies_from_1880_to_2019.jpeg"     alt="graph augmentation température"     title="NASA/NOAA">
-Credit : NASA/NOAA  
+Crédit : NASA/NOAA  
 
-Ce réchauffement n’est pas **homogènement** réparti sur Terre. La température augmente plus sur terre qu’en mer ce qui concentre le réchauffement. Les **pôles** et notamment l’arctique enregistrent de plus fortes augmentations.  
+Ce réchauffement n’est pas **homogène**. La température augmente plus sur terre qu’en mer ce qui concentre le réchauffement. Les **pôles** et notamment l’arctique enregistrent de plus fortes augmentations.  
 
 Étant donnée la longue durée de vie du CO2, les scientifiques du GIEC estiment que le réchauffement dû aux émissions anthropiques mondiales qui ont eu lieu depuis l’époque préindustrielle jusqu’à présent persistera pendant des **siècles à des millénaires**.  
 
