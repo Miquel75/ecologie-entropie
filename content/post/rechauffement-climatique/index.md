@@ -49,7 +49,7 @@ Ce phénomène est étudié par de très nombreux scientifique dans le monde. Un
     alt="Infographige réchauffement climatique"
     title="Réchauffement climatique E²">
 
-Des gaz à effets de serre tel que le CO2 et le CH4 sont libérés dans l’atmosphère soit par la combustion des énergies fossiles, produit par la fossilisation de matière organique (plantes, animaux) en quelques millions d’années ou par l’éruption naturelle des volcans. Ces gaz sont absorbés par la biosphère par la photosynthèse (plantes, phytoplancton) et par l’océan qui absorbe le CO2 par dissolution. 
+Des gaz à effets de serre tel que le CO2 et le CH4 sont libérés dans l’atmosphère soit par la combustion des énergies fossiles, produit par la fossilisation de matière organique (plantes, animaux) en quelques millions d’années ou par l’éruption naturelle des volcans. Ces gaz sont absorbés par la biosphère par la photosynthèse (plantes, phytoplancton) et par l’océan qui absorbe le CO2 par dissolution.
 
 Le rayonnement solaire atteint le sol et réchauffe la terre. La terre rayonne donc sa chaleur en infrarouge. Or les GES (vapeur d’eau, CO2, CH4, N2O et Ozone) et les nuages absorbent ces rayonnements ce qui enferme la l’énergie thermique, la chaleur, dans l’atmosphère. Sans ce processus naturel, on estime que la température moyenne sur terre serait de -18°C. 
 La vapeur d’eau (55%) et les nuages (17%) sont les plus grand contributeurs l’effet de serre naturel. Les activités humaines n’ont pas d’influence direct notable sur la quantité de vapeur dans l’atmosphère étant donné que l’eau ne s’y accumule pas (durée de demi-vie de quelques jours seulement) et que 2/3 de la surface de la planète est recouverte d’eau. 
@@ -111,8 +111,8 @@ Credit : NASA/NOAA
 Ce réchauffement n’est pas homogènement réparti sur Terre. La température augmente plus sur terre qu’en mer ce qui concentre le réchauffement. Les pôles et notamment l’arctique enregistrent de plus forte augmentation. 
 Étant donnée la longue durée de vie du CO2, les scientifiques du GIEC estime que le réchauffement dû aux émissions anthropiques mondiales qui ont eu lieu depuis l’époque préindustrielle jusqu’à présent persistera pendant des siècles à des millénaires.
 
-Le réchauffement climatique a et aura des conséquences (lien) variés concernant les écosystèmes et les sociétés humaines. Plus le réchauffement climatique est élevé plus ses conséquences seront conséquentes. C’est pourquoi il avait été décidé lors de l’accord de Paris de la COP21, signé par 195 pays, de limiter le réchauffement climatique à 1,5°C. 
+Le réchauffement climatique a et aura des <a href="https://ecologieetentropie.netlify.app/post/conséquences-rc"> conséquences </a>( variés concernant les écosystèmes et les sociétés humaines. Plus le réchauffement climatique est élevé plus ses conséquences seront conséquentes. C’est pourquoi il avait été décidé lors de l’accord de Paris de la COP21, signé par 195 pays, de limiter le réchauffement climatique à 1,5°C. 
 
-Cet accord est-il respecté ? Rien est moins sûr.  
+Cet accord est-il respecté ? Rien n'est moins sûr.  
 
 
