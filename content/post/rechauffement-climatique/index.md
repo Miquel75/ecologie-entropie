@@ -58,7 +58,8 @@ Le GIEC le définit comme « le taux de transfert d’énergie par unité surfac
 
 Le **forçage radiatif** est positif s’il provoque une augmentation de l’énergie du système Terre/atmosphère et donc le réchauffement climatique. Le forçage est négatif si au contraire il diminue l’énergie, et entraine donc le refroidissement du système. C’est le cas des aérosols (fines particules solide ou liquide en suspension dans un mélange gazeux) qui peuvent être de différentes natures, refroidissant l’atmosphère pour certains ou faisant des trous dans la couche d’ozone pour d’autres.
 <img class="fit-picture"      src="/media/forçage radiatif.png"     alt="forçage radiatif"     title="Rapport du GIEC 2007">
-Crédit : Rapport du GIEC 2007
+Crédit : Rapport du GIEC 2007  
+
 Les forçages radiatifs sont indiqués en rouge quand positif, bleu quand négatifs. Les  LOSU indiquent le niveau de compréhension scientifique. Valeur de FR indique la valeur du forçage radiatif.
 Comme vous pouvez voir sur ce graphique, le bilan est rouge. Les forçages « anthropiques » sont également plus influents que le forçage radiatif d’origine naturelle.
 
@@ -70,11 +71,13 @@ Les ppm ou parties par millions permettent de mesurer la concentration d’un ga
 
 Les GES d’origines anthropiques sont en constante augmentation. Plus d’émission de CO2 dans les 50 dernières années qu’entre 1750 et 1970 (220 ans).
 <img class="fit-picture"      src="/media/émission anthropique mondiale 1750 2011.png"     alt="graph émission co2"     title="NOAA">
-Crédit: GIEC rapport de 2014
+Crédit: GIEC rapport de 2014  
+
 Le rapport du GIEC de 2019 considère que les activités humaines ont généré une augmentation de température du climat de 1°C dans une fourchette probable allant de 0,8°C à 1,2°C.
 <img class="fit-picture"      src="/media/1987_yearly_temperature_anomalies_from_1880_to_2019.jpeg"     alt="graph augmentation température"     title="NASA/NOAA">
-Credit : NASA/NOAA
+Credit : NASA/NOAA  
+
 Ce réchauffement n’est pas homogènement réparti sur Terre. La température augmente plus sur terre qu’en mer ce qui concentre le réchauffement. Les pôles et notamment l’arctique enregistrent de plus fortes augmentations. 
 Étant donnée la longue durée de vie du CO2, les scientifiques du GIEC estiment que le réchauffement dû aux émissions anthropiques mondiales qui ont eu lieu depuis l’époque préindustrielle jusqu’à présent persistera pendant des siècles à des millénaires.
-Le réchauffement climatique a et aura des <a href="https://ecologieetentropie.netlify.app/post/conséquences-rc"> conséquences </a>( variés concernant les écosystèmes et les sociétés humaines. Plus le réchauffement climatique est élevé plus ses conséquences seront conséquentes. C’est pourquoi il avait été décidé lors de l’accord de Paris de la COP21, signé par 195 pays, de limiter le réchauffement climatique à 1,5°C. 
+Le réchauffement climatique a et aura des <a href="https://ecologieetentropie.netlify.app/post/conséquences-rc"> conséquences </a> variés concernant les écosystèmes et les sociétés humaines. Plus le réchauffement climatique est élevé plus ses conséquences seront conséquentes. C’est pourquoi il avait été décidé lors de l’accord de Paris de la COP21, signé par 195 pays, de limiter le réchauffement climatique à 1,5°C. 
 Cet accord est-il respecté ? Rien n'est moins sûr.  
