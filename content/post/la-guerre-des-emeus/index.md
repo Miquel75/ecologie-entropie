@@ -1,7 +1,7 @@
 ---
 title: "La Guerre des Émeus"
 subtitle: 'Oiseau sprinter contre mitrailleuse lourde, un épisode représentatif de la gestion humaine de la nature.'
-summary:  Parlons un peu de cet élégant oiseau et d’un épisode de l’histoire d’Australie ou la guerre fut déclarée entre émeu et humains. 
+summary:  Parlons un peu de cet élégant oiseau et d’un épisode de l’histoire d’Australie ou la guerre fut déclarée entre émeus et humains. 
 authors:
 - Miquel Pons
 
