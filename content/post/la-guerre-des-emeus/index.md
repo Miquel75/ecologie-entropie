@@ -1,6 +1,6 @@
 ---
 title: "La Guerre des Émeus"
-subtitle: 'Oiseau sprinter contre mitrailleuse lourde, un épisode repréentatif de la gestion humaine de la nature.'
+subtitle: 'Oiseau sprinter contre mitrailleuse lourde, un épisode représentatif de la gestion humaine de la nature.'
 summary:  Parlons un peu de cet élégant oiseau et d’un épisode de l’histoire d’Australie ou la guerre fut déclarée entre émeu et humains. 
 authors:
 - Miquel Pons
@@ -129,7 +129,7 @@ L’armée observa que les groupes semblaient avoir un grand oiseau aux plûmes 
 
 Cette guerre a finalement été abandonnée et l'armistice signé, étant donné le peu d’efficacité de la démarche. D’autres stratégies plus efficaces ont alors été employées pour régler la destruction des récoltes, d’abord un système de primes, puis des clôtures en 1953.
 
-Aujourd’hui la population d’émeu semble stable et est considérée comme peu préoccupante par l’UICN (International Union for Conservation of Nature). Environ 700 000 de ces oiseaux peuplent aujourd’hui l’Australie. 
+Aujourd’hui la population d’émeu semble stable selon l’UICN (International Union for Conservation of Nature). Environ 700 000 de ces oiseaux peuplent aujourd’hui l’Australie. 
 
 ## REFERENCES
 
