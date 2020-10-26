@@ -84,10 +84,10 @@ Si mâles et femelles sont similaires, les femelles sont tout de même plus gran
 
 Pour ce qui est de leur vie amoureuse, la monogamie est la règle générale, même si mâles comme femelles se montrent volages. Les partenaires se grognent dessus et paradent la touffe au vent avant que l’accouplement débute. C’est le mâle qui incube les 5 à 10 œufs pondus par la femelle pendant environ 56 jours dans un nid qu’il a lui-même construit avec feuillage et brindille, à l’abri d’un buisson ou d’un arbre. Le mâle prendra soin des œufs et des poussins, pendant que la femelle, selon la qualité de l’année, défendra le territoire ou ira voir d’autres mâles et possiblement pondre de nouveaux œufs. Ce système fait que les mâles se retrouvent souvent à s’occuper d’œufs dont une bonne moitié ne sont pas d’eux.
 
-Image petits
+
 <img class="fit-picture" 
     src="/media/baby emu.jpg"
-    alt="bb emeu""
+    alt="bb emeu"
     title="Jean, Flickr">
 
 Les petits émeus sont actifs dès leur naissance et peuvent se déplacer après 2 jours seulement. Ces poussins de 25 cm ont un plumage rayé jaune/brun leur assurant un meilleur camouflage. Ces couleurs disparaissent après quelques mois. Ils atteignent leur taille adulte au bout d’un an environ. Le mâle restera avec eux encore quelques mois (18 mois en tout) afin de leur apprendre à s’alimenter et pour les protéger. Les jeunes émeus seront matures sexuellement à 2 ou 3 ans, l’espérance de vie d’un émeu étant à l'état sauvage d'environ 15 ans.
@@ -109,9 +109,9 @@ Connu en anglais comme the Great Emu War, cet affrontement prend lieu au début 
     
 La colère des fermiers, pour beaucoup des vétérans de la Ière guerre mondiale, remonte en haut lieu jusqu’au ministre de la Défense, Sir George Pearce. La guerre est déclarée en octobre 1932 et des troupes sont envoyées équipées de 2 mitrailleuses lourdes. Il est argumenté que ces manœuvres militaires permettront aux soldats de s‘entraîner. Lors du premier affrontement, les soldats déplacent les mitrailleuses jusqu’à trouver un groupe de 50 émeus. Ils ouvrent le feu sur les oiseaux qui se dispersent très rapidement et se mettent hors de portée. Résultats, des milliers de cartouches tirés pour quelques émeus abattus. Ces opérations se répètent plusieurs fois mais restent infructueuses. La mobilité des émeus étant problématique, les mitrailleuses sont montées sur un camion. Les militaires poursuivent alors les émeus en camion tout en mitraillant les champs au machine-gun. Oui oui. Sacrée image. 
 
-Machine gun camion
+
 <img class="fit-picture" 
-    src="/media/717c1a674f46b055b4af7c1670655c52.jpg
+    src="/media/717c1a674f46b055b4af7c1670655c52.jpg"
     alt="machin gun truck"
     title="machine gun truck">
     
@@ -119,7 +119,7 @@ La manœuvre se révèle très peu efficace étant donné que les émeus sont d�
 
 La riposte se fera par la dégradation des clôtures, laissant aux lapins, alliés des émeus dans cette guerre, la possibilité de rentrer également, causant de dégâts supplémentaires aux cultures. 
 
-Image lapin
+
 <img class="fit-picture" 
     src="/media/adorable-1850192_1920.jpg"
     alt="lapin"
