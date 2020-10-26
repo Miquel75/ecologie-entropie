@@ -131,4 +131,12 @@ Cette guerre a finalement été abandonnée et l'armistice signé, étant donné
 
 Aujourd’hui la population d’émeu semble stable et est considérée comme peu préoccupante par l’UICN (International Union for Conservation of Nature). Environ 700 000 de ces oiseaux peuplent aujourd’hui l’Australie. 
 
+## REFERENCES
+
+Baker, A. J., Haddrath, O., McPherson, J. D., & Cloutier, A. (2014). Genomic Support for a Moa–Tinamou Clade and Adaptive Morphological Convergence in Flightless Ratites. Mol Biol Evol 31, 1686–1696.
+
+Crew, B. (n.d.). The Great Emu War: In which some large, flightless birds unwittingly foiled the Australian Army. Scientific American Blog Network.
+
+Sales, J. (2007). The emu <I>(Dromaius novaehollandiae)</I>: a review of its biology and commercial products. Avian & Poul. Biolog. Rev. 18, 1–20.
+
 
