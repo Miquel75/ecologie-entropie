@@ -62,18 +62,24 @@ Aujourd’hui le numérique c’est 4% des gaz à effet de serre (GES) dans le m
 Certes, pour une même quantité de données la 5G permet de transférer l’information avec moins d’énergie que la 4G. Mais voilà. Effet rebond.
 
 -	Les antennes et équipements 5G ne vont pas remplacer les antennes 2G, 3G, 4G, mais s’y ajouter. Antennes qui couvrent d’ailleurs 3 fois moins d’espace que les antennes 4G et qui nécessiteront donc 3 fois plus d’installation pour couvrir la même aire. On estime l’augmentation de consommation d’énergie d’environ 300% en 5 ans.
--	Il faudra remplacer tous les ordinateurs et smartphones, c’est-à-dire quelques 34 milliards d’appareils, construit très probablement en Asie et transportés dans le monde entier. De plus il est fort possible que le débit de la 5G permettent de nouveaux usages et donc de nouveaux gadgets tous plus inutiles les uns que les autres. Vous pensiez que ça vous permettrait de vous faire opérer par un chirurgien depuis chez vous ? Soyons réaliste, c’est quand la dernière fois que vous avez fait la poussière ? On ouvre les gens dans des conditions ou elles survivent à l’opération en général et donc à l’hôpital, ou on peut aisément avoir une fibre optique très fiable et rapide.
+-	Il faudra remplacer tous les ordinateurs et smartphones, c’est-à-dire quelques 34 milliards d’appareils, construit très probablement en Asie et transportés dans le monde entier. Et qui dit nouveaux appareils dit plus d'extraction de métaux rares et de matériaux du sol. De plus il est fort possible que le débit de la 5G permettent de nouveaux usages et donc de nouveaux gadgets tous plus inutiles les uns que les autres. Vous pensiez que ça vous permettrait de vous faire opérer par un chirurgien depuis chez vous ? Soyons réaliste, c’est quand la dernière fois que vous avez fait la poussière ? On ouvre les gens dans des conditions ou elles survivent à l’opération en général et donc à l’hôpital, ou on peut aisément avoir une fibre optique très fiable et rapide.
 -	L’utilisation des données risque d’exploser avec de la vidéo HD partout, panneaux publicitaire, jeux vidéos et réalité augmentés, porno en 4K, séries et films a tout moment pour satisfaire nos cerveaux drogués aux écrans. 
 
-*«Il n’y a que deux industries qui appellent leurs clients » utilisateurs « : les drogues illégales et les logiciels.»*   Edward Tufte
+*«Il n’y a que deux industries qui appellent leurs clients » utilisateurs « : les drogues illégales et les logiciels.»*  
+
+Edward Tufte
 
 Donc lorsque des innovations font leur apparition vous entendez des chroniqueurs, journalistes ou politiques parler de leur consommation énergétique sans mentionner l’effet rebond ou le paradoxe de Jevons, prêtez l’oreille. Dans le cas contraire ce n’est qu’une publicité supplémentaire, baissez le son. 
 
 ### REFERENCES
 
-Berkhout, P. H. G., Muskens, J. C., & Velthuijsen, J. W. (2000). Defining the rebound effect. Energy Policy 8.
-Binswanger, M. (2001). Technological progress and sustainable development: what about the rebound effect? Ecological Economics 14.
-Gillingham, K., Rapson, D., & Wagner, G. (2016). The Rebound Effect and Energy Efficiency Policy. Review of Environmental Economics and Policy 10, 68–88.
-Greening, L. A., Greene, D. L., & Di, C. (2000). Energy e$ciency and consumption * the rebound effect * a survey. Energy Policy 13.
+Berkhout, P. H. G., Muskens, J. C., & Velthuijsen, J. W. (2000). Defining the rebound effect. Energy Policy 8.  
+  
+Binswanger, M. (2001). Technological progress and sustainable development: what about the rebound effect? Ecological Economics 14.  
+  
+Gillingham, K., Rapson, D., & Wagner, G. (2016). The Rebound Effect and Energy Efficiency Policy. Review of Environmental Economics and Policy 10, 68–88.  
+   
+Greening, L. A., Greene, D. L., & Di, C. (2000). Energy e$ciency and consumption * the rebound effect * a survey. Energy Policy 13.  
+  
 The Shift Project (2020). “Déployer la sobriété numérique”.
 William Stanley Jevons (1865).  “The Coal Question”.
