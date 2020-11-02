@@ -28,7 +28,7 @@ design:
 ---
 
 
-<br/>
+<br/> 
 
 
 <p style="font-size:130%;">Informations sur <span style="color:#afe5ac">la biodiversité</span>, <span style="color:#d8d8d8">le réchauffement climatique</span>, <span style="color:#e8a48b">l'énergie</span> et autres sujets gravitant autour de l'écologie.</p>
