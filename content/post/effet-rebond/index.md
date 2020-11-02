@@ -36,7 +36,7 @@ projects: []
 
 ### Qu’est-ce que l’effet rebond ?
 
-Lorsque des moyens techniques améliore l’efficacité avec laquelle des ressources sont utilisés, la consommation totale peut augmenter au lieu de diminuer. L’effet rebond ou Paradoxe de Jevons théorise donc qu’une nouvelle technologie paraissant plus économe en énergie peut en faire augmenter la consommation.   
+Lorsque des moyens techniques améliore l’efficacité avec laquelle des ressources sont utilisés, la consommation totale peut augmenter au lieu de diminuer. L’effet rebond ou Paradoxe de Jevons théorise donc qu’une nouvelle technologie paraissant plus économe en énergie peut en faire augmenter la consommation.    
   
 Lorsqu’un nouveau produit moins couteux en énergie fait son apparition sur le marché, les consommateurs font des ajustements sur leur forfait de consommation. Ils substituent l’ancienne version du produit avec la nouvelle version plus efficiente, le coût énergétique étant moindre ils peuvent en augmenter l’utilisation, du pouvoir d’achat se libère ce qui permet au consommateur d’éventuellement consommer d’autres produits en plus.   
   
