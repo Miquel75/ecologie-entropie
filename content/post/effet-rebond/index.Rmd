@@ -1,8 +1,38 @@
 ---
-title: "Effet rebond : exemple de la 5G""
-author: "Miquel Pons"
-date: "03/11/2020"
-output: html_document
+title: "Effet rebond : exemple de la 5G"
+subtitle: 'Le paradoxe de Jevons : Quand l'efficacité énergétique augmente la consommation finale.'
+summary: L'effet rebond ou paradoxe de Jevons est crucial pour comprendre l'augmentation de la consommation d'énergie et des emissions de gaz à effet de serre. 
+authors:
+- Miquel Pons
+
+tags:
+- 
+categories:
+- Écologie politique
+- Concepts
+date: Sys.Date()
+lastmod: "2020-11-02T00:00:00Z"
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
+# Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+image:
+  placement: 1
+#  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+  focal_point: ""
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+
+
 ---
 
 ### Qu’est-ce que l’effet rebond ?
