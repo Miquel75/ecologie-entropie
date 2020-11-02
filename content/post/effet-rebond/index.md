@@ -1,7 +1,7 @@
 ---
-title: "L'effet rebond : exemple de la 5G"
+title: "Effet rebond : exemple de la 5G"
 subtitle: 'Le paradoxe de Jevons : Quand l'efficacité énergétique augmente la consommation finale.'
-summary: L'effet rebond ou paradoxe de Jevons est crucial pour comprendre l'augmentation de la consommation d'énergie et donc des emissions de gaz à effet de serre. 
+summary: L'effet rebond ou paradoxe de Jevons est crucial pour comprendre l'augmentation de la consommation d'énergie et des emissions de gaz à effet de serre. 
 authors:
 - Miquel Pons
 
@@ -9,7 +9,7 @@ tags:
 - 
 categories:
 - Écologie politique
-- COncepts
+- Concepts
 date: Sys.Date()
 lastmod: "2020-11-02T00:00:00Z"
 featured: false
@@ -32,8 +32,8 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 
----
 
+---
 ### Qu’est-ce que l’effet rebond ?
 
 Lorsque des moyens techniques améliore l’efficacité avec laquelle des ressources sont utilisés, la consommation totale peut augmenter au lieu de diminuer. L’effet rebond ou Paradoxe de Jevons théorise donc qu’une nouvelle technologie paraissant plus économe en énergie peut en faire augmenter la consommation.  
