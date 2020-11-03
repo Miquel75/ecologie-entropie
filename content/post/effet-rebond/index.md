@@ -65,7 +65,7 @@ Certes, pour une même quantité de données la 5G permet de transférer l’inf
 -	Il faudra remplacer tous les ordinateurs et smartphones, c’est-à-dire quelque **34 milliards** d’appareils, construits très probablement en Asie et transportés dans le monde entier. Et qui dit nouveaux appareils dit plus d'extraction de métaux rares et de matériaux du sol. De plus il est fort possible que le débit de la 5G permettent de nouveaux usages et donc de nouveaux gadgets tous plus inutiles les uns que les autres. Vous pensiez que ça vous permettrait de vous faire opérer par un chirurgien depuis chez vous ? Soyons réalistes, c’est quand la dernière fois que vous avez fait la poussière ? On ouvre les gens dans des conditions ou elles survivent à l’opération en général et donc à l’hôpital, ou on peut aisément avoir une fibre optique très fiable et rapide.
 -	L’utilisation des données risque d’exploser avec de la vidéo HD partout, panneaux publicitaires, jeux vidéos et réalité augmentés, porno en 4K, séries et films à tout moment pour satisfaire nos cerveaux drogués aux écrans. 
 
-*«Il n’y a que deux industries qui appellent leurs clients » utilisateurs « : les drogues illégales et les logiciels.»*  
+*«Il n’y a que deux industries qui appellent leurs clients "utilisateurs" : les drogues illégales et les logiciels.»*  
 Edward Tufte
 
 Donc lorsque des innovations font leur apparition et que vous entendez des chroniqueurs, journalistes ou politiques parler de leur consommation énergétique en mentionnant l’effet rebond ou le paradoxe de Jevons, prêtez l’oreille. Dans le cas contraire, ce n’est qu’une publicité supplémentaire, baissez le son. 
