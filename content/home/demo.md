@@ -13,7 +13,7 @@ headless: true
 weight: 15
 
 title: <span style="color:#afe5ac"><b>Écologie <br/>&emsp;&ensp; & <br/> Entropie<b/></span>
-subtitle: "***Octopons vulgaris***"
+subtitle: ""
 
 
 design:
