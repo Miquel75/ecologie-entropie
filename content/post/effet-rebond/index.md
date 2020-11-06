@@ -1,7 +1,7 @@
 ---
 title: 'Effet rebond : exemple de la 5G'
 subtitle: "Le paradoxe de Jevons : Quand l'efficacité énergétique augmente la consommation finale."
-summary: "L'effet rebond ou paradoxe de Jevons est crucial pour comprendre l'augmentation de la consommation d'énergie et des emissions de gaz à effet de serre. "
+summary: "L'effet rebond ou paradoxe de Jevons est crucial pour comprendre l'augmentation de la consommation d'énergie et des émissions de gaz à effet de serre. "
 authors:
 - Miquel Pons
 
