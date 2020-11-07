@@ -98,15 +98,16 @@ La quantité totale d’énergie « utile » diminue irrémédiablement. Le sole
 
 L’énergie solaire provenant de la dégradation du soleil est la source de presque toute l’énergie disponible sur terre. La chaleur est la source de circulation du vent et des eaux, amène la pluie et la neige en haut des montagnes produisant les fleuves. Les radiations solaires permettent le développement de la vie notamment via la photosynthèse, produisant la matière organique dont sont constitués les combustibles fossiles. Le pétrole ou le charbon représentent des stocks accumulés d’énergie solaire, captés et conservés pendant des millions d’années par des processus de photosynthèse et de fossilisation. 
 
-Si l’énergie de l’Univers est constante, l’entropie tend vers le maximum.  Cette loi a bouleversé la physique par sa dimension prophétique de mort thermique de l’Univers. Elle détermine l’épuisement des stocks et l’arrêt des moteurs, le déclin irréversible. Sur la base de la loi de l’entropie, le mathématicien et économiste Georgescu-Roegen propose une orientation radicalement différente de l’économique classique. Dans son livre *The Entropy law and the Economic Process* il appelle à une grande réforme de la science économique, en y intégrant les connaissances en biologie et thermodynamique. Il y critique l’absence de prise en compte des ressources naturelles dans les équations et la représentation circulaire production-consommation en système clos de l’économie. L’économie ne prend pas en compte les changements qualitatifs de l’environnement dans lequel elle prend place. 
-
-Pour Georgescu-Roegen dont les travaux inspirent les mouvements décroissants, la loi de l'entropie exprime rigoureusement la rareté des ressources naturelles en envisageant l’épuisement des ressources terrestres sur lesquelles se développent les activités humaines.
-
-
 <img class="fit-picture" 
     src="/media/cochon planete.jpg"
     alt="planete tirelire"
     title="John Lund - Getty"> 
+    
+Si l’énergie de l’Univers est constante, l’entropie tend vers le maximum.  Cette loi a bouleversé la physique par sa dimension prophétique de mort thermique de l’Univers. Elle détermine l’épuisement des stocks et l’arrêt des moteurs, le déclin irréversible. Sur la base de la loi de l’entropie, le mathématicien et économiste Georgescu-Roegen propose une orientation radicalement différente de l’économique classique. Dans son livre *The Entropy law and the Economic Process* il appelle à une grande réforme de la science économique, en y intégrant les connaissances en biologie et thermodynamique. Il y critique l’absence de prise en compte des ressources naturelles dans les équations et la représentation circulaire production-consommation en système clos de l’économie. L’économie ne prend pas en compte les changements qualitatifs de l’environnement dans lequel elle prend place. 
+
+    
+Pour Georgescu-Roegen dont les travaux inspirent les mouvements décroissants, la loi de l'entropie exprime rigoureusement la rareté des ressources naturelles en envisageant l’épuisement des ressources terrestres sur lesquelles se développent les activités humaines.
+
 
 ### Et si la Terre était une entreprise ?
 
