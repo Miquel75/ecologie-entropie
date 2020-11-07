@@ -62,7 +62,7 @@ Lorsque deux corps à températures différentes rentrent en contact, ils échan
 
 **Premier principe de la thermodynamique**
 
-Après la **conservation de la masse*** énoncée plus tôt, voici le principe de **conservation de l’énergie**.   
+Après la **conservation de la masse** énoncée plus tôt, voici le principe de **conservation de l’énergie**.   
 
 *Au cours d'une transformation quelconque d'un système fermé, la variation de son énergie est égale à la quantité d'énergie échangée avec le milieu extérieur, par transfert thermique (chaleur) et transfert mécanique (travail).*  
 
@@ -102,13 +102,25 @@ Si l’énergie de l’Univers est constante, l’entropie tend vers le maximum.
 
 Pour Georgescu-Roegen dont les travaux inspirent les mouvements décroissants, la loi de l'entropie exprime rigoureusement la rareté des ressources naturelles en envisageant l’épuisement des ressources terrestres sur lesquelles se développent les activités humaines.
 
-Image croissance destructions
+
+<img class="fit-picture" 
+    src="/media/cochon planete.jpg"
+    alt="planete tirelire"
+    title="John Lund - Getty"> 
 
 ### Et si la Terre était une entreprise ?
 
-Image entreprise
+<img class="fit-picture" 
+    src="/media/chien business.jpg"
+    alt="chien costume"
+    title=""> 
 
 Le capital de la Terre est constitué de stocks de combustibles fossiles, de minerais métaux et terres rares, d’eau, d’air et de terres arables. Le revenu de la Terre provient de l’énergie solaire.  Lorsque l’on construit un barrage, des panneaux solaires, des éoliennes, des systèmes d’irrigation, une bonne isolation, on utilise le capital pour augmenter le revenu capté. Cependant, l’immense majorité du capital de l’entreprise est actuellement utilisé pour rouler dans des grosses voitures, traverser le monde en première classe en avion et alimenter des piscines en eau potable chauffée. Les économistes ne conseilleraient sûrement pas à une entreprise de dépenser son capital sans se créer de nouveaux revenus ni de mesurer le progrès de l’entreprise à la vitesse croissante d’utilisation du capital. 
+
+<img class="fit-picture" 
+    src="/media/gif business singe.gif"
+    alt="gif singe ordinateur"
+    title=""> 
 
 Si la Terre était une entreprise, nous nous développerions sur le revenu d’énergie solaire (mouvements d’eau et de vent, soleil, forêts...) et utiliserions le capital de matières premières de manière parcimonieuse pour mettre en place des installations (barrages, capteurs solaires, moulins à vent, etc.) qui augmenteraient la capture de l’énergie solaire permettant le développement des activités de l’entreprise. 
 
