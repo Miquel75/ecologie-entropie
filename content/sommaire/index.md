@@ -78,8 +78,8 @@ E.	Sensibilisation
 F.	L’otolithométrie  
 G.	R  
 3.	**Biodiversité**  
-A.	Indicateur – richesse spécifique  
-B.	Pourquoi préserver la biodiversité ?   
+A.	<a href="https://ecologieetentropie.netlify.app/post/biodiversite/">La Biodiversité</a>    
+B.	Ecosystèmes  
 C.	Subarctique 
 D.	La Mer Méditerranée  
 E.	La Forêt  
@@ -100,10 +100,10 @@ E.	La plongée chez les mammifères
 F.	La théorie des jeux le dilemme du prisonnier  
 G.	Homosapiens  
 5.	**L’espèce du mois**   
-
+A.  	<a href="https://ecologieetentropie.netlify.app/post/la-guerre-des-emeus/">La Guerre des Émeus</a>    
 # <span style="background:#d8d8d8">MENACES</span>
 6.	**Réchauffement climatique**  
-A.	Fonctionnement  
+A.	<a href="https://ecologieetentropie.netlify.app/post/rechauffement-climatique/">Fonctionnement</a>  
 B.	Quelques arguments climatosceptiques  
 7.	**Conséquences du RC**  
 A.	La sècheresse  
@@ -120,7 +120,7 @@ G.	Pollution chimique
 9.	**Les espèces invasives**  
 
 # <span style="background:#e8a48b">ÉNERGIE</span>  
-10.	**Première et Seconde loi de la Thermodynamique**  
+10.	<a href="https://ecologieetentropie.netlify.app/post/bases-de-thermodynamique/">**Les lois de la thermodynamique : lien entre entropie et écologie**</a>
 11.	**EROI/TRE Facteur de charge**  
 12.	**Energie Fossiles**  
 A.	Pétrole (dérivés plastique diesel etc..)  
@@ -154,7 +154,7 @@ F.	Réchauffement climatique
 G.	Empreinte carbone   
 &nbsp;&nbsp;&nbsp;a.	La responsabilité individuelle  
 &nbsp;&nbsp;&nbsp;b.	La responsabilité collective  
-H.	L’effet rebond  
+H.	<a href="https://ecologieetentropie.netlify.app/post/effet-rebond/">L’effet rebond</a>   
 I.	Greenwashing    
 J.	Effondrement  
 K.	Equation de Kaya  
