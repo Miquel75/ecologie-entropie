@@ -124,3 +124,16 @@ Les principales **causes** de cette **extinction de masse** sont  la perte et fr
 
 La conservation de la biodiversité devrait être une priorité, au même ordre que la lutte contre le réchauffement climatique, si l’on souhaite que le monde reste un endroit vivable. 
 
+### REFERENCES
+
+http://adrastia.org/etat-du-monde-2020-en-chiffres/?fbclid=IwAR1tA9Fj2VDlplXewcFuL_yzUMXxh2WBZeC4BXtTuEjbvTFEyrSqbL96i8c  
+
+Ceballos, G., Ehrlich, P.R., Barnosky, A.D., García, A., Pringle, R.M., Palmer, T.M., 2015. Accelerated modern human–induced species losses: Entering the sixth mass extinction. Science Advances 1, e1400253. https://doi.org/10.1126/sciadv.1400253  
+
+DeLong, D.C., 1996. Defining Biodiversity. Wildlife Society Bulletin 24, 738–749.
+Etat-du-monde-2020-en-chiffres.pdf, n.d.  
+
+Mace, G.M., Norris, K., Fitter, A.H., 2012. Biodiversity and ecosystem services: a multilayered relationship. Trends in Ecology & Evolution 27, 19–26. https://doi.org/10.1016/j.tree.2011.08.006  
+
+Pearce, D.W., 2014. The Value of Biodiversity, in: Bull, A.T. (Ed.), Microbial Diversity and Bioprospecting. ASM Press, Washington, DC, USA, pp. 469–475. https://doi.org/10.1128/9781555817770.ch44
+
