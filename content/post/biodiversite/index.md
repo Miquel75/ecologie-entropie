@@ -64,7 +64,10 @@ De nombreux indicateurs sont pris en compte en Union Européenne pour suivre l�
 ### Pourquoi protéger la biodiversité ?
 
 Les aspects éthiques et morales ne parlent qu’aux convaincus, je n’en parlerais pas ici. Et puis la morale se passe de mots. Regardez cette photo de bébé caracal extrêmement adorable.
-IMAGE BB CARACAL ou autre
+<img class="fit-picture" 
+    src="/media/caracal baby.jpg"
+    alt="caracal baby"
+    title="caracal baby"> 
 
 Être anthropocentré ne devrait pas être un frein puisque la biodiversité nous fournit gratuitement ce que l’on appelle **les services écosystémiques**. Pour produire le minimum vital dans l’espace, il faut environ 15 milliards d’euros par personne. 15 milliards pour quelques mètres carrés respirables et de l’urine recyclée. Économiquement parlant, la nature nous fournit de l’eau et de l’air pur (qui était pur à la base en tout cas), des biocapteurs solaires fonctionnant à la photosynthèse (les plantes quoi) qui nourrissent les animaux en plus de produire l’oxygène nécessaire à notre survie. L’oxygène de la planète est produit à 1/3 par les arbres et plantes et 2/3 par le phytoplancton, des cellules végétales en suspension dans l’océan composant la base de **la chaîne alimentaire**. 
 
