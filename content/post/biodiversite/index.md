@@ -116,7 +116,7 @@ Et c’est dernièrement que le phénomène s’est vraiment accéléré.
 
 <img class="fit-picture" 
     src="/media/red-eye tree frog.jpg"
-    alt=red eye tree frog"
+    alt="red eye tree frog"
     title="red eye tree frog"> 
 
 
