@@ -1,7 +1,7 @@
 ---
 title: 'La Biodiversité'
 subtitle: "Qu'est ce que la biodiversité et en quoi est-elle importante ?"
-summary: "Qu’est-ce qui constitue la biodiversité ? Qu’est-ce que c’est ? Comment ça se mesure ?"
+summary: "Qu’est-ce qu'est la la biodiversité  ? Comment ça se mesure ? Pourquoi la protéger ?"
 authors:
 - Miquel Pons
 
