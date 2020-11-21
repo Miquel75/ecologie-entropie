@@ -47,7 +47,10 @@ Jusque-là on est d’accord.
 
 On ajoute **TEP** : tonne équivalent pétrole, représentant l’**énergie** consommée dans le monde dans l’équation.
 
-$ CO2=CO2/TEP x TEP $ 
+```math
+CO2=CO2/TEP x TEP
+```
+
 
 CO2/TEP représente donc la quantité de CO2 émise par unité d’énergie utilisé.
 
