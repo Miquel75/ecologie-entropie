@@ -131,13 +131,13 @@ Il est toutefois encourageant de voir qu’elles sont en net augmentation ces de
 
 
 <img class="fit-picture" 
-    src="/media/installed-global-renewable-energy-capacity-by-technology(1).png
+    src="/media/installed solar.png.png
     alt="augmentation production solaire"
     title=""> 
 
 
 <img class="fit-picture" 
-    src="/media/installed-global-renewable-energy-capacity-by-technology.png"
+    src="/media/installed wind.png"
     alt="augmentation production éolien"
     title=""> 
     
