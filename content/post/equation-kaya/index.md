@@ -76,14 +76,14 @@ Cette équation permet de relier les émissions de CO2 à des paramètres essent
 <img class="fit-picture" 
     src="/media/GIEC emissions co2 scenraio 1,5.PNG"
     alt="diminution co2"
-    title="GIEC"> 
+    title="GIEC Résumé à l'intention des décideurs 2019"> 
 
 Donc on ajoute cette contrainte à notre équation, si l’on divise d’un côté on doit diviser de l’autre. Il faudrait donc diviser par 3 l’ensemble des paramètres, que ce soit la population, le contenu CO2 de l’énergie, le PIB par personne ou intensité énergétique. 
 
 &emsp;&emsp;&emsp;&emsp;***CO2 / 3 = (CO2/TEP x TEP/PIB x PIB/POP x POP) / 3***
 
 #### Diminuer la population ?
-À part si on est Thanos, diviser la population par 3 à court terme est peu souhaitable puisque cela signifierait un génocide de 2,6 milliards d’êtres humains. Selon les prévisions nous devrions atteindre 9,7 milliards d’ici 2050 soit un peu plus de 1.2x la population actuelle. 
+À part si on est **Thanos**, diviser la population par 3 à court terme est peu souhaitable puisque cela signifierait un génocide de 2,6 milliards d’êtres humains. Selon les prévisions nous devrions atteindre 9,7 milliards d’ici 2050 soit un peu plus de **1.2x** la population actuelle. 
 
 <img class="fit-picture" 
     src="/media/thanos snap.jpg"
@@ -91,42 +91,41 @@ Donc on ajoute cette contrainte à notre équation, si l’on divise d’un côt
     title=""> 
 
 #### Diminuer la production par personne ?
-Peut-on diviser le PIB par personne par 3 ? Le Produit Interieur Brut par habitant reflète le niveau de vie. Ce n’est pas le meilleur indicateur puisqu’il ne tient pas compte des inégalités mais c’est une bonne approximation de ce qui permet aux habitants d’un pays d’avoir un pouvoir d’achat élevé. Or la diminution du pouvoir d’achat est l’exact contraire de ce que semblent souhaiter la plupart des gens. La plupart du temps on fait des choix, on vote et on agit afin d’améliorer ses conditions de vie. Les politiques qui clament haut et forts « votez pour moi et vous gagnerez moins d’argent » ne sont jamais en tête des sondages. Les élus prennent plutôt la direction de la croissance.
+Peut-on diviser le **PIB par personne** par 3 ? Le Produit Interieur Brut par habitant reflète le niveau de vie. Ce n’est pas le meilleur indicateur puisqu’il ne tient pas compte des inégalités mais c’est une bonne approximation de ce qui permet aux habitants d’un pays d’avoir un **pouvoir d’achat élevé**. Or la diminution du pouvoir d’achat est l’exact contraire de ce que semblent souhaiter la plupart des gens. La plupart du temps on fait des choix, on vote et on agit afin d’améliorer ses conditions de vie. Les politiques qui clament haut et forts « votez pour moi et vous gagnerez moins d’argent » ne sont jamais en tête des sondages. Les **élus** prennent plutôt la direction de la **croissance**.
 
-Une bonne illustration récente est le soulèvement des gilets jaunes suite à la hausse de la taxe carbone de quelques centimes. Certes ce n’était que le déclencheur puisque les revendications qui ont suivi portaient sur la justice fiscale et la démocratie. Mais si cela a suffit à mettre en difficulté de si nombreux ménages en France qu’en serait-il d’une grosse diminution ? En tout cas, elle ne saurait être acceptée sans une réduction des inégalités et une très bonne communication autour des enjeux climatiques. 
+Une bonne illustration récente est le soulèvement des **gilets jaunes** suite à la hausse de la taxe carbone de quelques centimes. Certes ce n’était que le déclencheur puisque les revendications qui ont suivi portaient sur la justice fiscale et la démocratie. Mais si cela a suffit à mettre en difficulté de nombreux ménages en France qu’en serait-il d’une grosse diminution ? En tout cas, elle ne saurait être acceptée sans une réduction des inégalités et une très bonne communication autour des enjeux climatiques. 
 
 <img class="fit-picture" 
     src="/media/Gilets jaunes.jpg"
     alt="manifestation gilets jaunes"
     title="Eric FEFERBERG"> 
 
-Si la population et le PIB par habitant augmentent, c’est donc sur les deux premiers termes de l’équation qu’il faut se concentrer. Bien entendu, si la population est multipliée par 1,2 en 30 ans et que le PIB par habitant est multiplié par 2,5 comme c’est prévu par certains d’économistes, il faut donc diviser les termes de contenu en CO2 de l’énergie consommée et d’intensité énergétique de l’économie par **9**. 
+Si la **population** et le **PIB** par habitant augmentent, c’est donc sur les deux premiers termes de l’équation qu’il faut se concentrer. Bien entendu, si la population est multipliée par 1,2 en 30 ans et que le PIB par habitant est multiplié par 2,5 comme c’est prévu par certains d’économistes, il faut donc diviser les termes de **contenu en CO2 de l’énergie consommée** et d’**intensité énergétique de l’économie** par **9**. 
 
 On a donc : 
 
 &emsp;&emsp;&emsp;&emsp;***CO2 / 3 = ((CO2/TEP x TEP/PIB) / 9) x (PIB/POP x 2.5) x (POP x 1.2)***
 
 #### Diminuer l’intensité énergétique ?
-L’intensité énergétique qui mesure l’**efficacité** énergétique de l’économie, à diminuer d’environ 30% en 35 ans ce qui est super mais reste très loin d’une division par 9. De plus, les études indiquent que si l’efficacité énergétique va continuer s'améliorer, ce sera dans de plus petites proportions que par le passé, les premiers efforts étant toujours les plus faciles. 
+L’intensité énergétique qui mesure l’**efficacité** énergétique de l’économie, à diminuer d’environ 30% en 35 ans ce qui est super mais reste très loin d’une division par 9. De plus, les études indiquent que si l’efficacité énergétique va continuer s'améliorer, ce sera dans de plus petites proportions que par le passé, les **premiers efforts** étant toujours les plus **faciles**. 
 
 <img class="fit-picture" 
     src="/media/energy intensity.PNG"
     alt="intensité énergétique"
     title=""> 
 
-Mais même si on est très optimiste et que des améliorations surprenantes sont faites et qu’on diminue encore de 50% ça voudrait dire que l’on divise cette variable par 2, on est toujours loin du compte. 
-
+Mais même si on est très optimiste et que des améliorations surprenantes sont faites et qu’on diminue encore de 50% ça voudrait dire que l’on divise cette variable par 2, on est toujours **loin du compte**. 
 
 #### Diminuer le contenu en CO2 de l’énergie consommée ?
 
-Reste donc le contenu en CO2 de l’énergie consommée, probablement le facteur de l’équation sur lequel il est le plus facile d’agir. Pour diminuer les émissions de CO2 il faudrait se diriger vers des énergies moins émettrices de CO2 tel que le nucléaire ou les énergies renouvelables. Or les fossiles tels que le charbon, le gaz et le pétrole représentent aujourd’hui **80%** de la production d’énergie dans le monde, le reste étant essentiellement composé de biomasse (bois), de nucléaire et d’hydroélectricité. 
+Reste donc le **contenu en CO2 de l’énergie consommée**, probablement le facteur de l’équation sur lequel il est le plus facile d’agir. Pour diminuer les émissions de CO2 il faudrait se diriger vers des énergies moins émettrices de CO2 tel que le **nucléaire** ou les **énergies renouvelables**. Or les fossiles tels que le charbon, le gaz et le pétrole représentent aujourd’hui **80%** de la production d’énergie dans le monde, le reste étant essentiellement composé de biomasse (bois), de nucléaire et d’hydroélectricité. 
 
 <img class="fit-picture" 
     src="/media/global-primary-energy.png"
     alt="production mondiale d'énergie"
     title=""> 
 
-Non seulement les énergies renouvelables (éolien et solaire) viennent s’**additionner sans remplacer** les énergies fossiles, mais en plus elles ne représentent qu’une infime partie de l’énergie produite.
+Non seulement les énergies renouvelables (éolien et solaire) viennent s’**additionner sans remplacer** aux énergies fossiles, mais en plus elles ne représentent qu’une **infime** partie de l’énergie produite.
 
 Il est toutefois encourageant de voir qu’elles sont en net augmentation ces dernières années.
 
