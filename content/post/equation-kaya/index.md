@@ -39,7 +39,7 @@ projects: []
 
 **CO2 : émissions mondiales de CO2**, le principal **gaz à effet de serre** d’origine anthropique.
 
-$ CO2 = CO2 $
+$$CO2 = CO2$$
 
 Jusque-là on est d’accord. 
 
