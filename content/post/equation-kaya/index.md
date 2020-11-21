@@ -46,6 +46,7 @@ Jusque-là on est d’accord.
 On ajoute **TEP** : tonne équivalent pétrole, représentant l’**énergie** consommée dans le monde dans l’équation.
 
 <div align="center"><B> CO2 = CO2/TEP x TEP</B></div>
+  
 
 **CO2/TEP** représente donc la quantité de CO2 émise par unité d’énergie utilisé.
 
@@ -56,6 +57,7 @@ Donc on a :
 On continue en ajoutant le PIB : Produit Intérieur Brut, qui est l'indicateur de la production de richesse.
 
 <div align="center"><B> CO2 = CO2/TEP x TEP/PIB x PIB </B></div>
+  
 
 Or **TEP/PIB** indique la quantité d’énergie qu’il faut utiliser pour produire du PIB (en euro ou dollar). On appelle cela l’**intensité énergétique** de l’économie.
 
@@ -66,6 +68,7 @@ L’équation indique donc à présent :
 En dernière étape, ajoutons la démographie à l’équation avec la variable POP pour population :
 
 <div align="center"><B> CO2 = CO2/TEP x TEP/PIB x PIB/POP x POP </B></div>
+  
 
 **PIB/POP** correspond au PIB rapporté à chaque personne, c’est donc la **production par personne**, la part de richesse annuel par personne. 
 
