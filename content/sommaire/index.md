@@ -157,7 +157,7 @@ G.	Empreinte carbone
 H.	<a href="https://ecologieetentropie.netlify.app/post/effet-rebond/">L’effet rebond</a>   
 I.	Greenwashing    
 J.	Effondrement  
-K.	<a href="https://ecologieetentropie.netlify.app/post/equation-kaya/">Équation de Kaya</a> 
+K.	<a href="https://ecologieetentropie.netlify.app/post/equation-kaya/">Équation de Kaya</a>   
 L.	Rapport Meadow et inaction politique  
 M.	La croissance vs le réél
 17.	**Transition –Solutions**  
