@@ -50,7 +50,7 @@ I ) L'évolution est le seul mécanisme capable d'expliquer la biodiversité, do
 II ) Les processus écologiques sont dynamiques et, étant soumis à la régulation des processus externes variables, ne restent pas en équilibre (du moins pas indéfiniment)  
 III ) Les êtres humains font partie des systèmes écologiques, donc les activités humaines doivent être envisagées dans la planification de la conservation biologique.   
 
-Le défi de la biologie de la conservation sera donc d'aider à atténuer les effets du changement global, tout en conservant des systèmes naturels complexes et stochastiques dans un cadre évolutif. Fastoche.
+Le défi de la biologie de la conservation sera donc d'aider à atténuer les effets du changement global, tout en conservant des systèmes naturels complexes et stochastiques (aléatoires) dans un cadre évolutif. Fastoche.
 
 ### Comment ça se mesure ? 
 
