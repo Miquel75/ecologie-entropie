@@ -39,13 +39,13 @@ projects: []
 
 **CO2 : émissions mondiales de CO2**, le principal **gaz à effet de serre** d’origine anthropique.
 
-&emsp;&emsp;&emsp;&emsp;***CO2 = CO2***
+<div align="center">***CO2 = CO2***</div>
 
 Jusque-là on est d’accord. 
 
 On ajoute **TEP** : tonne équivalent pétrole, représentant l’**énergie** consommée dans le monde dans l’équation.
 
-&emsp;&emsp;&emsp;&emsp;***CO2=CO2/TEP x TEP***
+<div align="center">***CO2 = CO2/TEP x TEP***</div>
 
 **CO2/TEP** représente donc la quantité de CO2 émise par unité d’énergie utilisé.
 
