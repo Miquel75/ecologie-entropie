@@ -35,17 +35,17 @@ projects: []
 
 ---
 
-#### Construction de l'Équation de Kaya
+### Construction de l'Équation de Kaya
 
 **CO2 : émissions mondiales de CO2**, le principal **gaz à effet de serre** d’origine anthropique.
 
-<div align="center">***CO2 = CO2***</div>
+<div align="center"><B>CO2 = CO2</B></div>
 
 Jusque-là on est d’accord. 
 
 On ajoute **TEP** : tonne équivalent pétrole, représentant l’**énergie** consommée dans le monde dans l’équation.
 
-<div align="center">***CO2 = CO2/TEP x TEP***</div>
+<div align="center"><B> CO2 = CO2/TEP x TEP</B></div>
 
 **CO2/TEP** représente donc la quantité de CO2 émise par unité d’énergie utilisé.
 
@@ -55,7 +55,7 @@ Donc on a :
 
 On continue en ajoutant le PIB : Produit Intérieur Brut, qui est l'indicateur de la production de richesse.
 
-&emsp;&emsp;&emsp;&emsp;***CO2 = CO2/TEP x TEP/PIB x PIB***
+<div align="center"><B> CO2 = CO2/TEP x TEP/PIB x PIB </B></div>
 
 Or **TEP/PIB** indique la quantité d’énergie qu’il faut utiliser pour produire du PIB (en euro ou dollar). On appelle cela l’**intensité énergétique** de l’économie.
 
@@ -65,7 +65,7 @@ L’équation indique donc à présent :
 
 En dernière étape, ajoutons la démographie à l’équation avec la variable POP pour population :
 
-&emsp;&emsp;&emsp;&emsp;***CO2 = CO2/TEP x TEP/PIB x PIB/POP x POP***
+<div align="center"><B> CO2 = CO2/TEP x TEP/PIB x PIB/POP x POP </B></div>
 
 **PIB/POP** correspond au PIB rapporté à chaque personne, c’est donc la **production par personne**, la part de richesse annuel par personne. 
 
@@ -80,9 +80,9 @@ Cette équation permet de relier les émissions de CO2 à des paramètres essent
 
 Donc on ajoute cette contrainte à notre équation, si l’on divise d’un côté on doit diviser de l’autre. Il faudrait donc diviser par 3 l’ensemble des paramètres, que ce soit la population, le contenu CO2 de l’énergie, le PIB par personne ou intensité énergétique. 
 
-&emsp;&emsp;&emsp;&emsp;***CO2 / 3 = (CO2/TEP x TEP/PIB x PIB/POP x POP) / 3***
+<div align="center"><B> CO2 / 3 = (CO2/TEP x TEP/PIB x PIB/POP x POP) / 3 </B></div>
 
-#### Diminuer la population ?
+### Diminuer la population ?
 À part si on est **Thanos**, diviser la population par 3 à court terme est peu souhaitable puisque cela signifierait un génocide de 2,6 milliards d’êtres humains. Selon les prévisions nous devrions atteindre 9,7 milliards d’ici 2050 soit un peu plus de **1.2x** la population actuelle. 
 
 <img class="fit-picture" 
@@ -90,7 +90,7 @@ Donc on ajoute cette contrainte à notre équation, si l’on divise d’un côt
     alt="thanos snap fingers"
     title=""> 
 
-#### Diminuer la production par personne ?
+### Diminuer la production par personne ?
 Peut-on diviser le **PIB par personne** par 3 ? Le Produit Interieur Brut par habitant reflète le niveau de vie. Ce n’est pas le meilleur indicateur puisqu’il ne tient pas compte des inégalités mais c’est une bonne approximation de ce qui permet aux habitants d’un pays d’avoir un **pouvoir d’achat élevé**. Or la diminution du pouvoir d’achat est l’exact contraire de ce que semblent souhaiter la plupart des gens. La plupart du temps on fait des choix, on vote et on agit afin d’améliorer ses conditions de vie. Les politiques qui clament haut et forts « votez pour moi et vous gagnerez moins d’argent » ne sont jamais en tête des sondages. Les **élus** prennent plutôt la direction de la **croissance**.
 
 Une bonne illustration récente est le soulèvement des **gilets jaunes** suite à la hausse de la taxe carbone de quelques centimes. Certes ce n’était que le déclencheur puisque les revendications qui ont suivi portaient sur la justice fiscale et la démocratie. Mais si cela a suffit à mettre en difficulté de nombreux ménages en France qu’en serait-il d’une grosse diminution ? En tout cas, elle ne saurait être acceptée sans une réduction des inégalités et une très bonne communication autour des enjeux climatiques. 
@@ -104,9 +104,9 @@ Si la **population** et le **PIB** par habitant augmentent, c’est donc sur les
 
 On a donc : 
 
-&emsp;&emsp;&emsp;&emsp;***CO2 / 3 = ((CO2/TEP x TEP/PIB) / 9) x (PIB/POP x 2.5) x (POP x 1.2)***
+<div align="center"><B> CO2 / 3 = ((CO2/TEP x TEP/PIB) / 9) x (PIB/POP x 2.5) x (POP x 1.2)</B></div>
 
-#### Diminuer l’intensité énergétique ?
+### Diminuer l’intensité énergétique ?
 L’intensité énergétique qui mesure l’**efficacité** énergétique de l’économie, à diminuer d’environ 30% en 35 ans ce qui est super mais reste très loin d’une division par 9. De plus, les études indiquent que si l’efficacité énergétique va continuer s'améliorer, ce sera dans de plus petites proportions que par le passé, les **premiers efforts** étant toujours les plus **faciles**. 
 
 <img class="fit-picture" 
@@ -116,7 +116,7 @@ L’intensité énergétique qui mesure l’**efficacité** énergétique de l�
 
 Mais même si on est très optimiste et que des améliorations surprenantes sont faites et qu’on diminue encore de 50% ça voudrait dire que l’on divise cette variable par 2, on est toujours **loin du compte**. 
 
-#### Diminuer le contenu en CO2 de l’énergie consommée ?
+### Diminuer le contenu en CO2 de l’énergie consommée ?
 
 Reste donc le **contenu en CO2 de l’énergie consommée**, probablement le facteur de l’équation sur lequel il est le plus facile d’agir. Pour diminuer les émissions de CO2 il faudrait se diriger vers des énergies moins émettrices de CO2 tel que le **nucléaire** ou les **énergies renouvelables**. Or les fossiles tels que le charbon, le gaz et le pétrole représentent aujourd’hui **80%** de la production d’énergie dans le monde, le reste étant essentiellement composé de biomasse (bois), de nucléaire et d’hydroélectricité. 
 
@@ -143,7 +143,7 @@ Il est toutefois encourageant de voir qu’elles sont en net augmentation ces de
     
 Le **taux de croissance** du renouvelable est cependant très élevé puisque ce sont des technologies relativement nouvelles. Plus il y aura d’éolien et de solaire, plus son taux de croissance sera difficile à maintenir (si on a 100 éoliennes et on en ajoute 20 ont a une croissance de 20%, si on a 1000 éoliennes et qu’on veut maintenir 20% de taux de croissance il faut cette fois en ajouter 200). 
 
-#### Critique
+### Critique
 
 L’équation de Kaya ne tient pas compte de tout. C’est une **simplification** extrême de la réalité et elle doit donc être prise avec précaution. Elle ne tient pas compte de l’**hétérogénéité** des différentes régions du monde et les paramètres ne sont **pas indépendants** les uns des autres. Par exemple plus d’efficacité énergétique peut conduire à une augmentation des émissions de CO2 par <a href="https://ecologieetentropie.netlify.app/post/effet-rebond">effet rebond </a>.
 
