@@ -134,7 +134,7 @@ Il est toutefois encourageant de voir qu’elles sont en net augmentation ces de
 
 
 <img class="fit-picture" 
-    src="/media/installed solar.png.png
+    src="/media/installed solar.png"
     alt="augmentation production solaire"
     title=""> 
 

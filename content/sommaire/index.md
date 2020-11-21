@@ -100,7 +100,7 @@ E.	La plongée chez les mammifères
 F.	La théorie des jeux le dilemme du prisonnier  
 G.	Homosapiens  
 5.	**L’espèce du mois**   
-A.  	<a href="https://ecologieetentropie.netlify.app/post/la-guerre-des-emeus/">La Guerre des Émeus</a>    
+A.  <a href="https://ecologieetentropie.netlify.app/post/la-guerre-des-emeus/">La Guerre des Émeus</a>    
 # <span style="background:#d8d8d8">MENACES</span>
 6.	**Réchauffement climatique**  
 A.	<a href="https://ecologieetentropie.netlify.app/post/rechauffement-climatique/">Fonctionnement</a>  
@@ -157,7 +157,7 @@ G.	Empreinte carbone
 H.	<a href="https://ecologieetentropie.netlify.app/post/effet-rebond/">L’effet rebond</a>   
 I.	Greenwashing    
 J.	Effondrement  
-K.	Equation de Kaya  
+K.	<a href="https://ecologieetentropie.netlify.app/post/equation-kaya/">Équation de Kaya</a> 
 L.	Rapport Meadow et inaction politique  
 M.	La croissance vs le réél
 17.	**Transition –Solutions**  
