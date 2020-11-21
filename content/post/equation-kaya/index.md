@@ -1,7 +1,7 @@
 ---
 title: 'Équation de Kaya'
 subtitle: "Une équation qui relie CO2, économie et démographie."
-summary: "Reconstruisons pas à pas l'équation de Kaya, et voyons sur quelles variables nous avons de la marge de manoeuvre pour éviter le réchauffement climatique."
+summary: "Reconstruisons pas à pas l'équation de Kaya et voyons sur quelles variables nous avons de la marge de manoeuvre pour éviter le réchauffement climatique."
 authors:
 - Miquel Pons
 
