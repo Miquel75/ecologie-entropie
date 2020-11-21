@@ -11,7 +11,7 @@ categories:
 - Écologie politique
 - État des lieux
 date: Sys.Date()
-lastmod: "2020-11-18T00:00:00Z"
+lastmod: "2020-11-21T00:00:00Z"
 featured: false
 draft: false
 
