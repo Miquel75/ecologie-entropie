@@ -1,7 +1,7 @@
 ---
 title: 'La Biodiversité'
 subtitle: "Qu'est ce que la biodiversité et en quoi est-elle importante ?"
-summary: "Qu’est-ce qu'est la la biodiversité  ? Comment ça se mesure ? Pourquoi la protéger ?"
+summary: "Qu’est-ce que la biodiversité  ? Comment ça se mesure ? Pourquoi la protéger ?"
 authors:
 - Miquel Pons
 
@@ -35,9 +35,6 @@ projects: []
 
 ---
 
-Les activités humaines ont modifié à peu près tous les milieux de la planète, menant à une crise de la biodiversité. La sixième extinction de masse. 
-
-Qu’est-ce qui constitue la biodiversité ? Qu’est-ce que c’est ? Comment ça se mesure ? 
 
 ### Qu’est-ce que c’est ? 
 
