@@ -39,41 +39,37 @@ projects: []
 
 **CO2 : émissions mondiales de CO2**, le principal **gaz à effet de serre** d’origine anthropique.
 
-CO2 = CO2
-<img src="https://render.githubusercontent.com/render/math?math=CO2 = CO2">
+&nbsp;&nbsp;&nbsp;***CO2 = CO2***
 
 Jusque-là on est d’accord. 
 
 On ajoute **TEP** : tonne équivalent pétrole, représentant l’**énergie** consommée dans le monde dans l’équation.
 
-```math
-CO2=CO2/TEP x TEP
-```
+&nbsp;&nbsp;&nbsp;***CO2=CO2/TEP x TEP***
 
-
-CO2/TEP représente donc la quantité de CO2 émise par unité d’énergie utilisé.
+**CO2/TEP** représente donc la quantité de CO2 émise par unité d’énergie utilisé.
 
 Donc on a :
 
-$ Émission de CO2 = contenu en CO2 de l’énergie consommée x énergie consommées $ 
+***Émission de CO2 = contenu en CO2 de l’énergie consommée x énergie consommées***
 
 On continue en ajoutant le PIB : Produit Intérieur Brut, qui est l'indicateur de la production de richesse.
 
-$ CO2 = CO2/TEP x TEP/PIB x PIB $
+&nbsp;&nbsp;&nbsp;***CO2 = CO2/TEP x TEP/PIB x PIB***
 
-Or TEP/PIB indique la quantité d’énergie qu’il faut utiliser pour produire du PIB (en euro ou dollar). On appelle cela l’**intensité énergétique** de l’économie.
+Or **TEP/PIB** indique la quantité d’énergie qu’il faut utiliser pour produire du PIB (en euro ou dollar). On appelle cela l’**intensité énergétique** de l’économie.
 
 L’équation indique donc à présent :
 
-$ Émission de CO2 = Contenu en CO2 de l’énergie consommée x Intensité énergétique de l’économie x PIB $
+***Émission de CO2 = Contenu en CO2 de l’énergie consommée x Intensité énergétique de l’économie x PIB***
 
 En dernière étape, ajoutons la démographie à l’équation avec la variable POP pour population :
 
-$ CO2 = CO2/TEP x TEP/PIB x PIB/POP x POP $
+&nbsp;&nbsp;&nbsp;***CO2 = CO2/TEP x TEP/PIB x PIB/POP x POP***
 
-PIB/POP correspond au PIB rapporté à chaque personne, c’est donc la **production par personne**, la part de richesse annuel par personne. 
+**PIB/POP** correspond au PIB rapporté à chaque personne, c’est donc la **production par personne**, la part de richesse annuel par personne. 
 
-$ Émission de CO2 = Contenu en CO2 de l’énergie consommée x Intensité énergétique de l’économie x Production par personne x Population $
+***Émission de CO2 = Contenu en CO2 de l’énergie consommée x Intensité énergétique de l’économie x Production par personne x Population***
 
 Cette équation permet de relier les émissions de CO2 à des paramètres essentiels à l’organisation humaine, que ce soit la démographie, le PIB par habitant, l’intensité énergétique et le contenu en CO2 de l’énergie. Or l’objectif pour éviter un **réchauffement climatique** trop important et continuer à vivre dans des conditions climatiques non létales il faudrait se diriger vers une diminution des émissions de CO2 en les divisant par **3 d’ici 2050**. 
 
@@ -81,7 +77,7 @@ Image GIEC scenario 1.5 degré CO2
 
 Donc on ajoute cette contrainte à notre équation, si l’on divise d’un côté on doit diviser de l’autre. Il faudrait donc diviser par 3 l’ensemble des paramètres, que ce soit la population, le contenu CO2 de l’énergie, le PIB par personne ou intensité énergétique. 
 
-$ CO2 / 3 = (CO2/TEP x TEP/PIB x PIB/POP x POP) / 3 $
+&nbsp;&nbsp;&nbsp;***CO2 / 3 = (CO2/TEP x TEP/PIB x PIB/POP x POP) / 3***
 
 #### Diminuer la population ?
 À part si on est Thanos, diviser la population par 3 à court terme est peu souhaitable puisque cela signifierait un génocide de 2,6 milliards d’êtres humains. Selon les prévisions nous devrions atteindre 9,7 milliards d’ici 2050 soit un peu plus de 1.2x la population actuelle. 
@@ -105,7 +101,7 @@ Si la population et le PIB par habitant augmentent, c’est donc sur les deux pr
 
 On a donc : 
 
-$ CO2 / 3 = ((CO2/TEP x TEP/PIB) / 9) x (PIB/POP x 2.5) x (POP x 1.2) $
+&nbsp;&nbsp;&nbsp;***CO2 / 3 = ((CO2/TEP x TEP/PIB) / 9) x (PIB/POP x 2.5) x (POP x 1.2)***
 
 #### Diminuer l’intensité énergétique ?
 L’intensité énergétique qui mesure l’**efficacité** énergétique de l’économie, à diminuer d’environ 30% en 35 ans ce qui est super mais reste très loin d’une division par 9. De plus, les études indiquent que si l’efficacité énergétique va continuer s'améliorer, ce sera dans de plus petites proportions que par le passé, les premiers efforts étant toujours les plus faciles. 
