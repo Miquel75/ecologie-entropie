@@ -38,10 +38,9 @@ projects: []
 #### Construction de l'Équation de Kaya
 
 **CO2 : émissions mondiales de CO2**, le principal **gaz à effet de serre** d’origine anthropique.
-\begin{equation}
-CO2 = CO2
-\end{equation}
 
+CO2 = CO2
+<img src="https://render.githubusercontent.com/render/math?math=CO2 = CO2">
 
 Jusque-là on est d’accord. 
 
