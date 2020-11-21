@@ -73,7 +73,10 @@ En dernière étape, ajoutons la démographie à l’équation avec la variable 
 
 Cette équation permet de relier les émissions de CO2 à des paramètres essentiels à l’organisation humaine, que ce soit la démographie, le PIB par habitant, l’intensité énergétique et le contenu en CO2 de l’énergie. Or l’objectif pour éviter un **réchauffement climatique** trop important et continuer à vivre dans des conditions climatiques non létales il faudrait se diriger vers une diminution des émissions de CO2 en les divisant par **3 d’ici 2050**. 
 
-Image GIEC scenario 1.5 degré CO2
+<img class="fit-picture" 
+    src="/media/GIEC emissions co2 scenraio 1,5.PNG"
+    alt="diminution co2"
+    title="GIEC"> 
 
 Donc on ajoute cette contrainte à notre équation, si l’on divise d’un côté on doit diviser de l’autre. Il faudrait donc diviser par 3 l’ensemble des paramètres, que ce soit la population, le contenu CO2 de l’énergie, le PIB par personne ou intensité énergétique. 
 
@@ -146,3 +149,15 @@ Le **taux de croissance** du renouvelable est cependant très élevé puisque ce
 L’équation de Kaya ne tient pas compte de tout. C’est une **simplification** extrême de la réalité et elle doit donc être prise avec précaution. Elle ne tient pas compte de l’**hétérogénéité** des différentes régions du monde et les paramètres ne sont **pas indépendants** les uns des autres. Par exemple plus d’efficacité énergétique peut conduire à une augmentation des émissions de CO2 par <a href="https://ecologieetentropie.netlify.app/post/effet-rebond">effet rebond </a>.
 
 Si elle n’est pas exacte, l’équation de Kaya permet tout de même de lier le CO2 à l’économie et à la politique, de se faire une idée de la difficulté du problème qui nous est posé et de réaliser dans quel ordre de grandeur la réponse actuelle est insuffisante.
+
+### REFERENCES
+
+https://fr.wikipedia.org/wiki/%C3%89quation_de_Kaya
+
+https://jancovici.com/changement-climatique/economie/quest-ce-que-lequation-de-kaya/
+
+Global and Russian Energy Outlook 2016 / edited by A.A. Makarov, L.M. Grigoriev, T.A. Mitrova; ERI RAS – ACRF,
+Moscow, 2016. – 198 p. - ISBN 978-5-91438-025-7
+
+Résumé à l’intention des décideurs GIEC 2019
+
