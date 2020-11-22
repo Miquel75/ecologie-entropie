@@ -81,15 +81,15 @@ G.	R
 A.	<a href="https://ecologieetentropie.netlify.app/post/biodiversite/">La Biodiversité</a>    
 B.	Ecosystèmes  
 C.	Espèce du mois  
-a.  &nbsp;&nbsp;&nbsp;<a href="https://ecologieetentropie.netlify.app/post/la-guerre-des-emeus/">La Guerre des Émeus</a>    
+  &nbsp;&nbsp;&nbsp;a. <a href="https://ecologieetentropie.netlify.app/post/la-guerre-des-emeus/">La Guerre des Émeus</a>    
 4.	**Concepts d’écologie**  
 A.	Grandes théories  
-B.	La culture chez les animaux / memes 
-C.	L’hétérogénéité individuelle 
-D.	Biosonar : Dauphin vs Chauve-Souris  
-E.	La plongée chez les mammifères    
-F.	La théorie des jeux / dilemme du prisonnier  
-G.	Homosapiens  
+B.	La culture chez les animaux / memes   
+C.	L’hétérogénéité individuelle   
+D.	Biosonar : Dauphin vs Chauve-Souris    
+E.	La plongée chez les mammifères      
+F.	La théorie des jeux / dilemme du prisonnier    
+G.	Homosapiens    
 # <span style="background:#d8d8d8">MENACES</span>
 5.	**Réchauffement climatique**  
 A.	<a href="https://ecologieetentropie.netlify.app/post/rechauffement-climatique/">Fonctionnement</a>  
@@ -103,7 +103,7 @@ A.	Construction, Urbanisation
 B.	Appauvrissement des sols  
 C.	Agroalimentaire - Déforestation  
 D.	La pêche  
-E.	Pollutions
+E.	Pollutions  
 &nbsp;&nbsp;&nbsp;a.  Pollution sonore    
 &nbsp;&nbsp;&nbsp;b.	Pollution plastique/recyclage  
 &nbsp;&nbsp;&nbsp;c.	Pollution chimique  
@@ -172,8 +172,8 @@ G.	Transports
 H.	Changer de Banque    
 
 #	<span style="background:#fffb00">POUR LE FUN</span>  
-18.  Le Seigneur des Anneaux
-19.  Age of Empire  
-21.  Memes 
+15.  Le Seigneur des Anneaux
+16.  Age of Empire  
+17.  Memes 
 
 
