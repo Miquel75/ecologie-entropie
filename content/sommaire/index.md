@@ -111,8 +111,8 @@ E.	Pollutions
 
 # <span style="background:#e8a48b">ÉNERGIE</span>  
 8.  **Les bases**  
-A.  <a href="https://ecologieetentropie.netlify.app/post/bases-de-thermodynamique/">Les lois de la thermodynamique : lien entre entropie et écologie</a>
-B.	EROI/TRE Facteur de charge  
+A.  <a href="https://ecologieetentropie.netlify.app/post/bases-de-thermodynamique/">Les lois de la thermodynamique : lien entre entropie et écologie</a>  
+B.	EROI/TRE Facteur de charge   
 9.	**Energie Fossiles**  
 A.	Pétrole (dérivés plastique diesel etc..)  
 &nbsp;&nbsp;&nbsp;a.	Conventionnel  
