@@ -80,55 +80,46 @@ G.	R
 3.	**Biodiversité**  
 A.	<a href="https://ecologieetentropie.netlify.app/post/biodiversite/">La Biodiversité</a>    
 B.	Ecosystèmes  
-C.	Subarctique 
-D.	La Mer Méditerranée  
-E.	La Forêt  
-F.	Abysses  
-G.	Les coraux  
-H.	Les mangroves  
-I.	Le désert  
-J.	La montagne  
-K.	Le plancton/krill   
+C.	Espèce du mois  
+a.  &nbsp;&nbsp;&nbsp;<a href="https://ecologieetentropie.netlify.app/post/la-guerre-des-emeus/">La Guerre des Émeus</a>    
 4.	**Concepts d’écologie**  
 A.	Grandes théories  
-&nbsp;&nbsp;&nbsp;a.	Darwin et la théorie de l’évolution  
-&nbsp;&nbsp;&nbsp;b.	Dawkins et le gène égoïste  
-B.	La culture chez les animaux / es memes (Dawkins)  
-C.	L’hétérogénéité individuelle dans le monde animal  
-D.	Le sonar Dauphin vs Chauve-Souris  
+B.	La culture chez les animaux / memes 
+C.	L’hétérogénéité individuelle 
+D.	Biosonar : Dauphin vs Chauve-Souris  
 E.	La plongée chez les mammifères    
-F.	La théorie des jeux le dilemme du prisonnier  
+F.	La théorie des jeux / dilemme du prisonnier  
 G.	Homosapiens  
-5.	**L’espèce du mois**   
-A.  <a href="https://ecologieetentropie.netlify.app/post/la-guerre-des-emeus/">La Guerre des Émeus</a>    
 # <span style="background:#d8d8d8">MENACES</span>
-6.	**Réchauffement climatique**  
+5.	**Réchauffement climatique**  
 A.	<a href="https://ecologieetentropie.netlify.app/post/rechauffement-climatique/">Fonctionnement</a>  
 B.	Quelques arguments climatosceptiques  
-7.	**Conséquences du RC**  
-A.	La sècheresse  
-B.	Les incendies  
-C.	Evènement climatique extrêmes
-8.	**Destruction des habitats**  
+C.	**Conséquences du RC**  
+&nbsp;&nbsp;&nbsp;a.	Sècheresse  
+&nbsp;&nbsp;&nbsp;b.	Incendies  
+&nbsp;&nbsp;&nbsp;c.	Evènements climatiques extrêmes
+6.	**Destruction des habitats**  
 A.	Construction, Urbanisation
-B.	L’appauvrissement des sols  
+B.	Appauvrissement des sols  
 C.	Agroalimentaire - Déforestation  
 D.	La pêche  
-E.	Pollution sonore  
-F.	Pollution plastique/recyclage  
-G.	Pollution chimique  
-9.	**Les espèces invasives**  
+E.	Pollutions
+&nbsp;&nbsp;&nbsp;a.  Pollution sonore    
+&nbsp;&nbsp;&nbsp;b.	Pollution plastique/recyclage  
+&nbsp;&nbsp;&nbsp;c.	Pollution chimique  
+7.	**Les espèces invasives** 
 
 # <span style="background:#e8a48b">ÉNERGIE</span>  
-10.	<a href="https://ecologieetentropie.netlify.app/post/bases-de-thermodynamique/">**Les lois de la thermodynamique : lien entre entropie et écologie**</a>
-11.	**EROI/TRE Facteur de charge**  
-12.	**Energie Fossiles**  
+8.  **Les bases**  
+A.  <a href="https://ecologieetentropie.netlify.app/post/bases-de-thermodynamique/">Les lois de la thermodynamique : lien entre entropie et écologie</a>
+B.	EROI/TRE Facteur de charge  
+9.	**Energie Fossiles**  
 A.	Pétrole (dérivés plastique diesel etc..)  
 &nbsp;&nbsp;&nbsp;a.	Conventionnel  
 &nbsp;&nbsp;&nbsp;b.	Pétrole de Schiste et sable bitumineux   
 B.	Charbon  
 C.	Gaz  
-13.	**ENR**  
+10.	**ENR**  
 A.	Etat des lieux  
 B.	Eolien  
 C.	Panneaux solaires  
@@ -136,20 +127,19 @@ D.	Hydroéléctrique
 E.	Géothermie  
 F.	Biocombustible  
 G.	Nouvelles pistes  
-14.	**Le nucléaire**   
-A.	CO2  
-B.	Le fonctionnement   
-C.	Les déchets  
-D.	ASN UNSCEAR et le GIECC a propos du nucléaire  
-15.	**ENR vs Nuc : Le grand débat**  
+11.	**Le nucléaire**   
+A.	Fonctionnement 
+B.	Les déchets  
+C.	ASN UNSCEAR et le GIECC a propos du nucléaire  
+12.	**ENR vs Nuc : Le grand débat**  
   
 #	<span style="background:#4ddfff">ÉCOLOGIE POLITIQUE</span>    
-16.	**Organisation globale – État des lieux**  
-A.	Capitalisme (Vincent Mignerot)  
+13.	**Organisation globale – État des lieux**  
+A.	Capitalisme: outil d'accumulation de l'énergie  
 B.	Démographie   
 C.	Alimentation  
 D.	Numérique(5G)   
-E.	Transport  
+E.	Transports  
 F.	Réchauffement climatique  
 G.	Empreinte carbone   
 &nbsp;&nbsp;&nbsp;a.	La responsabilité individuelle  
@@ -159,23 +149,22 @@ I.	Greenwashing
 J.	Effondrement  
 K.	<a href="https://ecologieetentropie.netlify.app/post/equation-kaya/">Équation de Kaya</a>   
 L.	Rapport Meadow et inaction politique  
-M.	La croissance vs le réél
-17.	**Transition –Solutions**  
-A.	Décroissance  
-B.	Démographie (malthus)  
+M.	Le mythe de la croissance   
+14.	**Transition –Solutions**  
+A.	Décroissance
+B.	Démographie  
 C.	Stratégies   
 D.	Sobriété numérique    
 E.	Un système qui se défend    
-&nbsp;&nbsp;&nbsp;a.	Attaque de khmer verts, amish…)   
-&nbsp;&nbsp;&nbsp;b.	Le sens des mots  
-&nbsp;&nbsp;&nbsp;c.	Conflits d’intérêts   
-&nbsp;&nbsp;&nbsp;d.	Financement campagne  
-&nbsp;&nbsp;&nbsp;e.	Démocracie et médias
+&nbsp;&nbsp;&nbsp;a.	La bataille des mots  
+&nbsp;&nbsp;&nbsp;b.	Conflits d’intérêts     
+&nbsp;&nbsp;&nbsp;c.	Financement campagne    
+&nbsp;&nbsp;&nbsp;d.	Médias  
 F.	Alimentation  
 &nbsp;&nbsp;&nbsp;a.	Permaculture  
-&nbsp;&nbsp;&nbsp;b.	Agroforesterie et autres..  
-&nbsp;&nbsp;&nbsp;c.	Régime végétarien vegan  
-G.	Transport   
+&nbsp;&nbsp;&nbsp;b.	Agroforesterie    
+&nbsp;&nbsp;&nbsp;c.	Régimes alimentaires  
+G.	Transports   
 &nbsp;&nbsp;&nbsp;a.	L’avion  
 &nbsp;&nbsp;&nbsp;b.	Voiture électrique vs voiture thermique  
 &nbsp;&nbsp;&nbsp;c.	Vélo et trottinette électrique vs transport en commun  
@@ -183,8 +172,8 @@ G.	Transport
 H.	Changer de Banque    
 
 #	<span style="background:#fffb00">POUR LE FUN</span>  
-18.  L’écologie dans le Seigneur des Anneaux
-19.  Age of Empire, simulation réaliste ?
+18.  Le Seigneur des Anneaux
+19.  Age of Empire  
 21.  Memes 
 
 
