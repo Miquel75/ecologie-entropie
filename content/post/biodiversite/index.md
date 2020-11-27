@@ -91,7 +91,7 @@ La **résilience** est la capacité d’un système à retrouver son état d’�
 
 Une étude européenne, **Biodepth** (Biodiversité et processus écologiques dans les écosystèmes terrestres herbacés), a montré que non seulement la baisse de la biodiversité diminue la résilience en rendant les plantes plus vulnérables aux pathogènes et herbivores, mais diminue également la **productivité** des terres et la qualité des eaux souterraines. Plus de biodiversité c’est moins d’engrais et de pesticides, puisque le système est intrinsèquement plus fertile et moins envahi par les insectes.
 
-Pour résumé on veut conserver la biodiversité parce que c’est elle qui nous permet de respirer de l’air pur, de boire de l’eau douce, de nous alimenter, dans un système stable et résilient. 
+La biodiversité nous est essentielle, c’est elle qui nous permet de respirer de l’air pur, de boire de l’eau douce, de nous alimenter, dans un système stable et résilient. 
 
 ### État de la biodiversité actuellement
 
@@ -117,7 +117,7 @@ Et c’est dernièrement que le phénomène s’est vraiment accéléré.
     title="red eye tree frog"> 
 
 
-Les principales **causes** de cette **extinction de masse** sont  la perte et fragmentation des habitats (déforestation, agriculture, urbanisation…), la surexploitation (pêche, déforestation, chasse...), les pollutions (de l’eau, de la terre, de l’air), les espèces exotiques envahissantes, et la cerise sur le gâteau du réchauffement climatique.
+Les principales **causes** de cette **extinction de masse** sont  la perte et fragmentation des habitats (déforestation, agriculture, urbanisation…), la surexploitation (pêche, déforestation, chasse...), les pollutions (de l’eau, de la terre, de l’air), les espèces exotiques envahissantes, et la cerise sur le gâteau du réchauffement climatique. Nous sommes sur la voie de la destruction totale de la biodiversité et donc sur la voie de l'auto-destruction. 
 
 La conservation de la biodiversité devrait être une priorité, au même ordre que la lutte contre le réchauffement climatique, si l’on souhaite que le monde reste un endroit vivable. 
 

@@ -110,7 +110,7 @@ On a donc :
 <div align="center"><B> CO2 / 3 = ((CO2/TEP x TEP/PIB) / 9) x (PIB/POP x 2.5) x (POP x 1.2)</B></div>
 
 ### Diminuer l’intensité énergétique ?
-L’intensité énergétique qui mesure l’**efficacité** énergétique de l’économie, à diminuer d’environ 30% en 35 ans ce qui est super mais reste très loin d’une division par 9. De plus, les études indiquent que si l’efficacité énergétique va continuer s'améliorer, ce sera dans de plus petites proportions que par le passé, les **premiers efforts** étant toujours les plus **faciles**. 
+L’intensité énergétique qui mesure l’**efficacité** énergétique de l’économie, à diminuer d’environ 30% en 35 ans ce qui  reste loin d’une division par 9. De plus, les études indiquent que si l’efficacité énergétique va continuer à s'améliorer, ce sera dans de plus petites proportions que par le passé, les **premiers efforts** étant toujours les plus **faciles**. 
 
 <img class="fit-picture" 
     src="/media/energy intensity.PNG"
@@ -144,7 +144,7 @@ Il est toutefois encourageant de voir qu’elles sont en net augmentation ces de
     alt="augmentation production éolien"
     title=""> 
     
-Le **taux de croissance** du renouvelable est cependant très élevé puisque ce sont des technologies relativement nouvelles. Plus il y aura d’éolien et de solaire, plus son taux de croissance sera difficile à maintenir (si on a 100 éoliennes et on en ajoute 20 ont a une croissance de 20%, si on a 1000 éoliennes et qu’on veut maintenir 20% de taux de croissance il faut cette fois en ajouter 200). 
+Le **taux de croissance** du renouvelable est cependant très élevé puisque ce sont des technologies relativement nouvelles. Plus il y aura d’éolien et de solaire, plus son taux de croissance sera difficile à maintenir (si on a 100 éoliennes et on en ajoute 20 on a une croissance de 20%, si on a 1000 éoliennes et qu’on veut maintenir 20% de taux de croissance il faut cette fois en ajouter 200). 
 
 ### Critique
 
