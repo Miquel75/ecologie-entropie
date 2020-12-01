@@ -119,7 +119,7 @@ Et c’est dernièrement que le phénomène s’est vraiment accéléré.
 
 Les principales **causes** de cette **extinction de masse** sont  la perte et fragmentation des habitats (déforestation, agriculture, urbanisation…), la surexploitation (pêche, déforestation, chasse...), les pollutions (de l’eau, de la terre, de l’air), les espèces exotiques envahissantes, et la cerise sur le gâteau du réchauffement climatique. Nous sommes sur la voie de la destruction totale de la biodiversité et donc sur la voie de l'auto-destruction. 
 
-La conservation de la biodiversité devrait être une priorité, au même ordre que la lutte contre le réchauffement climatique, si l’on souhaite que le monde reste un endroit vivable. 
+Comme le point III) de la Biologie de la Conservation le rappelle, les activités humaines font partie des systèmes biologiques. Il nous est profondément souhaitable d'équilibrer le système et de préserver le vivant. La conservation de la biodiversité devrait être une priorité, au même ordre que la lutte contre le réchauffement climatique, si l’on souhaite que le monde reste un endroit vivable. 
 
 ### REFERENCES
 
