@@ -88,9 +88,11 @@ Quelle est la meilleure stratégie ?
 
 Dans une population jouant Colombe, un individu jouant Faucon gagnera R au lieu de R/2 chaque fois. Son gain étant supérieur à celui des Colombes, sa **fitness** est supérieur. La **fitness** étant la capacité à survivre et à se reproduire, Faucon va donc envahir la population. 
 
-Dans une population de Faucon, un individu jouant Colombe gagnera 0 qu’il faut comparer (R-B)/2 que gagnent les Faucons qui rencontrent d’autres Faucons. On peut observer que (R-B)/2 est forcément inférieur à R/2. La sélection naturelle ne sélectionne donc pas la meilleure stratégie, mais aboutit à la stratégie la plus stable. 
-Si R la récompense est supérieure à B l’importance des blessures, alors R>B et donc (R-B)/2 > 0. Ce qui veut dire que Colombe n’envahira jamais la population de Faucons. A ce moment-là le phénotype Faucon est une **stratégie évolutivement stable**.
-Si au contraire B>R alors les Colombes pourront envahir. Ainsi aucun des deux phénotypes n’est stable car ils sont réciproquement envahissables. La stabilité se trouvera à une certaine proportion de chaque phénotype qui dépendra de la valeur de R et de B. Les gains de fitness dépendent de la fréquence des stratégies concurrentes, ce qui peut mener à la coexistence stable de différents types de comportement dans une population. 
+Dans une population de Faucon, un individu jouant Colombe gagnera 0 qu’il faut comparer (R-B)/2 que gagnent les Faucons qui rencontrent d’autres Faucons. On peut observer que (R-B)/2 est forcément inférieur à R/2. La sélection naturelle ne sélectionne donc pas la meilleure stratégie, mais aboutit à la stratégie la plus stable.   
+  
+Si R la récompense est supérieure à B l’importance des blessures, alors **R>B** et donc (R-B)/2 > 0. Ce qui veut dire que Colombe n’envahira jamais la population de Faucons. A ce moment-là le phénotype Faucon est une **stratégie évolutivement stable**.  
+  
+Si au contraire le jeu n'en vaut pas la chandelle et que **B>R**, alors les Colombes pourront envahir. Ainsi aucun des deux phénotypes n’est stable car ils sont réciproquement envahissables. La stabilité se trouvera à une certaine proportion de chaque phénotype qui dépendra de la valeur de R et de B. Les gains de fitness dépendent de la fréquence des stratégies concurrentes, ce qui peut mener à la coexistence stable de différents types de comportement dans une population. 
 Un mutant apparait avec une stratégie différente de Faucon et Colombe, le phénotype « Bourgeois ». 
 Le Bourgeois se bat et joue Faucon lorsqu’il est le premier arrivé sur la Ressource, mais joue Colombe et évite le combat s’il arrive en second. On considère que la probabilité d’arriver le premier est de 1 chance sur 2. 
 
@@ -132,4 +134,10 @@ En répétant le jeu de multiples fois, les stratégies peuvent être modifiées
 Comme dans les exemples précédents, on peut établir la stratégie qui permettra d'obtenir le plus de gains. Ces gains donnent aux individus une meilleure **fitness** et donc une plus grande probabilité de survivre et de se reproduire.  
 Les modèles basés sur ces concepts constituent des outils puissants pour comprendre l'évolution en proposant une mesure de la **valeur sélective**. 
 
+### REFERENCES
+Stratégie évolutivement stable, 2019 ––  Wikipédia.  
+  
+Théorie des jeux — Wikipédia  
+  
+Isabelle OLIVIERI  et Pierre-Henri GOUYON GÉNÉTIQUE ÉVOLUTIVE ET THÉORIE DES JEUX
 
