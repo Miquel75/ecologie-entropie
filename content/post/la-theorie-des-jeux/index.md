@@ -39,53 +39,59 @@ projects: []
 
 Deux prisonniers complices ont été arrêtés et sont dans deux cellules séparées sans aucun moyen de communiquer entre eux. On leur donne plusieurs choix : 
 
--	Si un seul des prisonniers dénonce l’autre il est libéré tandis que son partenaire fera 10 ans de prison
+-	Si un seul des prisonniers dénonce l’autre, il est libéré tandis que son partenaire fera 10 ans de prison
 -	Si les deux se dénoncent, ces snitchs seront condamnées à 5 ans de prison
--	Si les deux gardent le silence ils ne feront que 6 mois de prison chacun
+-	Si les deux gardent le silence, ils ne feront que 6 mois de prison chacun
 
-Que devraient faire chacun des prisonniers ? 
+Que devrait faire chacun des prisonniers ? 
 -	« Dans le cas où il me dénonce »
-Si je me tais je fais 10 ans de prisons
-Si je le dénonce je fais 5 ans de prisons
+Si je me tais, je fais 10 ans de prison
+Si je le dénonce, je fais 5 ans de prison
 Dénoncer est plus intéressant. 
 -	« Dans le cas où il se tait »
-Si je me tais je fais 6 mois de prisons
-Si je le dénonce je suis libéré. 
+Si je me tais, je fais 6 mois de prison
+Si je le dénonce, je suis libéré. 
 Dénoncer est plus intéressant.
 
-Les règles favorisant la trahison, le plus probable c’est que les prisonniers fassent 5 ans de prisons chacun alors qu’ils pourraient se taire tous les deux pour un résultat optimal de 6 mois de prison. C’est là tout le dilemme du prisonnier et l’exemple couramment donné pour illustré la **théorie des jeux**.  
+Les règles favorisant la trahison, le plus probable c’est que les prisonniers fassent 5 ans de prison chacun alors qu’ils pourraient se taire tous les deux pour un résultat optimal de 6 mois de prison. C’est là tout le dilemme du prisonnier et l’exemple couramment donné pour illustré la **théorie des jeux**.  
 
-Ce domaine des mathématiques s’intéresse aux interactions stratégiques entre individus et est utilisé comme outil théorique dans de nombreux domaine tel que l’économie, les sciences sociales, la politique et la biologie. 
+Ce domaine des mathématiques s’intéresse aux interactions stratégiques entre individus et est utilisé comme outil théorique dans de nombreux domaines tels que l’économie, les sciences sociales, la politique et la biologie. 
 
 C’est un concept simple et très souvent applicable. Il est donc intéressant d’en avoir quelques notions.
 
 ### La théorie des jeux en biologie
 
-John Maynard Smith développe en 1982 dans son livre *Evolution & the theory of games* la théorie de **stratégie évolutivement stable (SES)** en utilisant la théorie des jeux et **l’équilibre de Nash**. Dans le cas où chacun des prisonniers dénonce l’autre on atteint l’équilibre de Nash, où chacun prévoit correctement le choix de l’autre et en tenant compte de cette prédiction, maximise son gain. Dit autrement, c’est quand aucun des « joueurs » n’a d’intérêt à changer unilatéralement de stratégie.
+John Maynard Smith développe en 1982 dans son livre *Evolution & the theory of games* la théorie de **stratégie évolutivement stable (SES)** en utilisant la théorie des jeux et **l’équilibre de Nash**. Dans le cas où chacun des prisonniers dénonce l’autre, on atteint l’équilibre de Nash, où chacun prévoit correctement le choix de l’autre et en tenant compte de cette prédiction, maximise son gain. Dis autrement, c’est quand aucun des « joueurs » n’a d’intérêt à changer unilatéralement de stratégie.
 
 Dans une grande population de joueurs qui se rencontre aléatoirement, une stratégie est évolutivement stable si aucune autre stratégie n’est capable de l’envahir. 
 
 ### Stratégie Faucon vs Colombe
 
-Il y a une ressource que l’on appellera R convoitée par des individus.
+Il y a une ressource que l’on appellera R convoité par des individus.
 Au cours de leurs interactions, les individus peuvent adopter deux comportements, deux stratégies. 
-Le Faucon (F) est agressif et s’imposera jusqu’à être blessé ou que l’autre batte en retraite. 
+Le Faucon (F) est agressif et s’imposera jusqu’à être blessé ou que l'autre joueur batte en retraite. 
 La colombe (C) bat en retraite si l’adversaire se montre agressif. 
 Lorsque deux faucons se rencontrent, l’un est blessé (-B) et l’autre remporte la ressource (R) avec une probabilité de 1/2.
 Lorsqu’un faucon rencontre une colombe, le faucon remporte la ressource sans être blessé et la colombe fuit également sans dommages.
-Lorsque deux colombes se rencontrent elles partagent la ressource. 
+Lorsque deux colombes se rencontrent,  elles partagent la ressource. 
 
-On peu donc créer le tableau suivant :
+On peut donc créer le tableau suivant :
 	F	C
 F	(R-B)/2	R
 C	0	R/2
+
+| Titre 1       |     Titre 2     |        Titre 3 |
+| :------------ | :-------------: | -------------: |
+| Colonne       |     Colonne     |        Colonne |
+| Alignée à     |   Alignée au    |      Alignée à |
+| Gauche        |     Centre      |         Droite |
 
 Quelle est la meilleure stratégie ? 
 
 Dans une population jouant Colombe, un individu jouant Faucon gagnera R au lieu de R/2 chaque fois. Son gain étant supérieur à celui des Colombes, sa **fitness** est supérieur. La **fitness** étant la capacité à survivre et à se reproduire, Faucon va donc envahir la population. 
 
-Dans une population de Faucon, un individu jouant Colombe gagnera 0 qu’il faut comparer (R-B)/2 que gagnent les Faucons qui rencontre d’autres Faucons. On peut observer que (R-B)/2 est forcément inférieur à R/2. La sélection naturelle ne sélectionne donc pas la meilleure stratégie mais aboutit à la stratégie la plus stable. 
-Si R la récompense est supérieur à B l’importance des blessures, alors R>B et donc (R-B)/2 > 0. Ce qui veut dire que Colombe n’envahira jamais la population de Faucons. A ce moment-là le phénotype Faucon est une **stratégie évolutivement stable**.
+Dans une population de Faucon, un individu jouant Colombe gagnera 0 qu’il faut comparer (R-B)/2 que gagnent les Faucons qui rencontrent d’autres Faucons. On peut observer que (R-B)/2 est forcément inférieur à R/2. La sélection naturelle ne sélectionne donc pas la meilleure stratégie, mais aboutit à la stratégie la plus stable. 
+Si R la récompense est supérieure à B l’importance des blessures, alors R>B et donc (R-B)/2 > 0. Ce qui veut dire que Colombe n’envahira jamais la population de Faucons. A ce moment-là le phénotype Faucon est une **stratégie évolutivement stable**.
 Si au contraire B>R alors les Colombes pourront envahir. Ainsi aucun des deux phénotypes n’est stable car ils sont réciproquement envahissables. La stabilité se trouvera à une certaine proportion de chaque phénotype qui dépendra de la valeur de R et de B. Les gains de fitness dépendent de la fréquence des stratégies concurrentes, ce qui peut mener à la coexistence stable de différents types de comportement dans une population. 
 Un mutant apparait avec une stratégie différente de Faucon et Colombe, le phénotype « Bourgeois ». 
 Le Bourgeois se bat et joue Faucon lorsqu’il est le premier arrivé sur la Ressource, mais joue Colombe et évite le combat s’il arrive en second. On considère que la probabilité d’arriver le premier est de 1 chance sur 2. 
@@ -117,11 +123,11 @@ Colombe	0	25	12.5
 Bourgeois	-12.5	37.5	25
 
 Sur une population établie de Bourgeois, un mutant Faucon ou Colombe ne pourra pas envahir, étant donné que ces deux stratégies rapportent 12.5 de gain contre 25 pour Bourgeois. Par contre un mutant Bourgeois envahira une population Colombe ou une population Faucon. La stratégie Bourgeois est une stratégie évolutivement stable car elle n’est pas envahissable.
-Les gains qu’induisent un comportement permettent de déterminer quelles stratégies envahiront la population et à quelle fréquence. Bien entendu, les exemples précédemment sont extrêmement schématique et simplifiés. 
+Les gains qu’induisent un comportement permettent de déterminer quelles stratégies envahiront la population et à quelle fréquence. Bien entendu, les exemples précédemment sont extrêmement schématiques et simplifiés. 
 
-En répétant le jeu de multiples fois, les stratégies peuvent être modifiées. En effet il devient moins intéressant dans le cas du dilemme du prisonnier de trahir si on rejoue. On s’expose à une stratégie vengeresse. Il a été observé que souvent la meilleure stratégie est de coopérer dès le début, puis de copier la stratégie adverse par la suite. S’il coopère on continue de coopérer, s’il trahi, on trahi a notre tour. 
+En répétant le jeu de multiples fois, les stratégies peuvent être modifiées. En effet il devient moins intéressant dans le cas du dilemme du prisonnier de trahir si on rejoue. On s’expose à une stratégie de vengeance. Il a été observé que souvent la meilleure stratégie est de coopérer dès le début, puis de copier la stratégie adverse par la suite. S’il coopère on continue de coopérer, s’il trahit, on trahit a notre tour. 
 
 Comme dans les exemples précédents, on peut établir la stratégie qui permettra d'obtenir le plus de gains. Ces gains donnent aux individus une meilleure **fitness** et donc une plus grande probabilité de survivre et de se reproduire.  
-Les modèles basés sur ces concepts constitue des outils puissants pour comprendre l'évolution en proposant une mesure de la **valeur séléctive**. 
+Les modèles basés sur ces concepts constituent des outils puissants pour comprendre l'évolution en proposant une mesure de la **valeur sélective**. 
 
 
