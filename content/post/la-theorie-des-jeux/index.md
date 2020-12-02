@@ -76,15 +76,13 @@ Lorsqu’un faucon rencontre une colombe, le faucon remporte la ressource sans �
 Lorsque deux colombes se rencontrent,  elles partagent la ressource. 
 
 On peut donc créer le tableau suivant :
-	F	C
-F	(R-B)/2	R
-C	0	R/2
 
-| Titre 1       |     Titre 2     |        Titre 3 |
+
+|               |     Faucon      |    Colombe     |
 | :------------ | :-------------: | -------------: |
-| Colonne       |     Colonne     |        Colonne |
-| Alignée à     |   Alignée au    |      Alignée à |
-| Gauche        |     Centre      |         Droite |
+| Faucon        |   	(R-B)/2     |     	R        |
+| Colombe       |        0        |      R/2       |
+
 
 Quelle est la meilleure stratégie ? 
 
@@ -109,18 +107,22 @@ Un Bourgois rencontrant un Bourgeois aura un gain de :
 
 ½ x ((R-B)/2 + R) + ½ x (0 + R/2)  = (R-B)/4 + R/2 + R/4 = = (R-B)/4 + 3R/4 = R-B/4
 
+|      \        |     Faucon      |    Colombe     |   Bourgeois    |
+| :------------ | :-------------: | -------------: | -------------: |
+| Faucon        |   	(R-B)/2     |     	R        |    (3R-B)/4    |
+| Colombe       |        0        |      R/2       |      R/4       |
+| Bourgeois     |     (R-B)/4     |      3R/4      |      R-B/4     |
 
-	Faucon	Colombe 	Bourgeois
-Faucon	(R-B)/2	R	(3R-B)/4
-Colombe	0	R/2	R/4
-Bourgeois	(R-B)/4	3R/4	R-B/4
+
 
 Si par exemple on a R = 50 et B = 100
 
-	Faucon	Colombe 	Bourgeois
-Faucon	-25	50	12.5
-Colombe	0	25	12.5
-Bourgeois	-12.5	37.5	25
+
+|      \        |     Faucon      |    Colombe     |   Bourgeois    |
+| :------------ | :-------------: | -------------: | -------------: |
+| Faucon        |       -25       |     	50       |      12.5      |
+| Colombe       |        0        |       25       |      12.5      |
+| Bourgeois     |      -12.5      |      37.5      |       25       |
 
 Sur une population établie de Bourgeois, un mutant Faucon ou Colombe ne pourra pas envahir, étant donné que ces deux stratégies rapportent 12.5 de gain contre 25 pour Bourgeois. Par contre un mutant Bourgeois envahira une population Colombe ou une population Faucon. La stratégie Bourgeois est une stratégie évolutivement stable car elle n’est pas envahissable.
 Les gains qu’induisent un comportement permettent de déterminer quelles stratégies envahiront la population et à quelle fréquence. Bien entendu, les exemples précédemment sont extrêmement schématiques et simplifiés. 
