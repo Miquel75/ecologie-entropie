@@ -43,6 +43,11 @@ Deux prisonniers complices ont été arrêtés et sont dans deux cellules sépar
 -	Si les deux se dénoncent, ces snitchs seront condamnées à 5 ans de prison
 -	Si les deux gardent le silence, ils ne feront que 6 mois de prison chacun
 
+<img class="fit-picture" 
+    src="/media/prisonnier.jpg"
+    alt="prisonnier cellule"
+    title=""> 
+
 Que devrait faire chacun des prisonniers ? 
 -	« Dans le cas où il me dénonce »
 Si je me tais, je fais 10 ans de prison
@@ -69,7 +74,19 @@ Dans une grande population de joueurs qui se rencontre aléatoirement, une strat
 
 Il y a une ressource que l’on appellera R convoité par des individus.
 Au cours de leurs interactions, les individus peuvent adopter deux comportements, deux stratégies. 
+
+<img class="fit-picture" 
+    src="/media/faucon.jpg"
+    alt="prisonnier cellule"
+    title="Lindsey Jayne"> 
+    
 Le Faucon (F) est agressif et s’imposera jusqu’à être blessé ou que l'autre joueur batte en retraite. 
+
+<img class="fit-picture" 
+    src="/media/dove.jpg"
+    alt="colombe"
+    title="Image by michel kwan from Pixabay"> 
+
 La colombe (C) bat en retraite si l’adversaire se montre agressif. 
 Lorsque deux faucons se rencontrent, l’un est blessé (-B) et l’autre remporte la ressource (R) avec une probabilité de 1/2.
 Lorsqu’un faucon rencontre une colombe, le faucon remporte la ressource sans être blessé et la colombe fuit également sans dommages.
