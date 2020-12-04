@@ -88,7 +88,7 @@ B.	La culture chez les animaux / memes
 C.	L’hétérogénéité individuelle   
 D.	Biosonar : Dauphin vs Chauve-Souris    
 E.	La plongée chez les mammifères      
-F.	<a href="https://ecologieetentropie.netlify.app/post/la-theorie-des-jeux/">La théorie des jeux/a>    
+F.	<a href="https://ecologieetentropie.netlify.app/post/la-theorie-des-jeux/">La théorie des jeux</a>    
 G.	Homosapiens    
 # <span style="background:#d8d8d8">MENACES</span>
 5.	**Réchauffement climatique**  
