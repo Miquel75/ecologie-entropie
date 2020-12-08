@@ -1,7 +1,7 @@
 ---
 title: 'La sixième extinction de masse'
 subtitle: ""
-summary: "Qu’est-ce qu'une extinction de masse ? Qu'est ce qui la cause ? Comment l'empêcher ?
+summary: "Qu’est-ce qu'une extinction de masse ? Qu'est ce qui la cause ? Comment l'empêcher ?"
 authors:
 - Miquel Pons
 
