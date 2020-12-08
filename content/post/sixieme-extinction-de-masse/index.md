@@ -53,12 +53,7 @@ La seconde serait volcanique comme le témoignent **les trapps du Deccan**, un p
     alt="trapps du Deccan"
     title="DR Futura planète"> 
     
-Ces deux phénomènes auraient privé la végétation de soleil et **acidifié** les océans détruisant la base de la chaîne alimentaire, privant les herbivores de nourritures et privant les célèbres prédateurs de nourriture.
-
-<img class="fit-picture" 
-    src="/media/tyrannosaure.jpg"
-    alt="tyrannosaure volcan"
-    title="pin by Yaiza Jurassic World Tyrannosaure"> 
+Ces deux phénomènes auraient privé la végétation de soleil et **acidifié** les océans détruisant la base de la chaîne alimentaire, privant les herbivores de nourritures et privant les célèbres tyrannosaures de nourriture.
     
 Cette extinction aurait provoqué la disparition de 50% des espèces en une durée supposée assez longue de plusieurs **milliers d’année**. 
 
