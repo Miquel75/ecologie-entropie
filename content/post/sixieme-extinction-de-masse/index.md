@@ -36,8 +36,24 @@ projects: []
 ---
 
 
-On appelle **extinction de masse** ou **crise écologique**, une période courte relativement à l’histoire de la Terre, ou un grand nombre d’espèce disparait.
-Un évènement de ce type est assez célèbre pour avoir mis fin à l’ère des dinosaures (non aviens, les oiseaux étant des dinosaures) il y a 66 millions d’années, l’extinction du crétacé-paléogène ou crétacé-tertiaire. On impute cette extinction à deux principales causes qui pourraient d’ailleurs être connectées. La première cause serait cosmique avec la chute d’un astéroïde à l'origine du cratère de **Chicxulub** (péninsule du Yucatan, Mexique). La seconde serait volcanique comme le témoignent **les trapps du Deccan**, un plateau formé par des écoulements massifs de lave à cette époque. Ces deux phénomènes auraient privé la végétation de soleil et **acidifié** les océans détruisant la base de la chaîne alimentaire, privant les herbivores de nourritures et privant les célèbres prédateurs de nourriture.
+On appelle **extinction de masse** ou **crise écologique**, une période courte relativement à l’histoire de la Terre, ou un grand nombre d’espèce disparait.   
+
+Un évènement de ce type est assez célèbre pour avoir mis fin à l’ère des dinosaures (non aviens, les oiseaux étant des dinosaures) il y a 66 millions d’années, l’extinction du crétacé-paléogène ou crétacé-tertiaire. On impute cette extinction à deux principales causes qui pourraient d’ailleurs être connectées.   
+La première cause serait cosmique avec la chute d’un astéroïde à l'origine du cratère de **Chicxulub** (péninsule du Yucatan, Mexique). 
+
+<img class="fit-picture" 
+    src="/media/crater-superJumbo.jpg"
+    alt="cratère"
+    title="New York time, SuperJumbo"> 
+    
+La seconde serait volcanique comme le témoignent **les trapps du Deccan**, un plateau formé par des écoulements massifs de lave à cette époque. 
+
+<img class="fit-picture" 
+    src="/media/trapp-deccan-dr.jpg"
+    alt="trapps du Deccan"
+    title="DR Futura planète"> 
+    
+Ces deux phénomènes auraient privé la végétation de soleil et **acidifié** les océans détruisant la base de la chaîne alimentaire, privant les herbivores de nourritures et privant les célèbres prédateurs de nourriture.
 
 <img class="fit-picture" 
     src="/media/tyrannosaure.jpg"
