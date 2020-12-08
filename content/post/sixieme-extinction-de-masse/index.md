@@ -96,11 +96,11 @@ Bien entendu des efforts sont faits pour freiner cette catastrophe. La superfici
     title="Perspectives mondiales de la diversité biologique 5"> 
 
 Comme l’indique ce graphique issu du dernier rapport « Perspectives mondiales de la diversité biologique 5 » sortie en 2020, le rythme de déclin de la biodiversité nécessiterait pour être freiner des efforts sur plusieurs domaines.   
-1-Continuer les efforts sur la ***conservation** et la **restauration** des écosystèmes ce qui veut dire plus d’**investissement** dans la **recherche** et la **création d’aires protégées**  
-2-Agir sur le **réchauffement climatique** en diminuant les émissions de **CO2**  
-3-Prendre des mesures contre les espèces **envahissantes** et la **surexploitation** des ressources naturelles  
-4-Adopter une production plus **durable** des biens et services notamment en ce qui concerne l’alimentation  
-5-La **réduction de la consommation**  
+1- Continuer les efforts sur la **conservation** et la **restauration** des écosystèmes ce qui veut dire plus d’**investissement** dans la **recherche** et la **création d’aires protégées**  
+2- Agir sur le **réchauffement climatique** en diminuant les émissions de **CO2**  
+3- Prendre des mesures contre les espèces **envahissantes** et la **surexploitation** des ressources naturelles  
+4- Adopter une production plus **durable** des biens et services notamment en ce qui concerne l’alimentation  
+5- La **réduction de la consommation**  
 
 Les auteurs du rapport soulignent qu’aucun de ces domaines d’intervention ne peut à lui tout seul inverser la tendance. Par contre l’efficacité de chaque domaine est accrue par les autres.   
 
