@@ -78,12 +78,12 @@ Une extinction massive de la biodiversité est bel et bien en cours.
 
 ### Quels en sont les facteurs ?
 
-Vous vous en doutez ce sont les **activités humaines** qui sont coupables de ce massacre. Les principales causes sont : 
-1- Pertes et fragmentation d’habitat
-2- Surexploitation 
-3- La pollution
-4- Espèces envahissantes
-5- Changement climatique 
+Vous vous en doutez ce sont les **activités humaines** qui sont coupables de ce massacre. Les principales causes sont :   
+1- Pertes et fragmentation d’habitat  
+2- Surexploitation   
+3- La pollution  
+4- Espèces envahissantes  
+5- Changement climatique   
 
 ### Limiter les dégâts
 
@@ -91,23 +91,24 @@ Bien entendu des efforts sont faits pour freiner cette catastrophe. La superfici
 
 
 <img class="fit-picture" 
-    src="/media/Image mesures visant à réduire la perte de biodiversité.PNG"
-    alt="Image mesures visant à réduire la perte de biodiversité"
+    src="/media/mesures visant a réduire la perte de biodiversité.PNG"
+    alt="mesures visant à réduire la perte de biodiversité"
     title="Perspectives mondiales de la diversité biologique 5"> 
 
-Comme l’indique ce graphique issu du dernier rapport « Perspectives mondiales de la diversité biologique 5 » sortie en 2020, le rythme de déclin de la biodiversité nécessiterait pour être freiner des efforts sur plusieurs domaines. 
-1-Continuer les efforts sur la ***conservation** et la **restauration** des écosystèmes ce qui veut dire plus d’**investissement** dans la **recherche** et la **création d’aires protégées**
-2-Agir sur le **réchauffement climatique** en diminuant les émissions de **CO2**
-3-Prendre des mesures contre les espèces **envahissantes** et la **surexploitation** des ressources naturelles
-4-Adopter une production plus **durable** des biens et services notamment en ce qui concerne l’alimentation
-5-La **réduction de la consommation**
-Les auteurs du rapport soulignent qu’aucun de ces domaines d’intervention ne peut à lui tout seul inverser la tendance. Par contre l’efficacité de chaque domaine est accrue par les autres. 
+Comme l’indique ce graphique issu du dernier rapport « Perspectives mondiales de la diversité biologique 5 » sortie en 2020, le rythme de déclin de la biodiversité nécessiterait pour être freiner des efforts sur plusieurs domaines.   
+1-Continuer les efforts sur la ***conservation** et la **restauration** des écosystèmes ce qui veut dire plus d’**investissement** dans la **recherche** et la **création d’aires protégées**  
+2-Agir sur le **réchauffement climatique** en diminuant les émissions de **CO2**  
+3-Prendre des mesures contre les espèces **envahissantes** et la **surexploitation** des ressources naturelles  
+4-Adopter une production plus **durable** des biens et services notamment en ce qui concerne l’alimentation  
+5-La **réduction de la consommation**  
+
+Les auteurs du rapport soulignent qu’aucun de ces domaines d’intervention ne peut à lui tout seul inverser la tendance. Par contre l’efficacité de chaque domaine est accrue par les autres.   
 
 On peut voir cette extinction de différentes manières. Un énorme **gâchis de ressource**, la biodiversité nous rendant de nombreux services écosystémiques allant de l’oxygène que nous respirons, à la pollinisation de nos aliments jusqu’au bien-être d’une balade en forêt.   
 
 Un **génocide inter-espèce** éradiquant les espèces une par une, ou plutôt par paquet de dix actuellement. Le dodo a ainsi été rayé de la carte, se voyant nié le droit d’exister.   
 
-Un incurable cancer de la biosphère grossissant sur la planète au rythme de ce que l’on appelle « croissance économique ». 
+Un incurable **cancer** de la biosphère grossissant sur la planète au rythme de ce que l’on appelle **croissance économique**. 
 
 <img class="fit-picture" 
     src="/media/stonks.jpg"
