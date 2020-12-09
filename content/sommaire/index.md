@@ -78,9 +78,10 @@ E.	Sensibilisation
 F.	L’otolithométrie  
 G.	R  
 3.	**Biodiversité**  
-A.	<a href="https://ecologieetentropie.netlify.app/post/biodiversite/">La Biodiversité</a>    
-B.	Ecosystèmes  
-C.	Espèce du mois  
+A.	<a href="https://ecologieetentropie.netlify.app/post/biodiversite/">La Biodiversité</a>  
+B.  <a href="https://ecologieetentropie.netlify.app/post/sixieme-extinction-de-masse/">Sixième extinction de masse</a>   
+C.	Ecosystèmes  
+D.	Espèce du mois  
   &nbsp;&nbsp;&nbsp;a. <a href="https://ecologieetentropie.netlify.app/post/la-guerre-des-emeus/">La Guerre des Émeus</a>    
 4.	**Concepts d’écologie**  
 A.	Grandes théories  
