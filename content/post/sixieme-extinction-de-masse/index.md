@@ -104,7 +104,7 @@ Comme l’indique ce graphique issu du dernier rapport « Perspectives mondiales
 
 Les auteurs du rapport soulignent qu’aucun de ces domaines d’intervention ne peut à lui tout seul inverser la tendance. Par contre l’efficacité de chaque domaine est accrue par les autres.   
 
-On peut voir cette extinction de différentes manières. Un énorme **gâchis de ressource**, la biodiversité nous rendant de nombreux services écosystémiques allant de l’oxygène que nous respirons, à la pollinisation de nos aliments jusqu’au bien-être d’une balade en forêt.   
+On peut voir cette extinction de différentes manières. Un énorme **gâchis de ressource**, la biodiversité nous rendant de nombreux <a href="https://ecologieetentropie.netlify.app/post/biodiversite/">services écosystémiques</a>   allant de l’oxygène que nous respirons, à la pollinisation de nos aliments jusqu’au bien-être d’une balade en forêt.   
 
 Un **génocide inter-espèce** éradiquant les espèces une par une, ou plutôt par paquet de dix actuellement. Le dodo a ainsi été rayé de la carte, se voyant nié le droit d’exister.   
 
