@@ -73,7 +73,7 @@ Les aspects éthiques et morales ne parlent qu’aux convaincus, je n’en parle
 
 La **chaîne alimentaire** est composée de trois grands groupes permettant l’équilibre du système : les producteurs (végétaux), les consommateurs (animaux), et les décomposeurs (bactéries et champignons). La relation entre chaque maillon de cette chaîne est si complexe que même les modèles informatiques les plus récents ont du mal à les comprendre. 
 
-Si on parle de **service écosystémique**, c’est parce que c’est l’écosystème dans toute sa complexité qui nous fournit ce monde dans lequel l’humain s’est développé et multiplié. Une **monoculture** ne garantit pas les mêmes avantages qu’un **écosystème complet**. 
+Si on parle de **service écosystémique**, c’est parce que c’est l’écosystème dans toute sa complexité qui nous fournit ce monde dans lequel l’humain s’est développé et multiplié. Une **monoculture** ne garantit pas les mêmes avantages qu’un **écosystème complexe**. 
 
 Un exemple assez classique c’est les **loups du Parc du Yellowstone**. Après 70 ans d’absence, les loups ont été réintroduits dans le parc en 1995. En tant que top prédateur, ils ont impact sur toute la chaîne en régulant la population d’herbivores. Les arbres ont augmenté de tailles, la végétation a pu renaître à certains endroits notamment sur les berges ce qui a stoppé l’érosion des rivières. Sans loup, l’écosystème va tendre vers un nouvel équilibre qui pourrait nous être défavorable notamment par la disparition progressive des rivières. Cet exemple permet d’illustrer les services indirects qu’un écosystème équilibré peut apporter.
 
@@ -81,7 +81,6 @@ Un exemple assez classique c’est les **loups du Parc du Yellowstone**. Après 
     src="/media/loup.jpg"
     alt="loup"
     title="Canis lupus"> 
-
 
 Les services écosystémiques sont nombreux : régulation du climat, cycle de l’eau, maintien des sols, régulation de la qualité de l’air, pollinisation, une source de savoir immense qui nous permet de développer de très nombreux progrès techniques, mais également une meilleure **résilience**.
 

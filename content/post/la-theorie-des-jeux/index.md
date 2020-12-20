@@ -1,7 +1,7 @@
 ---
 title: 'La Théorie des Jeux'
 subtitle: "Un concept mathématiques utile dans de nombreux domaines dont l'écologie."
-summary: "Cette théorie mathématiques à permis le développement du concept de stratégie évolutivement stable (SES). Ces notions sont ont apporté de nouveaux éclairage sur la dynamique évolutive."
+summary: "Cette théorie mathématiques à permis le développement du concept de stratégie évolutivement stable (SES). Ces notions ont apporté de nouveaux éclairages sur la dynamique évolutive."
 authors:
 - Miquel Pons
 

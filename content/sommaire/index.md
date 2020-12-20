@@ -104,7 +104,8 @@ A.	Construction, Urbanisation
 B.	Appauvrissement des sols  
 C.	Agroalimentaire - Déforestation  
 D.	La pêche  
-E.	Pollutions  
+E.  Aquaculture  
+F.	Pollutions  
 &nbsp;&nbsp;&nbsp;a.  Pollution sonore    
 &nbsp;&nbsp;&nbsp;b.	Pollution plastique/recyclage  
 &nbsp;&nbsp;&nbsp;c.	Pollution chimique  
