@@ -49,7 +49,7 @@ Vous avez déjà entendu cette phrase, c’est la loi de **conservation de la ma
 
 ### Les principes
 
-Les chimistes et physiciens ont observé et décrit des principes, tels que la loi de conservation de la masse, qui régissent la thermodynamique. 
+Les chimistes et physiciens ont observé et décrit des principes qui régissent la thermodynamique. 
 
 **L’équilibre thermique**
 
@@ -78,7 +78,7 @@ Ce principe établit le caractère irréversible des phénomènes physiques et n
     alt="schéma entropie"
     title=""> 
     
-Dans la nature un corps froid ne peut pas passer de lui-même du froid au chaud. C’est le principe de **l’entropie** mesurant le degré de désordre du système et son inévitable accroissement dans le temps. L’entropie est définie par Georgescu-Roege « une mesure de l'énergie inutilisable dans un système thermodynamique ».
+Dans la nature un corps froid ne peut pas passer de lui-même du froid au chaud. C’est le principe de **l’entropie** mesurant le degré de désordre du système et son inévitable accroissement dans le temps. Georgescu-Roege définie l’entropie comme « une mesure de l'énergie inutilisable dans un système thermodynamique ».
 
 Ce principe est plus délicat à envisager. Voici donc quelques exemples :
 
