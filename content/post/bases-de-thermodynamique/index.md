@@ -40,12 +40,12 @@ projects: []
 
 L’**énergie** est centrale dans la question climatique et géopolitique mondiale. Il est donc essentiel de la comprendre un minimum. 
 
-L’énergie est une mesure de la capacité d’un système à modifier un état. C’est le **mouvement**, la **chaleur** ou le **rayon électromagnétique** qui modifie et transforme. L’énergie est exprimée en **joules** ou en **kWh** (1 kilowatt-heure = 3,6 mégajoules).
+L’énergie est une mesure de la capacité d’un système à modifier un état. C’est le **mouvement**, la **chaleur** ou le **rayon électromagnétique** qui modifie et transforme. L’énergie est exprimée en **joules** ou en **kWh** (1 kilowatt-heure = 3,6 mégajoules). La puissance est exprimée en Watt (W). 1 watt = 1 joule / seconde.
 
 La **thermodynamique** est en physique la science qui étudie les phénomènes où interviennent les échanges thermiques tels que la transformation de l’énergie thermique en énergie mécanique.
 
 ***Rien ne se perd, rien ne se crée, tout se transforme.***
-Vous avez déjà entendu cette phrase, c’est la loi de **conservation de la masse**. On en attribut la paternité à Antoine Lavoisier, chimiste et philosophe. En bon chimiste, il a compris que lors d’une réaction chimique par exemple **« Ag+ + Cl- AgCl »**, à la fin de la réaction, les ions n’ont pas disparu et il n’en est pas apparu de nouveaux. La masse du produit de la réaction est la même que la masse des réactifs au départ. 
+Vous avez déjà entendu cette phrase, c’est la loi de **conservation de la masse**. On en attribut la paternité à Antoine Lavoisier, chimiste et philosophe. En bon chimiste, il a compris que lors d’une réaction chimique par exemple **« Ag+  +  Cl-  =  AgCl »**, à la fin de la réaction, les ions n’ont pas disparu et il n’en est pas apparu de nouveaux. La masse du produit de la réaction est la même que la masse des réactifs au départ. 
 
 ### Les principes
 
