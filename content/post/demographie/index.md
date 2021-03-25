@@ -41,7 +41,7 @@ projects: []
 L’augmentation exponentielle de la population induit un stress énorme sur la nature que ce soit par ses émissions de gaz à effets de serre et le réchauffement climatique, la prédation directe sur l’environnement, l’occupation des territoires tel que l’urbanisation, l’agriculture et les routes qui sillonnent une planète limitée en surface disponible ce qui détruit et fragmente les écosystèmes. 
 
 <img class="fit-picture" 
-    src="/media/"pop augmentation.png”
+    src="/media/pop augmentation.png”
     alt="augmentation exponentielle population"
     title="IEl T, Public domain, via Wikimedia CommonsPopulation_curve.svg">
 
@@ -51,7 +51,7 @@ Au rythme d’augmentation actuel, la Terre pourrait porter, 10 milliards d’ha
 Cependant des études récentes observent et prévoient une diminution de la fertilité essentiellement dûe à l’éducation des femmes, leur accès au travail et l’accès à la contraception. 
 
 <img class="fit-picture" 
-    src="/media/"fertilite.PNG”
+    src="/media/fertilite.PNG”
     alt="fertilité graph"
     title="Institute for Health Metrics and Evalutation at Université of Washington">
 
