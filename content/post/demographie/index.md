@@ -39,16 +39,11 @@ projects: []
 ### Constat
 
 L’augmentation exponentielle de la population induit un stress énorme sur la nature que ce soit par ses émissions de gaz à effets de serre et le réchauffement climatique, la prédation directe sur l’environnement, l’occupation des territoires tel que l’urbanisation, l’agriculture et les routes qui sillonnent une planète limitée en surface disponible ce qui détruit et fragmente les écosystèmes. 
-
-<img class="fit-picture" 
-    src="/media/pop augmentation.png”
-    alt="augmentation exponentielle population"
-    title="IEl T, Public domain, via Wikimedia CommonsPopulation_curve.svg">
     
 <img class="fit-picture" 
     src="/media/pop augmentation.png"
     alt="augmentation exponentielle population"
-    title="wikipedia">
+    title="wikimedia">
 
 Au rythme d’augmentation actuel, la Terre pourrait porter, 10 milliards d’habitants en 2050, 11 milliards en 2100 ce qui pousse de nombreuses personnes à considérer la démographie comme le problème principal de l’humanité. 
 
