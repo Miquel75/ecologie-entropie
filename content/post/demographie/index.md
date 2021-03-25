@@ -44,17 +44,21 @@ L’augmentation exponentielle de la population induit un stress énorme sur la 
     src="/media/pop augmentation.png”
     alt="augmentation exponentielle population"
     title="IEl T, Public domain, via Wikimedia CommonsPopulation_curve.svg">
-
+    
+<img class="fit-picture" 
+    src="/media/pop augmentation.png"
+    alt="augmentation exponentielle population"
+    title="wikipedia">
 
 Au rythme d’augmentation actuel, la Terre pourrait porter, 10 milliards d’habitants en 2050, 11 milliards en 2100 ce qui pousse de nombreuses personnes à considérer la démographie comme le problème principal de l’humanité. 
 
 Cependant des études récentes observent et prévoient une diminution de la fertilité essentiellement dûe à l’éducation des femmes, leur accès au travail et l’accès à la contraception. 
-
+    
 <img class="fit-picture" 
-    src="/media/fertilite.PNG”
+    src="/media/fertilite.PNG"
     alt="fertilité graph"
     title="Institute for Health Metrics and Evalutation at Université of Washington">
-
+    
 Un pays comme le Japon avec un taux de vieillissement exceptionnel devrait voir sa population de 126 millions en 2020 décroitre jusqu’à 60 millions en 2100. Une étude publiée par Lancet prévoit une augmentation de la population mondiale jusqu’à un pic de 9.73 milliards en 2064 puis un déclin progressif pour atteindre 8.8 milliards en 2100.
 
 ### Limiter la population
