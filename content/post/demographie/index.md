@@ -35,7 +35,6 @@ projects: []
 
 ---
 
-La démographie
 
 ### Constat
 
@@ -70,7 +69,7 @@ Thomas Robert Malthus, un économiste de la fin du XVIIIe, théorisait que l’a
 La limitation des naissances a déjà été appliquée et les résultats présentent de nombreuses conséquences : infanticides, avortement sélectif, déséquilibre garçon-fille et vieillissement de la population. 
 La reproduction étant l’instinct le plus ancré du vivant, le sujet est sensible, la mesure de limitation de naissance difficilement acceptable. De plus ce genre de politique n’aurait pas d’impact sur les crises actuelles, climatique et du vivant, puisqu’elle nécessite une génération au moins pour commencer à montrer des effets. Une étude de l’université de Stanford a estimé qu’une politique enfant unique à l’échelle mondiale résulterait à une population équivalente à aujourd’hui d’ici à 2100. Le réchauffement climatique et la destruction de la biodiversité sont des problèmes immédiats pour lesquels il faut trouver des solutions sur le court terme.
 
-### La question démographique et les inégalités.
+### Démographie et inégalité
 
 <img class="fit-picture" 
     src="/media/1384-courrier_huella_bis.jpg"
@@ -91,7 +90,7 @@ Faire de la démographie le seul et principal problème montre que l’on n’a 
 En France le taux de natalité d’induit pas d’augmentation de la population, mais simplement un maintien. Donc la question ne se pose finalement que très peu dans la plupart des pays occidentaux. Le débat de la démographie concerne surtout les pays ou la démographie explose. Il ne nous appartient pas de décider pour eux de leur politique de natalité. Cependant, flécher les aides au développement vers l’éducation, l’empowerment des femmes et la contraception seraient des méthodes éthiques pour limiter la fécondité et la croissance démographique mondiale comme le propose de nombreux chercheur dont Gaël Giraud, ancien chef économiste de l’Agence Française de Développement.
 
 
-REFERENCES
+### REFERENCES
 
 Bradshaw CJA, Brook BW (2014) Human population reduction is not a quick fix for environmental problems. Proc Natl Acad Sci USA 111:16610–16615. doi: 10.1073/pnas.1410465111
 
