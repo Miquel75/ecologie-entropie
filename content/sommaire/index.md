@@ -138,7 +138,7 @@ C.	ASN UNSCEAR et le GIECC a propos du nucléaire
 #	<span style="background:#4ddfff">ÉCOLOGIE POLITIQUE</span>    
 13.	**Organisation globale – État des lieux**  
 A.	Capitalisme: outil d'accumulation de l'énergie  
-B.	Démographie   
+B.	<a href="https://ecologieetentropie.netlify.app/post/demographie/">Démographie</a>   
 C.	Alimentation  
 D.	Numérique(5G)   
 E.	Transports  
