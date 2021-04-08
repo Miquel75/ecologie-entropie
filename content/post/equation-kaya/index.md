@@ -150,7 +150,7 @@ Le **taux de croissance** du renouvelable est cependant très élevé puisque ce
 
 L’équation de Kaya ne tient pas compte de tout. C’est une **simplification** extrême de la réalité et elle doit donc être prise avec précaution. Elle ne tient pas compte de l’**hétérogénéité** des différentes régions du monde et les paramètres ne sont **pas indépendants** les uns des autres. Par exemple plus d’efficacité énergétique peut conduire à une augmentation des émissions de CO2 par <a href="https://ecologieetentropie.netlify.app/post/effet-rebond">effet rebond </a>.
 
-Si elle n’est pas exacte, l’équation de Kaya permet tout de même de lier le CO2 à l’économie et à la politique, de se faire une idée de la difficulté du problème qui nous est posé et de réaliser dans quel ordre de grandeur la réponse actuelle est insuffisante.
+Si l’équation de Kaya est une **tautologie** elle permet néanmoins d'appréhender les ordres de grandeurs pouvant entrer en jeu lorsque l'on relie les émissions de CO2 à l’économie et à la politique et de se faire une idée de la difficulté du problème qui nous est posé.
 
 ### REFERENCES
 

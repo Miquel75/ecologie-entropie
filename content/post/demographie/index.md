@@ -1,7 +1,7 @@
 ---
 title: 'La Démographie'
 subtitle: ""
-summary: "La démographie est-elle vraiment un problème ?"
+summary: "La démographie est-elle LE problème ?"
 authors:
 - Miquel Pons
 
