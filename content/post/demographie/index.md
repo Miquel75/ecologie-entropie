@@ -1,7 +1,7 @@
 ---
 title: 'La Démographie'
-subtitle: ""
-summary: "La démographie est-elle LE problème ?"
+subtitle: "La démographie est-elle LE problème ?"
+summary: "Souvent pointé du doigt comme le principal problème de l'humanité, l'augmentation de la population pose la question de la limite des ressources."
 authors:
 - Miquel Pons
 
